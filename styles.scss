@@ -134,6 +134,13 @@ body {
   #about-particles {
     display: none;
   }
+
+  #about .profile,
+  #about .bio > p,
+  #about .bio-meta,
+  #about .avatar {
+    animation: none;
+  }
 }
 
 .navbar-toggler {
@@ -406,6 +413,7 @@ body:has(#about) .page-columns {
   height: 220px;
   margin-bottom: 1.5rem;
   box-shadow: 0 0 0 6px rgba(37, 99, 235, 0.06), 0 18px 48px rgba(37, 99, 235, 0.14);
+  animation: avatar-halo 1.35s cubic-bezier(0.19, 1, 0.22, 1) 0.05s both;
 }
 
 #about .portrait-title .portrait-name {
@@ -415,6 +423,58 @@ body:has(#about) .page-columns {
 #about .portrait-title .role,
 #about .portrait-title .org {
   font-size: 1.25rem;
+}
+
+@keyframes bio-reveal {
+  0% {
+    opacity: 0;
+    transform: translateY(1.1rem);
+    filter: blur(7px) brightness(1.4);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0) brightness(1);
+  }
+}
+
+@keyframes avatar-halo {
+  0% {
+    box-shadow:
+      0 0 0 14px rgba(37, 99, 235, 0),
+      0 0 40px 8px rgba(255, 255, 255, 0),
+      0 18px 48px rgba(37, 99, 235, 0);
+  }
+  42% {
+    box-shadow:
+      0 0 0 10px rgba(37, 99, 235, 0.1),
+      0 0 52px 18px rgba(191, 219, 254, 0.55),
+      0 18px 48px rgba(37, 99, 235, 0.2);
+  }
+  100% {
+    box-shadow: 0 0 0 6px rgba(37, 99, 235, 0.06), 0 18px 48px rgba(37, 99, 235, 0.14);
+  }
+}
+
+#about .profile,
+#about .bio > p,
+#about .bio-meta {
+  animation: bio-reveal 1.15s cubic-bezier(0.19, 1, 0.22, 1) both;
+}
+
+#about .profile {
+  transform-origin: center top;
+  animation-delay: 0.05s;
+}
+
+#about .bio > p {
+  transform-origin: left center;
+  animation-delay: 0.5s;
+}
+
+#about .bio-meta {
+  transform-origin: left center;
+  animation-delay: 0.95s;
 }
 
 #about .bio-heading {
