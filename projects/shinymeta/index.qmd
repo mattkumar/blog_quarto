@@ -1,0 +1,32 @@
+---
+title: shinyMeta
+date: '2023-11-30'
+description: An example of using shinyMeta to recreate a plot designed in a shiny
+  app
+categories:
+- shiny
+- shinyMeta
+image: featured.jpg
+format:
+  html:
+    title-block-banner: featured.jpg
+---
+
+
+::: {.page-links}
+<a class="page-link" href="https://visard.shinyapps.io/shinymeta-ex/"><i class="bi bi-r-circle"></i><span>View App</span></a>
+<a class="page-link" href="https://github.com/mattkumar/shinymeta-ex"><i class="bi bi-github"></i><span>View Repo</span></a>
+<a class="page-link" href="https://github.com/mattkumar/blog/raw/main/content/event/phuse_os_2023/PAP_OS10.pdf"><i class="bi bi-box-arrow-up-right"></i><span>View Slides</span></a>
+<a class="page-link" href="https://github.com/mattkumar/blog/raw/main/content/event/phuse_os_2023/PRE_OS10.pptx"><i class="bi bi-file-earmark-pdf"></i><span>View PDF</span></a>
+:::
+
+
+<h2>...catching Up</h2>
+
+This is sort of an overdue post 😊
+
+I'm now sharing the supporting app to my talk on <strong>Reproducibility of Interactive Analyses</strong>, which I presented at [Phuse US Connect 2023](https://phuse.global/) earlier this year. 
+
+Links to the original slides and accompanying paper are found up above ☝
+
+Till next time 🍻✌

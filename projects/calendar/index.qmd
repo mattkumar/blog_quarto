@@ -1,0 +1,42 @@
+---
+title: React Calendar
+date: '2020-11-04'
+description: An reactable-based calendar and a whole lot of javascript and CSS
+categories:
+- Shiny
+- Data Visualization
+- Contest
+- Table
+- JS
+- CSS
+image: featured.jpg
+format:
+  html:
+    title-block-banner: featured.jpg
+---
+
+
+::: {.page-links}
+<a class="page-link" href="https://visard.shinyapps.io/react_calendar/"><i class="bi bi-link-45deg"></i><span>View Demo</span></a>
+<a class="page-link" href="https://github.com/mattkumar/react_calendar"><i class="bi bi-github"></i><span>View Repo</span></a>
+<a class="page-link" href="https://community.rstudio.com/t/a-reactable-based-calendar-table-contest-submission/86582"><i class="bi bi-r-circle"></i><span>R-Studio Contest</span></a>
+:::
+
+
+The following project was a second entry into the first R Studio table contest held in 2020.
+
+I don't even know where to start with this one. I was looking at creative uses of a table and I landed on the idea of using a table as a calendar. 
+
+At the same time, I was really into figuring out how to incorporate custom CSS into shiny. I had found this awesome 8-bit inspired CSS library and immediately wanted to use it. You can view it [here.](https://nostalgic-css.github.io/NES.css/)
+
+Building on my previous experience of the `reactable` package (and custom JS), I kind of went HAM on this one:
+
+- In addition to the custom bezel, added animated gifs from the super mario games
+
+- Added (borrwed) JS code to give the particle effect of snow falling (it was December afterall!)
+
+- Using JS, set custom modals on certain dates to mimic the feel of a calendar invite in Outlook. These are also stylized to match the overall aesthetic.
+
+![NAR Table](screencap.gif)
+
+

@@ -1,0 +1,15 @@
+---
+title: NarromaticAI
+date: '2024-09-17'
+description: Supporting the Medical Writing process with R, Shiny and GenAI
+location: R/Pharma Generative AI Day
+image: featured.jpg
+---
+
+
+::: {.page-links}
+<a class="page-link" href="https://github.com/mattkumar/blog/raw/main/content/event/rpharma/NarromaticAI.pdf"><i class="bi bi-link-45deg"></i><span>View Presentation</span></a>
+<a class="page-link" href="https://www.youtube.com/watch?app=desktop&v=0XDVYdyuNGc&ab_channel=RinPharma"><i class="bi bi-play-circle"></i><span>Watch video</span></a>
+:::
+
+

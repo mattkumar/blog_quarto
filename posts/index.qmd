@@ -1,0 +1,33 @@
+---
+pagetitle: "Posts · Matthew Kumar"
+listing:
+  id: posts-list
+  contents: "*/index.qmd"
+  type: custom
+  template: ../ejs/compact.ejs
+  sort: "date desc"
+  date-format: "MMM D, YYYY"
+page-layout: full
+toc: false
+format:
+  html:
+    page-layout: full
+    toc: false
+    title-block-style: none
+---
+
+::::: {.home-section}
+:::: {.home-grid}
+
+::: {.section-heading}
+<p class="section-title"><i class="bi bi-journal-text"></i> Posts</p>
+<p class="section-kicker">musings, snippets, throwaways</p>
+:::
+
+:::: {.section-body}
+::: {#posts-list}
+:::
+::::
+
+::::
+:::::

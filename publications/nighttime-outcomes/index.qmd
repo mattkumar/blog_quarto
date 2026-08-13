@@ -1,0 +1,14 @@
+---
+title: Outcomes of Daytime Procedures Performed by Attending Surgeons after Night
+  Work
+date: '2015-08-21'
+author: Govindarajan A, Urbach D, Kumar M, Li Q, Murray BJ, Juurlink D, Kennedy E,
+  Gagliardi A, Sutradhar R, Baxter NN
+publication: New England Journal of Medicine, 373(9)
+doi: 10.1056/NEJMsa1415994
+url_pdf: https://www.nejm.org/doi/pdf/10.1056/NEJMsa1415994?articleTools=true
+---
+
+::: {.page-links}
+<a class="page-link" href="https://www.nejm.org/doi/pdf/10.1056/NEJMsa1415994?articleTools=true"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+:::

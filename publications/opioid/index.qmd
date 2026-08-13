@@ -1,0 +1,14 @@
+---
+title: Time trends in opioid prescribing among Ontario long-term care residents -
+  a repeated cross-sectional study
+date: '2019-09-21'
+author: Iaboni A, Campitelli MA, Bronskill SE, Diong C, Kumar M, Maclagan L, Gomes
+  T, Tadorus M, Maxwell CJ
+publication: Canadian Medical Association Journal Open, 7(3)
+doi: 10.9778/cmajo.20190052
+url_pdf: https://www.cmajopen.ca/content/cmajo/7/3/E582.full-text.pdf
+---
+
+::: {.page-links}
+<a class="page-link" href="https://www.cmajopen.ca/content/cmajo/7/3/E582.full-text.pdf"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+:::

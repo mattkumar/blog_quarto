@@ -1,0 +1,15 @@
+---
+title: Behavioral Nudges to Improve Audit and Feedback Report Opening Among Antibiotic
+  Prescribers A Randomized Controlled Trial
+date: '2022-03-02'
+author: Daneman N, Lee S, Bai H, Bell C, Bronskill SE, Campitelli MA, Dobell G, Fu
+  L, Garber G, Ivers N, Kumar M, Lam J, Langford B, Laur C, Morris A, Mulhall C, Pinto
+  R, Saxena FE, Schwartz, Brown K
+publication: Open Forum Infectious Diseases, 9(5)
+doi: 10.1093/ofid/ofac111
+url_pdf: https://academic.oup.com/ofid/article-pdf/9/5/ofac111/43288666/ofac111.pdf
+---
+
+::: {.page-links}
+<a class="page-link" href="https://academic.oup.com/ofid/article-pdf/9/5/ofac111/43288666/ofac111.pdf"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+:::

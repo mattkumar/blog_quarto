@@ -1,0 +1,28 @@
+---
+title: Visual Abstracts
+date: '2019-01-13'
+description: Create a visual abstract to highlight your original research.
+categories: Data Visualization
+image: featured.jpg
+format:
+  html:
+    title-block-banner: featured.jpg
+---
+
+
+::: {.page-links}
+<a class="page-link" href="https://matt-kumar.shinyapps.io/visabs"><i class="bi bi-link-45deg"></i><span>View App</span></a>
+<a class="page-link" href="https://www.rstudio.com/blog/first-shiny-contest-winners/"><i class="bi bi-r-circle"></i><span>Shiny Contest</span></a>
+<a class="page-link" href="https://cran.rstudio.com/web/packages/abstractr/index.html"><i class="bi bi-r-circle"></i><span>CRAN</span></a>
+:::
+
+
+The idea of 'Visual Abstracts' have recently become popular and are particularly efficient in distilling the main findings of original research.
+
+I wanted to create an application that enabled users (or non programmers in general) to create nice visual summaries for their research projects they could share over social media. I've added a fair bit of control and customization in the application mostly related to layout and aesthetics.
+
+This project was entered into the first ever (2019) Shiny Competition hosted by R Studio and received an honorable mention. You can view the original blog entry [here.](https://www.rstudio.com/blog/first-shiny-contest-winners/)
+
+I also ended up turning this app into a package, which can be installed locally on your machine from [CRAN.](https://cran.rstudio.com/web/packages/abstractr/index.html)
+
+>`install.packages("abstractr")`

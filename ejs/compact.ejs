@@ -1,0 +1,18 @@
+<%
+function itemDir(item) {
+  var base = String(item.path || "");
+  base = base.replace(/index\.(html|qmd)$/i, "");
+  if (!base.endsWith("/")) base += "/";
+  return base;
+}
+function itemImage(item) {
+  if (!item.image) return null;
+  var img = item.image;
+  if (Array.isArray(img)) img = img[0];
+  if (typeof img === "object" && img !== null) img = img.src || img.filename || "";
+  if (!img) return null;
+  if (String(img).startsWith("http")) return img;
+  return itemDir(item) + String(img).split("/").pop();
+}
+%>
+<div class="stream-list"><% items.forEach(function(item) { %><% const thumb = itemImage(item); %><article class="stream-item<% if (thumb) { %> has-thumb<% } %>"><% if (thumb) { %><div class="stream-thumb"><img src="<%- thumb %>" alt="" loading="lazy"></div><% } %><div class="stream-body"><div class="stream-title"><a href="<%- item.path %>" class="stretched-link"><%= item.title %></a></div><% if (item.description) { %><p class="stream-excerpt"><%= item.description %></p><% } %><div class="stream-meta"><% if (item.date) { %><span><i class="bi bi-calendar3"></i> <%= item.date %></span><% } %><% if (item.location) { %><span class="sep">·</span><span><i class="bi bi-geo-alt"></i> <%= item.location %></span><% } %><% if (item.categories && item.categories.length) { %><span class="sep">·</span><span><i class="bi bi-tag"></i> <%= item.categories.join(", ") %></span><% } %></div></div></article><% }) %></div>

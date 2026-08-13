@@ -1,0 +1,14 @@
+---
+title: Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based
+  time series analysis
+date: '2021-05-21'
+author: Yan M, Saxena F, Calzavara A, Brown K, Garber G, Gershon A, Johnstone J, Kumar
+  M, Langford B, Lee S, Schwartz K, Daneman N
+publication: Canadian Medical Association Journal Open, 9(2)
+doi: 10.9778/cmajo.20200157
+url_pdf: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8177912/pdf/cmajo.20200157.pdf
+---
+
+::: {.page-links}
+<a class="page-link" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8177912/pdf/cmajo.20200157.pdf"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+:::

@@ -1,0 +1,15 @@
+---
+title: Validation of a type 1 diabetes algorithm using electronic medical records
+  and administrative healthcare data to study the population incidence and prevalence
+  of type 1 diabetes in Ontario, Canada
+date: '2020-06-08'
+author: Weisman A, Tu K, Young J, Kumar M, Austin PC, Jaakkimainen L, Lipscombe L,
+  Aronson R, Booth G
+publication: BMJ Open Diabetes Res Care 8(1)
+doi: 10.1136/bmjdrc-2020-001224
+url_pdf: https://drc.bmj.com/content/bmjdrc/8/1/e001224.full.pdf
+---
+
+::: {.page-links}
+<a class="page-link" href="https://drc.bmj.com/content/bmjdrc/8/1/e001224.full.pdf"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+:::

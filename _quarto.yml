@@ -1,0 +1,65 @@
+project:
+  type: website
+  output-dir: _site
+  resources:
+    - assets/avatar.jpg
+  render:
+    - index.qmd
+    - posts/*/index.qmd
+    - projects/*/index.qmd
+    - talks/*/index.qmd
+    - publications/*/index.qmd
+    - posts/index.qmd
+    - projects/index.qmd
+    - talks/index.qmd
+    - publications/index.qmd
+
+website:
+  title: Matthew Kumar
+  description: Associate Director, Lead Computational Scientist
+  navbar:
+    background: light
+    foreground: body
+    pinned: true
+    search: false
+    left:
+      - text: About
+        href: index.qmd#about
+      - text: Projects
+        href: projects/index.qmd
+      - text: Blog
+        href: posts/index.qmd
+      - text: Talks
+        href: talks/index.qmd
+      - text: Publications
+        href: publications/index.qmd
+  page-footer:
+    left: "© 2026 Matthew Kumar"
+    right: "Built with Quarto"
+  search: false
+  reader-mode: false
+  back-to-top-navigation: false
+
+format:
+  html:
+    theme: styles.scss
+    highlight-style: github
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true
+    email-obfuscation: javascript
+    grid:
+      body-width: 1760px
+      margin-width: 220px
+      sidebar-width: 250px
+      gutter-width: 1.5rem
+    include-in-header:
+      - assets/includes/in-header.html
+    include-after-body:
+      - assets/includes/after-body.html
+
+execute:
+  freeze: auto
+  warning: false
+  message: false

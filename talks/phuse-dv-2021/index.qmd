@@ -1,0 +1,15 @@
+---
+title: Table-based Data Visualizations using R
+date: '2021-06-14'
+description: Exploring the use of table-based data visualizations in clinical trials
+location: PhUSE US Connect 2021
+image: featured.jpg
+---
+
+
+::: {.page-links}
+<a class="page-link" href="https://www.lexjansen.com/phuse-us/2021/dv/PRE_DV08.pdf"><i class="bi bi-link-45deg"></i><span>View Presentation</span></a>
+:::
+
+
+ 

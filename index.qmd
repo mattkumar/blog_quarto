@@ -1,0 +1,189 @@
+---
+pagetitle: "Matthew Kumar"
+listing:
+  - id: home-projects
+    contents: projects/*/index.qmd
+    type: custom
+    template: ejs/cards.ejs
+    sort: "date desc"
+    date-format: "MMM YYYY"
+    max-items: 6
+  - id: home-posts
+    contents: posts/*/index.qmd
+    type: custom
+    template: ejs/compact.ejs
+    sort: "date desc"
+    date-format: "MMM D, YYYY"
+    max-items: 5
+  - id: home-talks
+    contents: talks/*/index.qmd
+    type: custom
+    template: ejs/compact.ejs
+    sort: "date desc"
+    date-format: "MMM D, YYYY"
+    max-items: 5
+  - id: home-pubs
+    contents: publications/*/index.qmd
+    type: custom
+    template: ejs/citation.ejs
+    sort: "date desc"
+    date-format: "YYYY"
+page-layout: full
+toc: false
+format:
+  html:
+    page-layout: full
+    toc: false
+    title-block-style: none
+    anchor-sections: false
+---
+
+:::::: {#about .home-section}
+::::: {.about-grid}
+
+:::: {.profile}
+```{=html}
+<div class="avatar"><img src="assets/avatar.jpg" alt="Matthew Kumar"></div>
+```
+
+::: {.portrait-title}
+<p class="portrait-name">Matthew Kumar</p>
+<span class="role">Associate Director, Lead Computational Scientist</span>
+<span class="org">[Bayer](https://www.bayer.com/en/)</span>
+:::
+
+```{=html}
+<ul class="network-icons" aria-label="Social links">
+  <li><a class="icon-email" href="mailto:mattkumar@gmail.com" aria-label="Email"><i class="bi bi-envelope"></i></a></li>
+  <li><a class="icon-github" href="https://github.com/mattkumar" aria-label="GitHub"><i class="bi bi-github"></i></a></li>
+  <li><a class="icon-linkedin" href="https://ca.linkedin.com/in/matthew-kumar-24910629" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a></li>
+  <li><a class="icon-x" href="https://twitter.com/mattkumar_" aria-label="X"><i class="bi bi-twitter-x"></i></a></li>
+</ul>
+```
+::::
+
+:::: {.bio}
+<p class="bio-heading"><i class="bi bi-person-lines-fill"></i> Biography</p>
+
+I'm currently an Associate Director, Lead Computational Scientist with over 10 years experience in statistical methods, programming and data visualization across multiple industries. My main weapons of choice are R, Shiny, git, and python for descriptive and inferential analyses, creating custom reports or dashboard solutions and building interactive web applications.
+
+My formal education includes an MSc in Biostatistics from the University of Toronto and an Honor's B.A. in Psychology from York University. I have taken a number of courses and workshops related to advanced analytics, software development and computing. I am a strong proponent of continuing education, self-learning and early adoption & experimentation. My current pursuits are learning cloud technologies such as Azure, and building robust applications around large language models (LLMs).
+
+I currently live in Toronto, Ontario with my loving wife and mini labradoodle.
+
+<br>
+<br>
+
+::: {.bio-meta}
+::: {.interests}
+<p class="bio-heading"><i class="bi bi-stars"></i> Interests</p>
+
+```{=html}
+<ul class="ul-interests">
+  <li><i class="bi bi-code-slash"></i> R, Shiny Development</li>
+  <li><i class="bi bi-graph-up"></i> Statistical Methods</li>
+  <li><i class="bi bi-bar-chart"></i> Data Visualization</li>
+  <li><i class="bi bi-palette"></i> UI and UX</li>
+</ul>
+```
+:::
+
+::: {.education}
+<p class="bio-heading"><i class="bi bi-mortarboard"></i> Education</p>
+
+```{=html}
+<ul class="ul-edu">
+  <li>
+    <span class="mark"><i class="bi bi-mortarboard-fill"></i></span>
+    <div>
+      <p class="course">MSc in Biostatistics, 2012</p>
+      <p class="institution">University of Toronto</p>
+    </div>
+  </li>
+  <li>
+    <span class="mark"><i class="bi bi-mortarboard-fill"></i></span>
+    <div>
+      <p class="course">Specialized Honor's BA in Psychology, 2009</p>
+      <p class="institution">York University</p>
+    </div>
+  </li>
+</ul>
+```
+:::
+:::
+::::
+
+:::::
+::::::
+
+::::: {#projects .home-section}
+:::: {.home-grid}
+
+::: {.section-heading}
+<p class="section-title"><i class="bi bi-briefcase"></i> Portfolio</p>
+<p class="section-kicker">ideas, prototypes, full-blown projects</p>
+:::
+
+:::: {.section-body}
+::: {#home-projects}
+:::
+
+<a href="projects/" class="see-all">See all projects <i class="bi bi-arrow-right"></i></a>
+::::
+
+::::
+:::::
+
+::::: {#posts .home-section}
+:::: {.home-grid}
+
+::: {.section-heading}
+<p class="section-title"><i class="bi bi-journal-text"></i> Recent Posts</p>
+<p class="section-kicker">musings, snippets, throwaways</p>
+:::
+
+:::: {.section-body}
+::: {#home-posts}
+:::
+
+<a href="posts/" class="see-all">See all posts <i class="bi bi-arrow-right"></i></a>
+::::
+
+::::
+:::::
+
+::::: {#talks .home-section}
+:::: {.home-grid}
+
+::: {.section-heading}
+<p class="section-title"><i class="bi bi-easel"></i> Presentations</p>
+<p class="section-kicker">tutorials, conferences and other presentations</p>
+:::
+
+:::: {.section-body}
+::: {#home-talks}
+:::
+
+<a href="talks/" class="see-all">See all talks <i class="bi bi-arrow-right"></i></a>
+::::
+
+::::
+:::::
+
+::::: {#publications .home-section}
+:::: {.home-grid}
+
+::: {.section-heading}
+<p class="section-title"><i class="bi bi-journal-medical"></i> Publications</p>
+<p class="section-kicker">academic works as a biostatistician</p>
+:::
+
+:::: {.section-body}
+::: {#home-pubs}
+:::
+
+<a href="publications/" class="see-all">See all publications <i class="bi bi-arrow-right"></i></a>
+::::
+
+::::
+:::::

@@ -1,0 +1,33 @@
+---
+pagetitle: "Publications · Matthew Kumar"
+listing:
+  id: pubs-list
+  contents: "*/index.qmd"
+  type: custom
+  template: ../ejs/citation.ejs
+  sort: "date desc"
+  date-format: "YYYY"
+page-layout: full
+toc: false
+format:
+  html:
+    page-layout: full
+    toc: false
+    title-block-style: none
+---
+
+::::: {.home-section}
+:::: {.home-grid}
+
+::: {.section-heading}
+<p class="section-title"><i class="bi bi-journal-medical"></i> Publications</p>
+<p class="section-kicker">academic works as a biostatistician</p>
+:::
+
+:::: {.section-body}
+::: {#pubs-list}
+:::
+::::
+
+::::
+:::::

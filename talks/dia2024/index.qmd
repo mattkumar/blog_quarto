@@ -1,0 +1,17 @@
+---
+title: Data Insight Generation
+date: '2024-06-17'
+description: Leveraging Data Visualization in Study Planning, Monitoring, Exploration,
+  Reporting and Submission
+location: DIA 2024 Global annual Meeting
+image: featured.jpg
+---
+
+
+::: {.page-links}
+<a class="page-link" href="https://github.com/mattkumar/blog/raw/main/content/event/phuse_os_2023/PRE_OS10.pptx"><i class="bi bi-link-45deg"></i><span>View Presentation</span></a>
+:::
+
+
+
+ 

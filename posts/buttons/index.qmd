@@ -1,0 +1,74 @@
+---
+title: tweaking shiny actionButton
+date: '2022-06-16'
+description: Changing shiny::actionButton() so links open in a new window instead of navigating away from the app.
+---
+
+
+The default behavior in `shiny::actionButton()` is to open a web link in the *current* window. This approach has two potential implications for user-experience:
+
+1.  The current progress within the shiny app will be lost; clicking 🔙 on your browser will reload the app 😭
+2.  This can (independent of #1) inadvertently divert users away from your app 🏃️💨
+
+<center>
+⬇️⬇️⬇️ See for yourself ⬇️⬇️⬇️
+<br>
+<br>
+```{r, eval = FALSE, echo = F}
+shiny::actionButton('btn0','Click Me!', class = "btn-warning", onclick='alert("Just kidding! Youre not going anywhere!")')
+```                    
+</center>
+
+<br> <br>
+
+So what can we do?
+
+✖️ Do nothing. Leave it as is and let all the hard work you put into the app be overshadowed by the site your are linking to.
+
+✔️ Make the link open in a new tab or window.
+
+✔️ Force the link to open in a new window.
+
+The distinction between the two latter choices boils down to a users default browser settings. If you use Chrome like me, opening a link (designed to open in a tab or new window) defaults to opening it in a new tab. For you, it *might* open in a new window. Who knows? 🎱
+
+If you really need the link to open in a separate window, luckily with a little elbow grease we can make that a sure thing.🎯 We just need to explicitly specify the window `height` and `width`. You can also pass `fullscreen=1` to make the new window, well, full screen. See the code snippet below.
+
+> ⚠️Opening links in a new window may result in getting dinged by an ad-blocker. This is because the so-called new window is more of a pop-up rather than it being a truly new window (i.e. `CTRL + N`).
+
+Thank you [iqis](https://github.com/iqis) for pointing out that! 👽️
+
+Below, I have three buttons and their corresponding code you might use in a shiny app. It's pretty straight forward so I'll end with saying keep user-experience front and center in your design! ✌🍻
+
+```{r, echo = T, eval = F}
+# Default - current
+shiny::actionButton('btn1',
+                    'Current Window',
+                    onclick ="location.href='http://google.com';")
+
+# New tab or window  
+shiny::actionButton('btn2',
+                    'New Window or Tab', 
+                    onclick ="window.open('http://google.com', '_blank')")
+
+# New window
+shiny::actionButton('btn3',
+                    'New Window', 
+                    onclick ="window.open('http://google.com', '_blank','width=800,height=800')")
+```
+
+```{r, echo = F, eval = T}
+shiny::actionButton('btn1',
+                    'Current Window',
+                    class = "btn btn-danger btn-lg  btn-huge",
+                    onclick ="location.href='http://google.com';")
+shiny::HTML('&nbsp;')
+shiny::actionButton('btn2',
+                    'New Window or Tab', 
+                    class = "btn btn-warning btn-lg  btn-huge",
+                    onclick ="window.open('http://google.com', '_blank')")
+shiny::HTML('&nbsp;')
+shiny::actionButton('btn3',
+                    'New Window', 
+                    class = "btn btn-success btn-lg  btn-huge",
+                    onclick ="window.open('http://google.com', '_blank','width=800,height=800')")
+```

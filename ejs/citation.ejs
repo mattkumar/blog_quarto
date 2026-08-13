@@ -1,0 +1,9 @@
+<%
+function authorName(a) {
+  if (!a) return "";
+  if (typeof a === "string") return a;
+  if (Array.isArray(a)) return a.map(authorName).join(", ");
+  return a.name || a.literal || "";
+}
+%>
+<div class="citation-list"><% items.forEach(function(item) { %><% const authors = authorName(item.author); %><article class="citation-item"><div class="citation-row"><p class="citation-text"><% if (authors) { %><%= authors %><% } %><% if (item.date) { %> (<%= String(item.date).replace(/^.*(\d{4}).*$/, "$1") %>).<% } %> <a href="<%- item.path %>"><%= item.title %></a>.<% if (item.publication) { %> <span class="venue"><%= item.publication %></span>.<% } %><% if (item.doi) { %> <a class="doi" href="https://doi.org/<%= item.doi %>"><i class="bi bi-journal-medical"></i> doi:<%= item.doi %></a><% } %></p><% if (item.url_pdf) { %><a class="citation-pdf" href="<%- item.url_pdf %>" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a><% } %></div></article><% }) %></div>

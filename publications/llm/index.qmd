@@ -1,0 +1,12 @@
+---
+title: Deterministic Foundations, AI Acceleration - Lessons from Developing Hybrid
+  Clinical Review Tools
+date: '2026-03-24'
+author: Kumar M, Srinivas Veeragoni
+publication: Phuse US Connect 2026(ML-20)
+url_pdf: https://phuse.s3.eu-central-1.amazonaws.com/Archive/2026/Connect/US/Austin/PAP_ML20.pdf
+---
+
+::: {.page-links}
+<a class="page-link" href="https://phuse.s3.eu-central-1.amazonaws.com/Archive/2026/Connect/US/Austin/PAP_ML20.pdf"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+:::

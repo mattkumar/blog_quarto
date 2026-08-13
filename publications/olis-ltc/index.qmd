@@ -1,0 +1,14 @@
+---
+title: Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based
+  time series analysis
+date: '2018-07-21'
+author: Campitelli MA, Kumar M, Greenberg A, ICES/HQO Ontario Laboratory Information
+  System Working Group
+publication: Healthcare Quarterly, 6(2)
+doi: 10.12927/hcq.2018.25630
+url_pdf: https://www.longwoods.com/product/download/code/25630
+---
+
+::: {.page-links}
+<a class="page-link" href="https://www.longwoods.com/product/download/code/25630"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+:::

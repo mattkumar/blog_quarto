@@ -1,0 +1,6 @@
+freeze: auto
+
+format:
+  html:
+    page-layout: article
+    toc: false

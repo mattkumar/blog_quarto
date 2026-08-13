@@ -1,0 +1,8 @@
+---
+title: Implementation of a Physician Incentive Program for 18-Month Developmental
+  Screening in Ontario, Canada
+date: '2020-08-01'
+author: Guttmann A, Saunders NR, Kumar M, Gandhi S, Diong C, MacCon K, Cairney J
+publication: BMJ Open Diabetes Res Care 8(1)
+doi: 10.1016/j.jpeds.2020.03.016
+---

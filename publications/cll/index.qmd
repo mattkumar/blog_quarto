@@ -1,0 +1,13 @@
+---
+title: The association of dyslipidemia with Chronic Lymphocytic Leukemia - a population-based
+  study
+date: '2016-10-21'
+author: Mozessohn L, Earle C, Spaner D, Cheng SY, Kumar M, Buckstein R
+publication: Journal of the National Cancer Institute, 109(3)
+doi: 10.1093/jnci/djw226
+url_pdf: https://academic.oup.com/jnci/article-pdf/109/3/djw226/17500661/djw226.pdf
+---
+
+::: {.page-links}
+<a class="page-link" href="https://academic.oup.com/jnci/article-pdf/109/3/djw226/17500661/djw226.pdf"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+:::

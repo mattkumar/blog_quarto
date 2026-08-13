@@ -1,0 +1,115 @@
+<script>
+(function () {
+  var links = document.querySelectorAll(".navbar-nav .nav-item .nav-link");
+  if (!links.length) return;
+  var i = 0, pass = 0, n = links.length, passes = 3, dwell = 420;
+  function clear() {
+    for (var k = 0; k < n; k++) links[k].classList.remove("nav-pulse-on");
+  }
+  function tick() {
+    clear();
+    if (pass >= passes) return;
+    links[i].classList.add("nav-pulse-on");
+    i += 1;
+    if (i >= n) { i = 0; pass += 1; }
+    setTimeout(tick, dwell);
+  }
+  setTimeout(tick, 400);
+})();
+</script>
+<script>
+(function () {
+  var about = document.getElementById("about");
+  if (!about) return;
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  var canvas = document.createElement("canvas");
+  canvas.id = "about-particles";
+  canvas.setAttribute("aria-hidden", "true");
+  about.prepend(canvas);
+  var ctx = canvas.getContext("2d");
+  var dots = [];
+  var running = false;
+  var raf = 0;
+  function resize() {
+    var w = window.innerWidth;
+    var h = about.offsetHeight;
+    canvas.width = Math.floor(w * (window.devicePixelRatio || 1));
+    canvas.height = Math.floor(h * (window.devicePixelRatio || 1));
+    canvas.style.width = w + "px";
+    canvas.style.height = h + "px";
+    ctx.setTransform(window.devicePixelRatio || 1, 0, 0, window.devicePixelRatio || 1, 0, 0);
+  }
+  function seed() {
+    var w = window.innerWidth;
+    var h = about.offsetHeight;
+    var n = Math.max(28, Math.floor((w * h) / 28000));
+    dots = [];
+    for (var i = 0; i < n; i++) {
+      dots.push({
+        x: Math.random() * w,
+        y: Math.random() * h,
+        vx: (Math.random() - 0.5) * 0.28,
+        vy: (Math.random() - 0.5) * 0.28,
+        r: 1 + Math.random() * 1.6,
+        a: 0.18 + Math.random() * 0.28
+      });
+    }
+  }
+  function step() {
+    if (!running) return;
+    var w = window.innerWidth;
+    var h = about.offsetHeight;
+    ctx.clearRect(0, 0, w, h);
+    for (var i = 0; i < dots.length; i++) {
+      var d = dots[i];
+      d.x += d.vx;
+      d.y += d.vy;
+      if (d.x < 0 || d.x > w) d.vx *= -1;
+      if (d.y < 0 || d.y > h) d.vy *= -1;
+    }
+    ctx.lineWidth = 1;
+    for (var i = 0; i < dots.length; i++) {
+      for (var j = i + 1; j < dots.length; j++) {
+        var dx = dots[i].x - dots[j].x;
+        var dy = dots[i].y - dots[j].y;
+        var dist = Math.sqrt(dx * dx + dy * dy);
+        if (dist < 110) {
+          ctx.strokeStyle = "rgba(37, 99, 235," + (0.09 * (1 - dist / 110)) + ")";
+          ctx.beginPath();
+          ctx.moveTo(dots[i].x, dots[i].y);
+          ctx.lineTo(dots[j].x, dots[j].y);
+          ctx.stroke();
+        }
+      }
+    }
+    for (var i = 0; i < dots.length; i++) {
+      var d = dots[i];
+      ctx.beginPath();
+      ctx.fillStyle = "rgba(37, 99, 235," + d.a + ")";
+      ctx.arc(d.x, d.y, d.r, 0, Math.PI * 2);
+      ctx.fill();
+    }
+    raf = requestAnimationFrame(step);
+  }
+  function start() {
+    if (running) return;
+    running = true;
+    raf = requestAnimationFrame(step);
+  }
+  function stop() {
+    running = false;
+    cancelAnimationFrame(raf);
+  }
+  resize();
+  seed();
+  var vis = new IntersectionObserver(function (entries) {
+    if (entries[0].isIntersecting) start();
+    else stop();
+  }, { threshold: 0.05 });
+  vis.observe(about);
+  window.addEventListener("resize", function () {
+    resize();
+    seed();
+  });
+})();
+</script>

@@ -1,0 +1,33 @@
+---
+pagetitle: "Talks · Matthew Kumar"
+listing:
+  id: talks-list
+  contents: "*/index.qmd"
+  type: custom
+  template: ../ejs/compact.ejs
+  sort: "date desc"
+  date-format: "MMM D, YYYY"
+page-layout: full
+toc: false
+format:
+  html:
+    page-layout: full
+    toc: false
+    title-block-style: none
+---
+
+::::: {.home-section}
+:::: {.home-grid}
+
+::: {.section-heading}
+<p class="section-title"><i class="bi bi-easel"></i> Presentations</p>
+<p class="section-kicker">tutorials, conferences and other presentations</p>
+:::
+
+:::: {.section-body}
+::: {#talks-list}
+:::
+::::
+
+::::
+:::::

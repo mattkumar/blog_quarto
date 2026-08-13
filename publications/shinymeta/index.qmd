@@ -1,0 +1,11 @@
+---
+title: Reproducibility of Interactive Analyses
+date: '2023-03-08'
+author: Kumar M, Srinivas Veeragoni
+publication: Phuse US Connect 2023(OS-10)
+url_pdf: https://github.com/mattkumar/blog/raw/main/content/event/phuse_os_2023/PAP_OS10.pdf
+---
+
+::: {.page-links}
+<a class="page-link" href="https://github.com/mattkumar/blog/raw/main/content/event/phuse_os_2023/PAP_OS10.pdf"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+:::

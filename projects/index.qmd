@@ -1,0 +1,33 @@
+---
+pagetitle: "Projects · Matthew Kumar"
+listing:
+  id: projects-list
+  contents: "*/index.qmd"
+  type: custom
+  template: ../ejs/cards.ejs
+  sort: "date desc"
+  date-format: "MMM YYYY"
+page-layout: full
+toc: false
+format:
+  html:
+    page-layout: full
+    toc: false
+    title-block-style: none
+---
+
+::::: {.home-section}
+:::: {.home-grid}
+
+::: {.section-heading}
+<p class="section-title"><i class="bi bi-briefcase"></i> Portfolio</p>
+<p class="section-kicker">ideas, prototypes, full-blown projects</p>
+:::
+
+:::: {.section-body}
+::: {#projects-list}
+:::
+::::
+
+::::
+:::::

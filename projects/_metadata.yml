@@ -1,0 +1,9 @@
+freeze: auto
+
+execute:
+  eval: false
+
+format:
+  html:
+    page-layout: article
+    toc: false

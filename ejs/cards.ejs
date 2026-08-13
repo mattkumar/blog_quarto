@@ -1,0 +1,18 @@
+<%
+function itemDir(item) {
+  var base = String(item.path || "");
+  base = base.replace(/index\.(html|qmd)$/i, "");
+  if (!base.endsWith("/")) base += "/";
+  return base;
+}
+function itemImage(item) {
+  if (!item.image) return null;
+  var img = item.image;
+  if (Array.isArray(img)) img = img[0];
+  if (typeof img === "object" && img !== null) img = img.src || img.filename || "";
+  if (!img) return null;
+  if (String(img).startsWith("http")) return img;
+  return itemDir(item) + String(img).split("/").pop();
+}
+%>
+<div class="card-grid"><% items.forEach(function(item) { %><% const thumb = itemImage(item); %><article class="project-card<% if (thumb) { %> has-thumb<% } %>"><% if (thumb) { %><div class="card-thumb"><img src="<%- thumb %>" alt="" loading="lazy"></div><% } %><div class="card-body"><% if (item.date) { %><div class="card-date"><i class="bi bi-calendar3"></i> <%= item.date %></div><% } %><div class="card-title"><a href="<%- item.path %>" class="stretched-link"><%= item.title %></a></div><% if (item.description) { %><p class="card-summary"><%= item.description %></p><% } %><% if (item.categories && item.categories.length) { %><div class="card-tags"><% item.categories.forEach(function(tag) { %><span class="card-tag"><%= tag %></span><% }) %></div><% } %></div></article><% }) %></div>

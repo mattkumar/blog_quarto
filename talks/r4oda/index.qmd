@@ -1,0 +1,12 @@
+---
+title: Data Manipulation with R
+date: '2019-12-04'
+description: An interactive presentation on data manipulation in R geared towards
+  SAS users
+location: Online
+image: featured.jpg
+---
+
+::: {.page-links}
+<a class="page-link" href="https://r4oda.netlify.app/"><i class="bi bi-link-45deg"></i><span>View Presentation</span></a>
+:::
