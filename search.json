@@ -1,0 +1,618 @@
+[
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Matthew Kumar",
+    "section": "",
+    "text": "Publications\n\n\nacademic works as a biostatistician\n\n\n\n\n\n\n\n\nKumar M, Srinivas Veeragoni (2026). Deterministic Foundations, AI Acceleration - Lessons from Developing Hybrid Clinical Review Tools. Phuse US Connect 2026(ML-20).\n\nPDF\n\n\n\n\n\nKumar M, Srinivas Veeragoni (2023). Reproducibility of Interactive Analyses. Phuse US Connect 2023(OS-10).\n\nPDF\n\n\n\n\n\nDaneman N, Lee S, Bai H, Bell C, Bronskill SE, Campitelli MA, Dobell G, Fu L, Garber G, Ivers N, Kumar M, Lam J, Langford B, Laur C, Morris A, Mulhall C, Pinto R, Saxena FE, Schwartz, Brown K (2022). Behavioral Nudges to Improve Audit and Feedback Report Opening Among Antibiotic Prescribers A Randomized Controlled Trial. Open Forum Infectious Diseases, 9(5).  doi:10.1093/ofid/ofac111\n\nPDF\n\n\n\n\n\nYan M, Saxena F, Calzavara A, Brown K, Garber G, Gershon A, Johnstone J, Kumar M, Langford B, Lee S, Schwartz K, Daneman N (2021). Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis. Canadian Medical Association Journal Open, 9(2).  doi:10.9778/cmajo.20200157\n\nPDF\n\n\n\n\n\nGuttmann A, Saunders NR, Kumar M, Gandhi S, Diong C, MacCon K, Cairney J (2020). Implementation of a Physician Incentive Program for 18-Month Developmental Screening in Ontario, Canada. BMJ Open Diabetes Res Care 8(1).  doi:10.1016/j.jpeds.2020.03.016\n\n\n\n\n\n\nWeisman A, Tu K, Young J, Kumar M, Austin PC, Jaakkimainen L, Lipscombe L, Aronson R, Booth G (2020). Validation of a type 1 diabetes algorithm using electronic medical records and administrative healthcare data to study the population incidence and prevalence of type 1 diabetes in Ontario, Canada. BMJ Open Diabetes Res Care 8(1).  doi:10.1136/bmjdrc-2020-001224\n\nPDF\n\n\n\n\n\nIaboni A, Campitelli MA, Bronskill SE, Diong C, Kumar M, Maclagan L, Gomes T, Tadorus M, Maxwell CJ (2019). Time trends in opioid prescribing among Ontario long-term care residents - a repeated cross-sectional study. Canadian Medical Association Journal Open, 7(3).  doi:10.9778/cmajo.20190052\n\nPDF\n\n\n\n\n\nCampitelli MA, Kumar M, Greenberg A, ICES/HQO Ontario Laboratory Information System Working Group (2018). Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis. Healthcare Quarterly, 6(2).  doi:10.12927/hcq.2018.25630\n\nPDF\n\n\n\n\n\nMozessohn L, Earle C, Spaner D, Cheng SY, Kumar M, Buckstein R (2016). The association of dyslipidemia with Chronic Lymphocytic Leukemia - a population-based study. Journal of the National Cancer Institute, 109(3).  doi:10.1093/jnci/djw226\n\nPDF\n\n\n\n\n\nGovindarajan A, Urbach D, Kumar M, Li Q, Murray BJ, Juurlink D, Kennedy E, Gagliardi A, Sutradhar R, Baxter NN (2015). Outcomes of Daytime Procedures Performed by Attending Surgeons after Night Work. New England Journal of Medicine, 373(9).  doi:10.1056/NEJMsa1415994\n\nPDF\n\n\n\n\n\nVahabi M, Lofters A, Kumar M, Glazier RH (2015). Breast cancer screening disparities among immigrant women by world region of origin - a population-based study in Ontario, Canada. Cancer Medicine, 5(7).  doi:10.1002/cam4.700\n\nPDF\n\n\n\n\n\nVahabi M, Lofters A, Kumar M, Glazier RH (2015). Breast cancer screening disparities among urban immigrants - a population-based study in Ontario, Canada. BMC Public Health, 21(9).  doi:10.1186/s12889-015-2050-5\n\nPDF\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Matthew Kumar",
+    "section": "",
+    "text": "Portfolio\n\n\nideas, prototypes, full-blown projects\n\n\n\n\n\n\n\n\n\n\n\n Oct 2025\n\n\nQR Codes\n\n\nGenerating and using QR codes in R and Shiny Apps\n\n\nData VisualizationStatisticalSimulationAnimation\n\n\n\n\n\n\n\n\n\n Nov 2024\n\n\nAthena\n\n\nA simple web app for AI-assisted figure interpretation using GPT-4O\n\n\nai\n\n\n\n\n\n\n\n\n\n Dec 2023\n\n\nstory creator\n\n\nA simple react app that creates a story using ChatGPT from user topics\n\n\nreact\n\n\n\n\n\n\n\n\n\n Nov 2023\n\n\nshinyMeta\n\n\nAn example of using shinyMeta to recreate a plot designed in a shiny app\n\n\nshinyshinyMeta\n\n\n\n\n\n\n\n\n\n Mar 2023\n\n\nGHA and Shiny\n\n\nGithub Actions for auto-deployment of shiny apps on shinyapps.io\n\n\nCICDGithub ActionsShiny\n\n\n\n\n\n\n\n\n\n Dec 2022\n\n\nDynamic TLFs\n\n\nExploring dynamic and interactive TLFs using Tplyr and reactable via Quarto\n\n\nData VisualizationStatisticalTableQuartoShinyCDISC\n\n\n\n\n\n\n\n\n\n Nov 2022\n\n\nTime Machine\n\n\nA Back To The Future time machine using reactable, countup and a lot of css\n\n\nreactablequartotable\n\n\n\n\n\n\n\n\n\n Sep 2022\n\n\nJeopardy!\n\n\nRecreating a Jeopardy! game board using reactable and css in Quarto\n\n\nreactablequartotable\n\n\n\n\n\n\n\n\n\n Aug 2022\n\n\nshiny & Python\n\n\nA relatively basic exploratory data analysis shiny app written in Python\n\n\nshinyPython\n\n\n\n\n\n\n\n\n\n Apr 2022\n\n\nLinked TLFs\n\n\nUsing Tplyr and Shiny to create interactive + linked tables, listings and figures\n\n\nData VisualizationStatisticalTableMetadataShinyCDISC\n\n\n\n\n\n\n\n\n\n Nov 2021\n\n\nVisual MCMC\n\n\nUnpacking a bunch of related statistical concepts through visualization\n\n\nData VisualizationStatisticalSimulationAnimation\n\n\n\n\n\n\n\n\n\n Jul 2021\n\n\nAnimated KM\n\n\nAn experiment in storytelling using animation for statistical analysis\n\n\nData VisualizationStatisticalPharmaAnimation\n\n\n\n\n\n\n\n\n\n Jul 2021\n\n\nshinyTrumbowyg\n\n\nA ‘WYSIWYG’ text editor widget for Shiny and Rmarkdown\n\n\nShinyRmarkdown\n\n\n\n\n\n\n\n\n\n Jun 2021\n\n\nfrappe Charts\n\n\nMy first attempt at porting a JS plotting library to R! Frappe Charts for all!\n\n\nShinyRmarkdownData Visualization\n\n\n\n\n\n\n\n\n\n Feb 2021\n\n\nAuto-Narratives\n\n\nRmarkdown reporting engine for automating patient safety narratives in a clinical trial.\n\n\nShinyRmarkdownReportingAutomationPharmaCDISCPHUSE\n\n\n\n\n\n\n\n\n\n Nov 2020\n\n\nReact Calendar\n\n\nAn reactable-based calendar and a whole lot of javascript and CSS\n\n\nShinyData VisualizationContestTableJSCSS\n\n\n\n\n\n\n\n\n\n Sep 2020\n\n\nSurvival Tables\n\n\nInteractive survival analysis tables using DT and reactable display table packages\n\n\nShinyData VisualizationContestTableJSStatisticalPharma\n\n\n\n\n\n\n\n\n\n Sep 2019\n\n\nforestR\n\n\nAn interactive tool to create publication-quality forest plots\n\n\nShinyData VisualizationStatistical\n\n\n\n\n\n\n\n\n\n Jan 2019\n\n\nVisual Abstracts\n\n\nCreate a visual abstract to highlight your original research.\n\n\nData Visualization\n\n\n\n\n\n\n\n\n\n Mar 2018\n\n\nfunnelR\n\n\nCreate funnel plots for proportion data using ggplot2.\n\n\nData VisualizationStatistical\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/type2diabetes/index.html",
+    "href": "publications/type2diabetes/index.html",
+    "title": "Validation of a type 1 diabetes algorithm using electronic medical records and administrative healthcare data to study the population incidence and prevalence of type 1 diabetes in Ontario, Canada",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "publications/rct/index.html",
+    "href": "publications/rct/index.html",
+    "title": "Behavioral Nudges to Improve Audit and Feedback Report Opening Among Antibiotic Prescribers A Randomized Controlled Trial",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "publications/olis-ltc/index.html",
+    "href": "publications/olis-ltc/index.html",
+    "title": "Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "publications/macrolide/index.html",
+    "href": "publications/macrolide/index.html",
+    "title": "Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "publications/breast-urban/index.html",
+    "href": "publications/breast-urban/index.html",
+    "title": "Breast cancer screening disparities among urban immigrants - a population-based study in Ontario, Canada",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "talks/rpharma/index.html",
+    "href": "talks/rpharma/index.html",
+    "title": "NarromaticAI",
+    "section": "",
+    "text": "View Presentation Watch video"
+  },
+  {
+    "objectID": "talks/phuse-sde-2025/index.html",
+    "href": "talks/phuse-sde-2025/index.html",
+    "title": "Accelerating Oncology Data Review - An R Shiny application for insights",
+    "section": "",
+    "text": "View Presentation Watch video"
+  },
+  {
+    "objectID": "talks/phuse-ml-2026/index.html",
+    "href": "talks/phuse-ml-2026/index.html",
+    "title": "Deterministic Foundations, AI Acceleration- Lessons from Developing Hybrid Clinical Review Tools",
+    "section": "",
+    "text": "View Presentation PDF"
+  },
+  {
+    "objectID": "talks/genaiday2026/index.html",
+    "href": "talks/genaiday2026/index.html",
+    "title": "Scheduled Clinical Insights - AI-Assisted Quarto Reporting for Oncology Studies",
+    "section": "",
+    "text": "View Presentation View Repo"
+  },
+  {
+    "objectID": "projects/tte-animations/index.html",
+    "href": "projects/tte-animations/index.html",
+    "title": "Animated KM",
+    "section": "",
+    "text": "View Repo Linked In\n\nThis was a neat experiment using the {gganimate} package for storytelling purposes. In the Kaplan-Meier plot, animation serves as the vehicle to unravel chronological events in a fictitious Oncology clinical trial.\nSome features include: + Animation of the individual survival curves over time - here you can see how fast the probability of survival drops quite clearly.\n\nTracking of number of events and number at risk in real time.\nThe use of stopping points to emphasize when the median survival time is achieved\nThe use of stopping points to emphasize contextual information such as planned analyses dates and results of interim stats. Note: may or may not make actual sense given the data.\n\n\n\n\nkm\n\n\nI also had a bit of fun to see where else this could potentially play a role. In the below graph, we compare theoretical versus observed values from a simulation study to see where across the axes the biggest differences lie.\n\n\n\nsim\n\n\nThis was experiment sparked further discussion into how we can help our Stat colleagues during their round-table discussions. It was eventually spun off into a shiny app.\nGood times."
+  },
+  {
+    "objectID": "projects/time-machine/index.html",
+    "href": "projects/time-machine/index.html",
+    "title": "Time Machine",
+    "section": "",
+    "text": "View Interactive Table View Repo"
+  },
+  {
+    "objectID": "projects/time-machine/index.html#overview",
+    "href": "projects/time-machine/index.html#overview",
+    "title": "Time Machine",
+    "section": "Overview",
+    "text": "Overview\nThis is another entry into the ⚡R Studio 2022 Table Contest. It uses reactable, countup and css to recreate the time machine gizmo seen in the movie Back To The Future \nMy aims for this project were two-fold:\n\nTo think about creative uses of tables! ✅\nContinue to experiment with reactable, css and Quarto. ✅"
+  },
+  {
+    "objectID": "projects/time-machine/index.html#approach",
+    "href": "projects/time-machine/index.html#approach",
+    "title": "Time Machine",
+    "section": "Approach",
+    "text": "Approach\nMy goal was to reenvision the following image as a table using R. \nI can divide my approach into 2 sections: general and styling\n\nGeneral\nWhen I first saw the above image, I thought it would make a great use-case for getting creative with tables. It was immediately apparent that the bulk of this work was going to boil down to styling. The general approach is quite simple:\n\nCreate a data frame with the required data\n\n\ndata &lt;- tibble::tribble(\n  ~MONTH, ~DAY, ~YEAR, ~AMPM, ~HOUR, ~COLON, ~MIN,\n   \"OCT\",   26,  1985,    NA,    10,     NA,   21,\n   \"OCT\",   26,  1985,    NA,    10,     NA,   22,\n   \"OCT\",   26,  1985,    NA,    10,     NA,   20\n  )\n\nThe AMPM and COLON columns are left as placeholders which get rendered in reactable.\n\nExecute 3 successive calls to a custom reactable function, one for each row of the table. E.g.\n\n\ndata %&gt;%\n  filter(row_number() == 1) %&gt;%\n  my_reactable()\n  \n# etc\n\nmy_reactable() is a wrapper that is written by me and takes care of the formatting of a single table row including the cell, column and footer rendering along with css. A great use-case for a function! 🎯\n\n\nStyling\nMuch of my effort in this table was around styling. This involved quite a bit of work and playing around, and in the end I’m glad I saw it through to completion. 😥 ➡ 🤓\n\nCSS\nYes, much of this table relies on custom css classes. It shouldn’t be taken for granted the amount of work needed however, including research on the following to match aesthetics:\n\ncustom fonts, font sizes, color schemes\nusing new html elements (i.e. &lt;mark&gt;&lt;/mark&gt;)\nanimations with css\nleveraging the @extend directive to make my css file shorter and more compact 💥💥💥\n\n\n\nCountup\nOne neat package I was finally thrilled to have a use for was the countup by John Coene. In short, his package lets you transform the appearance of a number as if a counter were running as an html element. This integrated quite nicely with reactable and serves to give the illusion that the time machine is calibrating! 😵\n\n\n3D\nI also spent a bit of time learning some additional methods of css, namely perspective, skew, scale and transform. I decided to integrate this into this work as well as a separate table. 📦 This image was my inspiration: \n\n\n\nForward\nYou can view these tables and all their interactive glory here\n🍻✌ Till next time!"
+  },
+  {
+    "objectID": "projects/shinypy/index.html",
+    "href": "projects/shinypy/index.html",
+    "title": "shiny & Python",
+    "section": "",
+    "text": "View Demo View Repo Learn More\n\n\nOverview\n\nThis app is an initial exploration into shiny for Python which was revealed at rstudio::conf(2022) earlier this summer.🐍🐍🐍 \n\nAim\n\nThe aim of the exploration was to try out the API and see whether I can recreate common patterns/functionalities I use in my other apps.   The app is simple: Use the sample data (or upload your own) to run a basic linear regression analysis and display the resulting plot.  \n\nFunctionalities\n\nHere are the functionalities covered in the app:\n\n✅ custom CSS (could you tell?) 🤣\n✅ data processing (file upload and external files)\n✅ creating reactive objects\n✅ rendering UI, plots, etc\n✅ validation with req()\n\n\nDeployment\n\nI currently have my app running on shinylive.io which seems to be a very promising serverless solution. You can also build your app as a static site (locally) and serve it via github pages or netlify.🤯🤯🤯  \n\n👉View the app + code in editor mode: make changes and execute it all within the browser See Here👈 \n👉 View the app served on github pages See Here👈\n\n The one downside is that not all libraries are supported, which is understandable. I originally used the xport library to read SAS .xpt files instead of .csv files in development. Winston Chang’s talk provides more detail about this and the technology in general.\n\nFuture\n\nIf and when this is included (or I figure out the rsconnect deployment, which is also an option by the way), the following code can be replaced easily to read .xpt  \nimport xport\n\ndef p():\n        if input.file1() is None:\n            return \"Please upload a csv file\"\n        f: list[FileInfo] = input.file1()\n        with open(f[0][\"datapath\"], 'rb') as z:\n          df = xport.to_dataframe(z)\nThat’s about it. I plan to do a blog post summarizing the experience further and my thoughts around the news of Rstudio’s “move” into the Python space later.\n🍻✌"
+  },
+  {
+    "objectID": "projects/shiny-richtext/index.html",
+    "href": "projects/shiny-richtext/index.html",
+    "title": "shinyTrumbowyg",
+    "section": "",
+    "text": "View Demo View Repo\n\nTrumboywg.js is a lightweight, what-you-see-is-what-you-get, text editor written in jQuery.\nI really wanted to use this library in my shiny apps (some work related, some personal), but I couldn’t locate any prior efforts in an R port. Therefore, I used this opportunity to learn to do it myself using the {htmlwidgets} package.\nI was able to successfully port over the base version of Trumbowyg and it can be called quite easily using the familiar shiny widget:\ntrumbowygInput(id = \"id\",                 label = \"text\",                 value = \"Hello world!\")\nAt the same time, many plugins are available for Trumbowyg, such as emoji’s, text coloring, highlighting, and more. I was able to also learn enough to use them natively and to have them be a part of the package.\nThis was a great learning experience to see how javascript integrates with R and Shiny under the hood. It’s helped me develop a deeper appreciation for the work that goes into creating shiny extensions that I think we all (certainly I!) sometimes take for granted!\nA quick shoutout to John Coene and Maya Gans for their various works in describing how to bridge the gap between javascript and R!\nYou may view a demo of this here"
+  },
+  {
+    "objectID": "projects/rmarkdown-reporting-engine/index.html",
+    "href": "projects/rmarkdown-reporting-engine/index.html",
+    "title": "Auto-Narratives",
+    "section": "",
+    "text": "View Demo View Repo\n\nI had recently learned about patient safety narratives, a key deliverable in clinical study reporting that is prepared on a per-patient basis. At the same time, I was also looking to extend my Rmarkdown knowledge to create automated workflows or “pipelines”. You can see where this is going right?\nMy aim was pretty clear: I wanted to create an Rmarkdown-based reporting engine, capable of automatically creating safety narratives for all participants in a clinical trial based on a single template.\nFor this example, I borrowed the clinical trial data from the PHUSE Github Repository, openly available here\nNext, I got to work in seeing what data elements I would want to pick out for my narratives. I was less concerned with what’s actually in a narrative and more interested in the process of automating their creation. Nevertheless, I picked some elements that I think are relevant such as: + Patient Age/Sex/Race + Dates of first and last treatment + Adverse Events, including reported term, severity, outcome and associated dates\nThe technical part of this project was interesting to think about and research. I ultimately decided with the following approach: 1. Create a template or skeleton structure of a narrative that will be applied to each patients data 2. The template includes data wrangling steps that will be repeated for each subject. In here, I also include a table object just to test out variety. 3. Using Rmarkdown’s parameters (here each subject’s unique identifier), loop through the unique identifier list and have the corresponding report created.\nThis was great and I was able to get it to work almost immediately.\nHowever…\nI wanted extend the current approach by providing a user interface to the engine. This is especially useful for non-programming colleagues (or colleagues not familiar with R or Rmarkdown). Enter Shiny.\nBriefly, the user experience can be described as:\n\nA list of patient identifiers are populated in a DataTable, and the user is instructed to select all or some of the patients they wish to generate a report for.\nThe user then has the option to select the format of their narratives: .docx, .html, or .pdf\nOnce selections are made, from here the process works similar to the above, but within the Shiny server context.\nThe last step involves collecting all generated reports, bundling them into a single zip file, and returning them to the user as a download. While this process happens in real time, a progress bar is provided to the user as feedback.\n\nThat last part still amazes me.\nI’ve since taken this a few steps further, investigating even more approaches (e.g. parent-child reports) and conditional execution of narrative text based on values of users data and including graphics. I will likely update this repo to include those enhancements, but for now enjoy as is!"
+  },
+  {
+    "objectID": "projects/qr/index.html",
+    "href": "projects/qr/index.html",
+    "title": "QR Codes",
+    "section": "",
+    "text": "View App View Repo"
+  },
+  {
+    "objectID": "projects/qr/index.html#overview",
+    "href": "projects/qr/index.html#overview",
+    "title": "QR Codes",
+    "section": "Overview",
+    "text": "Overview\n\n\nThis application is a small example that highlights how to integrate the {qrcode} package 📦 into shiny.\nThis might at first seem trivial — “just generating a QR code?” — but when paired with the right information, QR codes can actually become a powerful way to communicate data and metadata 📦\nFor example, imagine embedding metadata about how a figure was generated — the selected Shiny inputs, slider values, and filters applied. That’s instant context. String interpolation is your friend here 🎯\nTry it yourself 👇 by scanning the QR with your 📞"
+  },
+  {
+    "objectID": "projects/qr/index.html#data-and-metadata-examples",
+    "href": "projects/qr/index.html#data-and-metadata-examples",
+    "title": "QR Codes",
+    "section": "🧩 Data and Metadata Examples",
+    "text": "🧩 Data and Metadata Examples\n\n\nYou can easily enrich your QR codes with:\n🕒 System information: date, time, session ID\n👤 User info: pulled automatically (e.g., session$user in Posit Connect)\n📊 Data provenance: source files, query timestamps, or version numbers\nWhen your app runs on Posit Connect, this becomes even more useful — you can automatically tag content with who generated it and when via the session object."
+  },
+  {
+    "objectID": "projects/qr/index.html#why-it-matters",
+    "href": "projects/qr/index.html#why-it-matters",
+    "title": "QR Codes",
+    "section": "💡 Why It Matters",
+    "text": "💡 Why It Matters\n\n\nOn a more thematic level, QR codes offer a new layer of tractability in your analytics workflow. If your app generates outputs — say, plots or reports — you can encode contextual details about the data source or analysis parameters directly into a QR code.\nIt’s like leaving a digital breadcrumb trail for reproducibility 🧵"
+  },
+  {
+    "objectID": "projects/qr/index.html#where-to-use-them",
+    "href": "projects/qr/index.html#where-to-use-them",
+    "title": "QR Codes",
+    "section": "🧱 Where to Use Them",
+    "text": "🧱 Where to Use Them\n\n\nQR codes are super flexible — you can insert them into:\n📈 Plots via {ggplot2} or {patchwork} (e.g. inset, or adjacent)\n📄 Documents (PDF, DOCX, PPTX) using {officer}\n🖥️ Directly inside your Shiny app’s UI"
+  },
+  {
+    "objectID": "projects/qr/index.html#resources",
+    "href": "projects/qr/index.html#resources",
+    "title": "QR Codes",
+    "section": "🔗 Resources",
+    "text": "🔗 Resources\n\n\nIf you find creative uses ️💡 for them, I’d love to know about it. Be sure to also check out the other features of the {qrcode} package:\n\n🌐 Package Website\n\n💻 Github Repository\n\n   Till next time, 🍻🌴"
+  },
+  {
+    "objectID": "projects/jeopardy/index.html",
+    "href": "projects/jeopardy/index.html",
+    "title": "Jeopardy!",
+    "section": "",
+    "text": "View Interactive Table View Repo"
+  },
+  {
+    "objectID": "projects/jeopardy/index.html#overview",
+    "href": "projects/jeopardy/index.html#overview",
+    "title": "Jeopardy!",
+    "section": "Overview",
+    "text": "Overview\nThis is my entry into the ⚡R Studio 2022 Table Contest. It uses reactable and scss in Quarto to style a Jeopardy! game board. \nMy aims for this project were three-fold:\n\nTo think about creative uses of tables! ✅\nLearn how to use some of reactable’s custom rendering capabilities ✅\nContinue to investigate and experiment (s)css and Quarto. ✅"
+  },
+  {
+    "objectID": "projects/jeopardy/index.html#approach",
+    "href": "projects/jeopardy/index.html#approach",
+    "title": "Jeopardy!",
+    "section": "Approach",
+    "text": "Approach\nI start by pulling archived Jeopardy! game data using the whatr 📦. What’s nice is that each row of data is indexed by the row and column it appears on in the actual board 😝. This makes it simple to ensure the right content is in the right place. ✅\nIn the next step, I borrow some preexisting css for creating flip cards 🔍. I ♻️, 🔨 and 🗑 elements in order to match the aesthetic of Jeopardy! This was relatively straightforward, though researching colors and fonts took a bit of time.\nThe last step is to arrange the data once it’s been read into R into a format serviceable for display. I knew I planned to use reactable as the display table package and leverage escaping html.\n\nMethod 1\nMy first approach was to bake the html/css stuff directly into each cell, before passing it to reactable for escaping. It looked something like this:\n\n\n👉️ See Code\n\n\nraw_data %&gt;%\n  .... %&gt;%\n  mutate(content = if_else(row == 1,\n                           # html for header\n                           glue::glue('&lt;div class=\"flip-card\"&gt;\n                                        &lt;div class=\"flip-card-inner\"&gt;\n                                          &lt;div class=\"flip-card-head\"&gt;\n                                            &lt;p&gt;{category}&lt;/p&gt;\n                                          &lt;/div&gt;\n                                          &lt;div class=\"flip-card-head\"&gt;\n                                            {category}\n                                          &lt;/div&gt;\n                                        &lt;/div&gt;\n                                      &lt;/div&gt;'),\n                           # html for clues\n                           glue::glue('&lt;div class=\"flip-card\"&gt;\n                                        &lt;div class=\"flip-card-inner\"&gt;\n                                          &lt;div class=\"flip-card-front\"&gt;\n                                            {value}\n                                          &lt;/div&gt;\n                                          &lt;div class=\"flip-card-back\"&gt;\n                                            &lt;p&gt;{clue}&lt;/p&gt;\n                                            &lt;details&gt;\n                                            &lt;summary&gt;Answer&lt;/summary&gt;\n                                            &lt;p&gt;{answer}&lt;/p&gt;\n                                          &lt;/details&gt;\n                                          &lt;/div&gt;\n                                        &lt;/div&gt;\n                                      &lt;/div&gt;'))) %&gt;%\n .... %&gt;%\n reactable(.,\n           defaultColDef = colDef(html = TRUE))\n\n\nWhile this certainly worked (it has in the past for me), I knew reactable had more to offer in terms of custom rendering. It was time to have a closer look at specifics. 😨\n\n\nMethod 2\nIt turns reactables defaultColDef argument works great for custom rendering in this case since every cell in my Jeopardy! board needs the same html/css treatment. It looks something like this:\n\n\n👉️ See Code\n\n\nreactable(table_data,\n  sortable = FALSE,\n  defaultColDef = colDef(\n    html = TRUE,\n    align = \"center\",\n    # Header Rendering\n    header = function(value) {\n      tags$div(\n        class = \"flip-card flip-card-head\",\n        value\n      )\n    },\n    # Cell Rendering\n    cell = function(value, index) {\n      # parse clue, answer from table cell\n      content &lt;- str_split(value, \";\", simplify = TRUE)\n      clue &lt;- content[1]\n      answer &lt;- content[2]\n      # cell content\n      tags$div(\n        class = \"flip-card\",\n        tags$div(\n          class = \"flip-card-inner\",\n          tags$div(\n            class = \"flip-card-front\",\n            # multiply row index by 200 for tile value\n            paste(\"$\", index * 200)\n          ),\n          tags$div(\n            class = \"flip-card-back\",\n            clue,\n            tags$details(\n              tags$summary(\"Answer\"),\n              answer\n            )\n          )\n        )\n      )\n    }\n  )\n)\n\n\nI like this approach much better than the first because I’m keeping table and data wrangling parts of my workflow separate and hopefully more clear for readers. 🤓"
+  },
+  {
+    "objectID": "projects/jeopardy/index.html#forward",
+    "href": "projects/jeopardy/index.html#forward",
+    "title": "Jeopardy!",
+    "section": "Forward",
+    "text": "Forward\nIt’s been an awesome ride so far experimenting with Quarto and continuing to learn how to create and modify existing CSS. I’m happy that the R Studio 2022 Table Contest is currently taking place because it was a constructive outlet to build something that uses things I’ve recently learned.\n🍻✌ Enjoy!"
+  },
+  {
+    "objectID": "projects/frappe/index.html",
+    "href": "projects/frappe/index.html",
+    "title": "frappe Charts",
+    "section": "",
+    "text": "View Demo View Repo\n\nFrappe charts is a modern, open source SVG charting library written in javascript.\nI had been reading John Coene’s Javascript for R, an excellent exposition into building widgets for R, and was inspired to put my new-found knowledge to the test. I selected the Frappe charts library as my use case and wanted to see how far down the rabbit hole I could go.\nI was successful in porting over some of the charts and put them (very crudely) into a few R functions for use in Shiny, Rmarkdown and the viewer in R Studio IDE. I probably won’t flesh this package out further as it was for educational purposes.\nBelow you can find a sample of what it can currently create:\n\n\n\n\nNothing earth-shattering, but very satisfying in being able to do some of this myself rather than waiting for someone else to."
+  },
+  {
+    "objectID": "projects/dynamic-tlf/index.html",
+    "href": "projects/dynamic-tlf/index.html",
+    "title": "Dynamic TLFs",
+    "section": "",
+    "text": "View App View Repo View Video"
+  },
+  {
+    "objectID": "projects/dynamic-tlf/index.html#overview",
+    "href": "projects/dynamic-tlf/index.html#overview",
+    "title": "Dynamic TLFs",
+    "section": "Overview",
+    "text": "Overview\nThis is another entry into the ⚡R Studio 2022 Table Contest. This app enables the exploration of subgroups on-the-fly through linked, interactive tables, listings and figures (TLFs) for clinical trial data. It leverages Tplyr, reactable and reactablefmtr for computing and is presented as a dashboard using Quarto. \nMy aims for this project were two-fold:\n\nInvestigate whether we can dynamically create tables which can be used to guide an exploratory analysis.\n\nThe analysis starts with an anchor table, where individual cells can be clicked to retrieve the study participants ID’s who comprise it. These are subsequently fed into additional tables, listings and figures through reactives.\nIn previous work, I’ve hard coded the anchor table by pre-specifying the variables to be displayed. With this work, you can now dynamically specify the anchor table to include any variables you like, which in turn can be used explore subgroups on-the-fly.\nThis work is largely enabled by utilizing the metadata building features of the Tplyr 📦.\n\nCurrently, no dashboard extension or package exists for Quarto. I used this opportunity to also see if I could (roughly) mimic what flexdashboard offers by using Quarto and custom css. My inspiration was the bootswatch lux theme. 👀"
+  },
+  {
+    "objectID": "projects/dynamic-tlf/index.html#approach",
+    "href": "projects/dynamic-tlf/index.html#approach",
+    "title": "Dynamic TLFs",
+    "section": "Approach",
+    "text": "Approach\nThe linked TLFs are also interactive and share the spirit of “drilling down” 🔃\n\nAdverse Events Table 🕵\n\nUses reactable’s groupBy to succinctly present a large table\nCells (in the second column) are hyper-linked to open a MedlinePlus search of that term. I found this resource was helpful in learning about medical conditions when analyzing clinical trials data.\nA table-wide search functionality to pin-point certain SOCs/PTs of interest\nA button to expand all SOCs at once to show the nested PTs\n\n\n\nAdverse Event Figure 📊\n\nThe highcharter column chart is a drill down plot. The first layer displays the top 4 System Organ Classes for a given subset\nClicking each of bars lets you drill down into a stacked column chart for the Preferred Terms x Severity\nCustomized tool tips to display information more clearly (i.e. severity of adverse event)\n\n\n\nPatient Listing 1 📝\n\nUses reactable’s filter + search to navigate a potentially exhaustive table\nLeverages reactable’s columnGroups + formatting to organize the data layout\nCapable of exporting a list subject identifiers as a CSV file to enable further analyses of interesting subgroups\n\n\n\nPatient Listing 2 📋\n\nUses reactablefmtr’s inline visual to show vital signs measured at three times relative to baseline (i.e. percent change)\nLeverages reactable’s columnGroups + formatting to organize the data layout\nPaired with shiny inputs to enable switching of Blood Pressure Parameters and Visits"
+  },
+  {
+    "objectID": "projects/dynamic-tlf/index.html#future",
+    "href": "projects/dynamic-tlf/index.html#future",
+    "title": "Dynamic TLFs",
+    "section": "Future",
+    "text": "Future\nThis app can be extended in a number of different ways:\n\nIncluding additional, linked TLFs; the sky’s the limit! 🤩\nUploading data - the way I’ve began to structure the server will enable this in the future ⏫\nMore robust organization, control and validation for when the anchor table is updated 🛠\n\nTill next time, 🍻!"
+  },
+  {
+    "objectID": "projects/athena/index.html",
+    "href": "projects/athena/index.html",
+    "title": "Athena",
+    "section": "",
+    "text": "View Web App View Repo\n\n\nThe App\n\n\nAthena is a simple web app with a single purpose: allow users to easily obtain AI-assisted descriptions of their images. A lot of thought went into the user interface and experience, though not necessarily effort 😜. More on that later.\n \nAt it’s core, Athena allows:\n👉 Easy upload of your images - drag and drop into the file drop area\n👉 You can also paste files or drag most images from the web too (e.g. google images)\n🌿 Each time a file is uploaded, a card is created. Each card contains the image thumbnail, editable prompt, trigger button and a response area.\n\nIt’s really that simple. Give it a try!\n\n⚠️ The app deployed on ghp is inert; you’ll need to clone the repo and adjust utils.js to point to your LLM api end point along with your api key 🔐\n\n\n\nWhy make this?\n\n\nWell, UI has always been a passion of mine, but UX too. In our internal platforms for LLMs, it can be a bit cumbersome to perform image interpretation. I wanted a streamlined way to do a task I perform frequently at the drop of a hat 🏃🏻‍♂💨️\n \nI also chose to do this as a static webpage because I thought a shiny app would be overkill for this 😅.\n\nAssurance\n\n\nI didn’t do the majority of the programming for Athena. GPT-4O and GPT-4O-mini did. As a secondary objective, I was curious whether:\n  ❓ This app could be generated completely by AI itself?\n ❓ Will I have a job in a few years 😂 ?  \nI’m happy to share that generative AI, at the least the models I employed, were not enough to generate this completely. Even with several attempts and strategies of prompting 📝, it still required quite a bit of human-in-the-loop to get it right 👫. Here’s a few points on my experience:   ✔️ AI was helpful in getting started from scratch. Everything from scaffolding files in a structured way that made working on the app easier   ✔️ Basic CSS, HTML tasks were do-able with ease   ⚠️ Advanced CSS and JS required frequent iteration and testing 🔄. This was frustrating and time ⌛ consuming.   ✔️ Common tasks like using fetch API to access openai’s end point are well understood   ⚠️ Specifying named JS libraries were amenable, but only after I specifically prompted it’s use. It was really hard to get the file-area-upload from first principles. However, I knew about dropzone.js, so I asked it to use it instead. It didn’t work 100% out of the box, so I still had to read the documentation and alter the generated code.  \nIn the end, I probably could have coded this myself more quickly than ask AI to generate it. I realize there’s a lot of things that you need to be deeply aware of before you can ask AI to generate you something as complex as a web app. For example, JS libraries, CSS frameworks (Bootstrap 5 class names), Names (HTML elements, CSS selectors, function names), and even coding approaches for efficiency.   It’s not push start. At least not with these models. I wonder how Strawberry would do 🤔\nIn sum, my job is at least safe for the next bit 🙆\nTill next time!\n🍻🌴"
+  },
+  {
+    "objectID": "posts/year-end/index.html",
+    "href": "posts/year-end/index.html",
+    "title": "highlights of 2022",
+    "section": "",
+    "text": "… or rather the latter the half of 2022 since I’m getting old and can’t remember the first half"
+  },
+  {
+    "objectID": "posts/year-end/index.html#this-blog",
+    "href": "posts/year-end/index.html#this-blog",
+    "title": "highlights of 2022",
+    "section": "This Blog",
+    "text": "This Blog\nI set out to initially redesign my portfolio this year. It involved migrating a lot of the content from my previous portfolio, which was hosted as a shiny app. At the same time, I said I’d try and use this portfolio as a general purpose for my “digital presence”. I’m happy that I’ve been able to keep up with writing blog posts and sharing side projects or code demonstrations. All of this is infinitely easier now that I use blogdown-github-netlify chain for content management. ⚡"
+  },
+  {
+    "objectID": "posts/year-end/index.html#posit-2022-table-contest",
+    "href": "posts/year-end/index.html#posit-2022-table-contest",
+    "title": "highlights of 2022",
+    "section": "Posit 2022 Table Contest",
+    "text": "Posit 2022 Table Contest\nThis year I decided to participate in the Posit 2022 table contest. I was quite surprised that all 3 of my entries placed! 1 received a runner-up and the other two both received honorable mentions! 🙏\nOverall, it was a rewarding experience because it was a natural outlet to experiment with new tech (Quarto, R packages) while finally putting to work some of the CSS/JS/HTML stuff I learned earlier in the year into something meaningful. ⚡\nYou can read the Posit announcement article here:\n👉 Posit Blog - Winners of the 2022 Table Contest\nAll of my entries to the contest are here on this site:\n🏃 Dynamic TLFs - Runner Up\n📣 Time Machine - Honorable Mention\n📣 Jeopardy! - Honorable Mention\nLastly, I encourage everyone to check out the full list of entries submitted my the community. Truly creative and inspiring takes on tabular representations of data! 😍 💪"
+  },
+  {
+    "objectID": "posts/year-end/index.html#work",
+    "href": "posts/year-end/index.html#work",
+    "title": "highlights of 2022",
+    "section": "Work",
+    "text": "Work\nI want to briefly 💬 about my working or professional life this year.\nThe majority of my team is spread throughout the 🌍. In spite of this, 2022 was a year where we connected more closely than ever. I just want to say I’m super fortunate to work with my team and have their unrelenting support and encouragement. This also goes for the leadership teams that orbit my immediate and adjacent functions. I’ve never felt more empowered in a position knowing I having the trust and backing of management in my corner 🤜🤛. All things considered, I’m truly grateful to have such an amazing opportunity at Bayer. 🙏\nSo long, 2022 🍻!"
+  },
+  {
+    "objectID": "posts/shinysave/index.html",
+    "href": "posts/shinysave/index.html",
+    "title": "saving sessions (+ shinylive)",
+    "section": "",
+    "text": "It pains me 😩 that whenever I contemplate using shiny for a work-related project, the question of allowing users to save and restore their progress 💬🗨 inevitably arises.\nWhile there are a variety of ways to do so in shiny (e.g. bookmarks), work-related apps aren’t always so straight forward 🔀\nFor example: 1. They are usually tied to remote raw data that must be accessed with a live connection 📲 2. They involve intermediate calculations that aren’t easily restored by simply saving and reloading input values on the UI 👨‍🔬\nWell, I finally took the time to 🔨 and I’m here to share what I’ve learned 👨‍🏫\n⚡️Sidebar⚡️ Today is a bit of a 2 for 1. The demo app I’ve cooked up is using shinylive! In a nutshell, the app is ran serverless in the browser via webR. More on that later."
+  },
+  {
+    "objectID": "posts/shinysave/index.html#approach",
+    "href": "posts/shinysave/index.html#approach",
+    "title": "saving sessions (+ shinylive)",
+    "section": "Approach",
+    "text": "Approach\nFor simplicity, I’ve crafted a small app enabling users to upload a SAS Transport (.XPT) data file. The file is parsed using the {haven} package and presented as a table on the UI. There’s also an additional textInput field for users to enter their name.\nUpon visiting the app, users can either: 1. Start by uploading a fresh file 📄 2. Begin by restoring a previously saved session 💾\nThis is achieved through a radioButtons control. Upon making a choice, the corresponding fileInput widget is displayed.\nWhen a fresh file is uploaded 📤, it is read in as binary 👨‍💻 (using readBin and writeBin) in a reactiveValues container. Additional 🛠 steps, such as implementing haven::read_xpt() to another value in the reactiveValues, occur to make it immediately available for use in the app and later. This process unfolds inside an observeEvent 🔍.\nThe “session saving” ✨ is managed by a downloadHandler📥. The content is populated by all current values in the reactiveValues via reactiveValuesToList 💪. This includes the binary representation of the .XPT file and possibly the processed version. Additionally, other inputs 🎚 can be arbitrarily specified for storage in the file (remember the random textInput asking for your name?).\nSo, what happens when you start the app by wanting to restore a previous session❓️ Using the radioButton choice for that, the appropriate fileInput widget is first made available. Once uploaded, the processing essentially involves reassigning all values 📝 from the saved file to the current values in the reactiveValues. For other inputs, such as the textInput, the corresponding updateTextInput is used to restore that value directly. This process takes place within an observeEvent 🔍."
+  },
+  {
+    "objectID": "posts/shinysave/index.html#tldr",
+    "href": "posts/shinysave/index.html#tldr",
+    "title": "saving sessions (+ shinylive)",
+    "section": "tl;dr",
+    "text": "tl;dr\nA consequence of this approach is this: &gt; The save file retains a binary representation of your original file. As such you can recreate that file behind the scenes thus making your app no longer depend on remote access to it. Consider that anything can be represented as binary including file types like CSVs, Docx, Images, etc. 😵"
+  },
+  {
+    "objectID": "posts/shinysave/index.html#shinylive-app",
+    "href": "posts/shinysave/index.html#shinylive-app",
+    "title": "saving sessions (+ shinylive)",
+    "section": "Shinylive App",
+    "text": "Shinylive App\nYou can give this a try in the live app embedded below 👇👇👇\n👉 Use this save file I generated: Download my_saved_session.RData\nWhen you upload it, you’ll see my progress. You’ll also see the contents of the save file, which shows both the binary representation of the source file (which you don’t have).\n&lt;iframe src=“https://mattkumar.github.io/shinysave” width=“100%” height=“600”, style = “border: none;”&gt;"
+  },
+  {
+    "objectID": "posts/shinysave/index.html#thoughts",
+    "href": "posts/shinysave/index.html#thoughts",
+    "title": "saving sessions (+ shinylive)",
+    "section": "Thoughts",
+    "text": "Thoughts\nI’m not sure if I’m idealizing 😍 finally having a solution to a long-standing problem, but I’m excited 🤣. The scalability remains uncertain, so it’s probably best implemented prospectively 🔜 rather than retro 🔙.\nAnother consideration is the source files themselves. In some cases, storing a “copy” of the data outside its origin might violate company policy 🕵. There’s definitely some gray area. In other roles, users already self-manage their own document files in various ways 🤔 🤔 🤔\nAnd what about file size 📈 ? In this example, the original XPT was 116 kb and the save file was 33.9 kb. Obviously some savings there, but where does that bottom out 🏋? It might depend on the format of the original file type."
+  },
+  {
+    "objectID": "posts/shinysave/index.html#shinylive",
+    "href": "posts/shinysave/index.html#shinylive",
+    "title": "saving sessions (+ shinylive)",
+    "section": "Shinylive",
+    "text": "Shinylive\nAs mentioned earlier, I’ve used this post as a two-for-one. Since this app is relatively lightweight, I employed shinylive::export to convert it to a format I can host as static content (currently on GitHub pages) 🤑\nIt was pretty straight forward and overall looks promising. However, there are a few things to be ⚠️ mindful of: Because all of the work 👷 is done in the browser it may take time for things to load ⌛. Another key consideration is whether your app package dependencies 📦 are compatible with webR. Interactive documentation 📋 on the latter can be found here"
+  },
+  {
+    "objectID": "posts/shinysave/index.html#resources",
+    "href": "posts/shinysave/index.html#resources",
+    "title": "saving sessions (+ shinylive)",
+    "section": "Resources",
+    "text": "Resources\n👉 link to shinylive app\n👉 github repository with code\n    Till next time 🍻🙏 !"
+  },
+  {
+    "objectID": "posts/py-hyperlink/index.html",
+    "href": "posts/py-hyperlink/index.html",
+    "title": "Reticulate to the Rescue",
+    "section": "",
+    "text": "A prototype I was working on earlier this year needed to make use of data stored in an excel book. The data I needed were the URLS embedded in hyperlinks within cells of a sheet.\n\n\n\npre\n\n\nThe cells in column B contain hyperlinks for which I need to extract out the URLs. For example, cell B4 has the value of: http://www.amazon.ca/. This is what I need access to.\nI figured one of the existing R packages that could extract this information. I checked the usual: readxl, xlsx, and openxlsx and was surprised that none could.\nMy next thought was to just have the URLs extracted in Excel, prior to reading them into R. Surely this was possible, right? Not without using a VBA macro. 🤢 I gave this an honest shot and it proved too cumbersome. No thanks.\nI read that it might be possible in Python with the openpyxl package. I haven’t a whole lot of experience with Python. I’ve been reading and hearing how easy it is to use Python within R and RStudio. I decided to give a go. Enter reticulate. 🐍🐍🐍\nThe example that follows can be broken down into a few steps:\n\nInstall reticulate and figure out how it works\nInstall python packages (openpyxl, pandas) within RStudio and figure out how they work\nIntegrate everything into a simple workflow\n❓️❓️❓️\nProfit\n\nGetting setup was actually the easy part. At least on my windows machine.\n\n# install reticulate\ninstall.packages(\"reticulate\")\n\n# install a python distribution on my machine\nreticulate::install_miniconda\n\n# install python packages\nreticulate::py_install('pandas')\nreticulate::py_install('openpyxl')\n\nNext was actually figuring out how to use these packages. After a fair bit of reading documentation and tinkering, I was able to come up with the following function I’ve named get_hyperlink.py.\nimport openpyxl as xl\nimport pandas as pd\n\ndef get_hyperlink(path, sheet):\n\n  # Define workbook, worksheet\n  wb = xl.load_workbook(path)\n  ws = wb.get_sheet_by_name(sheet)\n  \n  # For all cells in the worksheet, if a hyperlink is detected:\n  # 1. Extract the hyperlink target\n  # 2. Otherwise just keep the original value as a string\n  for row_cells in ws.iter_rows():\n    for cell in row_cells:\n      try:\n        cell.value = cell.hyperlink.target\n      except:\n        cell.value = str(cell.value)\n    \n  # Store values to a data frame, clean up headers \n  tmp = pd.DataFrame(ws.values)\n  tmp.rename(columns = tmp.iloc[0], inplace = True)\n  tmp.drop(tmp.index[0], inplace = True)\n  \n  return tmp\nAt this point, what’s left is integrating the python script into an existing R workflow so that I can actually use it.\n\nlibrary(reticulate)\n\n# Load python function\nsource_python(\"get_hyperlink.py\")\n\n# Use python function\nmy_data &lt;- get_hyperlink(path = \"input.xlsx\", sheet = \"Sheet1\")\n\nThe results:\n\nhead(my_data)\n\nAnd that’s a wrap! ✅🏁🍻\nActually, there’s one other feature of the reticulate package I want to share. If you’re new to Python like I am, it’s helpful to be able to tinker in a REPL (read-eval-print-loop) fashion. Calling reticulate::repl_python() provides one directly in your R session so you can tinker more naturally. 💪"
+  },
+  {
+    "objectID": "posts/llmlogging/index.html",
+    "href": "posts/llmlogging/index.html",
+    "title": "LLM monitoring",
+    "section": "",
+    "text": "Forward\nTo kick off the new year, I wanted to share a development in an AI-enabled R Shiny application I’ve been working on. 🍾 ✨\nIf you’re curious about the application, you can check out the video and slides from the presentation at R/Pharma Gen AI Day last year:\n\nvideo - slides\n\n\n\nTaking Stock: R and Gen AI\nUnlike languages such as Python 🐍 or JS, R has received comparatively limited official support for SDKs and frameworks that enable the use of LLMs from platforms like OpenAI and LangChain. These tools have become essential for building feature-rich generative AI applications, but as an R user, I’m not expecting parity anytime soon.\nFortunately, the R community has stepped up, building innovative solutions to bridge the gap. Simply search CRAN for examples. Posit has also made strides with packages like httr2, elmer, and shinychat, which streamline LLM integration for R users. Their parallel work in the Python 🐍 ecosystem has further improved the experience for Shiny Python developers too.\n\n\nLLM Logging\nOne challenge I tackled was building a logging system to monitor the utilization and costs 🤑 of my app, which relies on LLMs for text generation and figure interpretation.\nWith a growing user base 👥, tracking this data is crucial for planning and forecasting future resources. Beyond cost management, this system provides insights into user behavior, helping me refine the app’s performance and user experience 🕵.\nWhile tools like LangSmith do these tasks natively, integration with R or Shiny isn’t straightforward — so I decided to roll my own solution.👷 🔨 👨‍🔧\n\n\nBuilding a Recipe\nTo begin, I needed persistent storage ⬆️ for logging. Since our Posit Connect lacks persistent storage, I opted for AWS S3 buckets due to their ease of setup.\nNext, I determined what to log and how to capture it 🤔. My app uses custom JavaScript for API requests to internal LLM instances. This is something that I had the unpleasant task of figuring out how to do - namely - pulling out relevant pieces of information from responses and relaying it back to R 🔄.\n\nAlright, it wasn’t that bad, but I feel unnecessary. Remember the lack of R support? We went with a custom JS early in development because streaming was vital to our UX. At the time there was no other (easy) way to do it.\n\nEach time a user clicks a “submit to LLM” button on a shiny module, I log:\nFrom the JS side:\n\n✅ Cost (in dollars) 💲\n✅ Token usage (completion, prompt, total) 🌔\n✅ Latency (⌚️ start and completion time)\n\nFrom the R side:\n\n☑️ User ID 👤\n☑️ A unique session ID (generated using {uuid}) 🐾🐾\n☑️ Date 📅\n☑️ Order ID (tracks order in which LLMs are called)\n☑️ Module used 📗📘📙\n☑️ LLM model name used\n\nI simply collect this information into a data frame which begins to build the foundation of a session log 📝.\n\n\nIntegration\nUsing the {aws.s3} 📦, I configured secure access to our S3 buckets. In the app’s global server, I initialized a reactive data frame to store log data of a users session. Each time a user interacted with an LLM in a module, that information was added to the log via bind_rows().\nTo persist logs when sessions ended (often when users closed their browsers), I used session$onSessionEnded to automatically write the log to an S3 bucket as a CSV file 📤. A consistent naming convention ensured easier future retrieval 📥.\nThe key functions here were shiny::isolate, utils::write.csv, and aws.s3::put_object.\nHere’s a diagram of it’s final implementation:\n # Retrieval\nAfter local testing, I deployed this solution to a test instance. To my surprise, it worked flawlessly 🤩.\nHere’s an example of retrieving a log in R for inspection:\n\n\n\nproblem\n\n\nI also wrote helper functions to pull logs (by date range or all at once), concatenate them, and prepare them for analysis.\n\n\nNext Steps\nFurther testing and optimization are needed, but the system is functional. My next goal is to build a Shiny dashboard for aggregating, slicing and visualizing metrics 📉 📊. This will provide data-driven insights and strengthen my case for additional funding if and when required.\n\n\nTakeaways\nI didn’t have access to something fancy and out of the box like LangSmith. However, I was able to still build the functionality I required using available tools which has the benefit of adding further customization, control and utility.\nTill next time 🍻🙏 !"
+  },
+  {
+    "objectID": "posts/hello-world/index.html",
+    "href": "posts/hello-world/index.html",
+    "title": "Hello World",
+    "section": "",
+    "text": "Welcome to my new… blog?\nThis was a long time coming. My previous portfolio was getting cumbersome to maintain. I have no idea why I structured it as a shiny app. Whoopsies.\nAnyway, if you’re reading this, this is my new digital home. I plan to share my thoughts and some of my work here going forward. I’ve started to back-port some of the previous stuff I’ve worked in and plan to add newer content here in the future.\nIf you’re into R, Shiny, or statistics I think you’ll enjoy this place. I hope you stick around!\nA special shoutout to Andreas Handel’s guide for getting started with blogdown and Hugo."
+  },
+  {
+    "objectID": "posts/buttons/index.html",
+    "href": "posts/buttons/index.html",
+    "title": "tweaking shiny actionButton",
+    "section": "",
+    "text": "The default behavior in shiny::actionButton() is to open a web link in the current window. This approach has two potential implications for user-experience:\n\nThe current progress within the shiny app will be lost; clicking 🔙 on your browser will reload the app 😭\nThis can (independent of #1) inadvertently divert users away from your app 🏃️💨\n\n\n⬇️⬇️⬇️ See for yourself ⬇️⬇️⬇️  \n\n \nSo what can we do?\n✖️ Do nothing. Leave it as is and let all the hard work you put into the app be overshadowed by the site your are linking to.\n✔️ Make the link open in a new tab or window.\n✔️ Force the link to open in a new window.\nThe distinction between the two latter choices boils down to a users default browser settings. If you use Chrome like me, opening a link (designed to open in a tab or new window) defaults to opening it in a new tab. For you, it might open in a new window. Who knows? 🎱\nIf you really need the link to open in a separate window, luckily with a little elbow grease we can make that a sure thing.🎯 We just need to explicitly specify the window height and width. You can also pass fullscreen=1 to make the new window, well, full screen. See the code snippet below.\n\n⚠️Opening links in a new window may result in getting dinged by an ad-blocker. This is because the so-called new window is more of a pop-up rather than it being a truly new window (i.e. CTRL + N).\n\nThank you iqis for pointing out that! 👽️\nBelow, I have three buttons and their corresponding code you might use in a shiny app. It’s pretty straight forward so I’ll end with saying keep user-experience front and center in your design! ✌🍻\n\n# Default - current\nshiny::actionButton('btn1',\n                    'Current Window',\n                    onclick =\"location.href='http://google.com';\")\n\n# New tab or window  \nshiny::actionButton('btn2',\n                    'New Window or Tab', \n                    onclick =\"window.open('http://google.com', '_blank')\")\n\n# New window\nshiny::actionButton('btn3',\n                    'New Window', \n                    onclick =\"window.open('http://google.com', '_blank','width=800,height=800')\")\n\n\n\nCurrent Window\n\n\n \n\n\nNew Window or Tab\n\n\n \n\n\nNew Window"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Matthew Kumar",
+    "section": "",
+    "text": "Matthew Kumar\n\nAssociate Director, Lead Computational Scientist Bayer\n\n\n  \n  \n  \n  \n\n\n\n\n Biography\n\nI’m currently an Associate Director, Lead Computational Scientist with over 10 years experience in statistical methods, programming and data visualization across multiple industries. My main weapons of choice are R, Shiny, git, and python for descriptive and inferential analyses, creating custom reports or dashboard solutions and building interactive web applications.\nMy formal education includes an MSc in Biostatistics from the University of Toronto and an Honor’s B.A. in Psychology from York University. I have taken a number of courses and workshops related to advanced analytics, software development and computing. I am a strong proponent of continuing education, self-learning and early adoption & experimentation. My current pursuits are learning cloud technologies such as Azure, and building robust applications around large language models (LLMs).\nI currently live in Toronto, Ontario with my loving wife and mini labradoodle.\n \n\n\n\n Interests\n\n\n   R, Shiny Development\n   Statistical Methods\n   Data Visualization\n   UI and UX\n\n\n\n\n Education\n\n\n  \n    \n    \n      MSc in Biostatistics, 2012\n      University of Toronto\n    \n  \n  \n    \n    \n      Specialized Honor's BA in Psychology, 2009\n      York University\n    \n  \n\n\n\n\n\n\n\n\n\n\n Portfolio\n\n\nideas, prototypes, full-blown projects\n\n\n\n\n\n\n\n\n\n\n\n Oct 2025\n\n\nQR Codes\n\n\nGenerating and using QR codes in R and Shiny Apps\n\n\nData VisualizationStatisticalSimulationAnimation\n\n\n\n\n\n\n\n\n\n Nov 2024\n\n\nAthena\n\n\nA simple web app for AI-assisted figure interpretation using GPT-4O\n\n\nai\n\n\n\n\n\n\n\n\n\n Dec 2023\n\n\nstory creator\n\n\nA simple react app that creates a story using ChatGPT from user topics\n\n\nreact\n\n\n\n\n\n\n\n\n\n Nov 2023\n\n\nshinyMeta\n\n\nAn example of using shinyMeta to recreate a plot designed in a shiny app\n\n\nshinyshinyMeta\n\n\n\n\n\n\n\n\n\n Mar 2023\n\n\nGHA and Shiny\n\n\nGithub Actions for auto-deployment of shiny apps on shinyapps.io\n\n\nCICDGithub ActionsShiny\n\n\n\n\n\n\n\n\n\n Dec 2022\n\n\nDynamic TLFs\n\n\nExploring dynamic and interactive TLFs using Tplyr and reactable via Quarto\n\n\nData VisualizationStatisticalTableQuartoShinyCDISC\n\n\n\n\nNo matching items\n\nSee all projects \n\n\n\n\n\n\n\n Recent Posts\n\n\nmusings, snippets, throwaways\n\n\n\n\n\n\n\n\nGoing Low Tech\n\n\nScoring a birthday party with Google Forms, Sheets, and QR codes instead of a Shiny app.\n\n\n Aug 2, 2026\n\n\n\n\n\n\nLLM monitoring\n\n\nMonitoring LLM usage inside an AI-enabled R Shiny app.\n\n\n Jan 2, 2025\n\n\n\n\n\n\ncustom langchain agents\n\n\nUsing LangChain custom agents to solve a document-from-image problem.\n\n\n Mar 28, 2024\n\n\n\n\n\n\nsaving sessions (+ shinylive)\n\n\nSaving and restoring Shiny sessions when bookmarks aren’t enough, plus a shinylive demo.\n\n\n Nov 25, 2023\n\n\n\n\n\n\nDevOps Bootcamp\n\n\nNotes from moving a Shiny app onto Azure — authentication, storage, and what the R packages actually do.\n\n\n Jul 4, 2023\n\n\n\n\nNo matching items\n\nSee all posts \n\n\n\n\n\n\n\n Presentations\n\n\ntutorials, conferences and other presentations\n\n\n\n\n\n\n\n\n\n\n\nScheduled Clinical Insights - AI-Assisted Quarto Reporting for Oncology Studies\n\n\nWeaving Posit Connect, Quarto and AI all for automated insights!\n\n\n Jun 15, 2026· R/Pharma Generative AI Day - 2026 - Virtual\n\n\n\n\n\n\n\n\n\nDeterministic Foundations, AI Acceleration- Lessons from Developing Hybrid Clinical Review Tools\n\n\nExploring LLMs in Clinical Review Tools via R, Shiny\n\n\n Mar 24, 2026· PhUSE US Connect 2026\n\n\n\n\n\n\n\n\n\nAccelerating Oncology Data Review - An R Shiny application for insights\n\n\nClinical Review Tools via R, Shiny\n\n\n Sep 5, 2025· PhUSE SDE - TarryTown 2025\n\n\n\n\n\n\n\n\n\nNarromaticAI\n\n\nSupporting the Medical Writing process with R, Shiny and GenAI\n\n\n Sep 17, 2024· R/Pharma Generative AI Day\n\n\n\n\n\n\n\n\n\nData Insight Generation\n\n\nLeveraging Data Visualization in Study Planning, Monitoring, Exploration, Reporting and Submission\n\n\n Jun 17, 2024· DIA 2024 Global annual Meeting\n\n\n\n\nNo matching items\n\nSee all talks \n\n\n\n\n\n\n\n Publications\n\n\nacademic works as a biostatistician\n\n\n\n\n\n\n\n\nKumar M, Srinivas Veeragoni (2026). Deterministic Foundations, AI Acceleration - Lessons from Developing Hybrid Clinical Review Tools. Phuse US Connect 2026(ML-20).\n\nPDF\n\n\n\n\n\nKumar M, Srinivas Veeragoni (2023). Reproducibility of Interactive Analyses. Phuse US Connect 2023(OS-10).\n\nPDF\n\n\n\n\n\nDaneman N, Lee S, Bai H, Bell C, Bronskill SE, Campitelli MA, Dobell G, Fu L, Garber G, Ivers N, Kumar M, Lam J, Langford B, Laur C, Morris A, Mulhall C, Pinto R, Saxena FE, Schwartz, Brown K (2022). Behavioral Nudges to Improve Audit and Feedback Report Opening Among Antibiotic Prescribers A Randomized Controlled Trial. Open Forum Infectious Diseases, 9(5).  doi:10.1093/ofid/ofac111\n\nPDF\n\n\n\n\n\nYan M, Saxena F, Calzavara A, Brown K, Garber G, Gershon A, Johnstone J, Kumar M, Langford B, Lee S, Schwartz K, Daneman N (2021). Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis. Canadian Medical Association Journal Open, 9(2).  doi:10.9778/cmajo.20200157\n\nPDF\n\n\n\n\n\nGuttmann A, Saunders NR, Kumar M, Gandhi S, Diong C, MacCon K, Cairney J (2020). Implementation of a Physician Incentive Program for 18-Month Developmental Screening in Ontario, Canada. BMJ Open Diabetes Res Care 8(1).  doi:10.1016/j.jpeds.2020.03.016\n\n\n\n\n\n\nWeisman A, Tu K, Young J, Kumar M, Austin PC, Jaakkimainen L, Lipscombe L, Aronson R, Booth G (2020). Validation of a type 1 diabetes algorithm using electronic medical records and administrative healthcare data to study the population incidence and prevalence of type 1 diabetes in Ontario, Canada. BMJ Open Diabetes Res Care 8(1).  doi:10.1136/bmjdrc-2020-001224\n\nPDF\n\n\n\n\n\nIaboni A, Campitelli MA, Bronskill SE, Diong C, Kumar M, Maclagan L, Gomes T, Tadorus M, Maxwell CJ (2019). Time trends in opioid prescribing among Ontario long-term care residents - a repeated cross-sectional study. Canadian Medical Association Journal Open, 7(3).  doi:10.9778/cmajo.20190052\n\nPDF\n\n\n\n\n\nCampitelli MA, Kumar M, Greenberg A, ICES/HQO Ontario Laboratory Information System Working Group (2018). Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis. Healthcare Quarterly, 6(2).  doi:10.12927/hcq.2018.25630\n\nPDF\n\n\n\n\n\nMozessohn L, Earle C, Spaner D, Cheng SY, Kumar M, Buckstein R (2016). The association of dyslipidemia with Chronic Lymphocytic Leukemia - a population-based study. Journal of the National Cancer Institute, 109(3).  doi:10.1093/jnci/djw226\n\nPDF\n\n\n\n\n\nGovindarajan A, Urbach D, Kumar M, Li Q, Murray BJ, Juurlink D, Kennedy E, Gagliardi A, Sutradhar R, Baxter NN (2015). Outcomes of Daytime Procedures Performed by Attending Surgeons after Night Work. New England Journal of Medicine, 373(9).  doi:10.1056/NEJMsa1415994\n\nPDF\n\n\n\n\n\nVahabi M, Lofters A, Kumar M, Glazier RH (2015). Breast cancer screening disparities among immigrant women by world region of origin - a population-based study in Ontario, Canada. Cancer Medicine, 5(7).  doi:10.1002/cam4.700\n\nPDF\n\n\n\n\n\nVahabi M, Lofters A, Kumar M, Glazier RH (2015). Breast cancer screening disparities among urban immigrants - a population-based study in Ontario, Canada. BMC Public Health, 21(9).  doi:10.1186/s12889-015-2050-5\n\nPDF\n\n\n\nNo matching items\n\nSee all publications"
+  },
+  {
+    "objectID": "posts/azure/index.html",
+    "href": "posts/azure/index.html",
+    "title": "DevOps Bootcamp",
+    "section": "",
+    "text": "Preface\n\nI’ll preface with this post is related to a project I lead at work. I can’t share too many details about it here unfortunately (including code), but what I can safely share is my experience and process 💡.\n\ntl;dr\n\nI lead the development of a medium-size shiny application that is used by users within my organization. This app has evolved to the state where I need to move it from the current platform to a platform that is capable of scaling 📈 and has storage 📁. How can I re-factor my existing app to integrate with this? Keep in mind, not only the access, but the data access too.🎯\n\nFirst Steps\n\nUntil very recently, I had almost no experience with Azure or it’s systems, or it’s esoteric lingo 💬.My first step was to attempt to read test data (prepared by an engineer in a File Container) into my local R. I’ll ⏭️ the details of this setup, mostly because I don’t quite understand all that the Azure DevOps Engineers️ 👨‍🔧 had to configure, but also my scope is restricted to R and shiny in this post.\nI looked into the AzureStor package because by it’s description alone, it’s what I was going to need to do: Access files from Azure Storage. Straight forward right 🤷‍♂️? Not exactly ❌.\nIt turns out I needed to use the AzureAuth package first, whose sole focus is on establishing authentication with services on Azure using Active Directory. OK, so game plan. Use AzureAuth to “connect”, get a token 🌕, then pass it to functions in AzureStor to do operations like read/write/list. Once I could do this, I was confident my app would work in it’s entirety. ✔️\nThis task in reality took quite a bit of time to map 🕵. Remember, I don’t speak Azure. I also don’t expect the DevOps engineers 👷 to be familiar with this R package nor support it. Enter growing pains 😭 🏋️‍♀️ 👨‍🔧.\nIn the end we did get it mapped out, some parameters / settings more obvious than others, and I could finally read Azure File Containers hosted on the platform in my local R instance. 🎉\nHere is the function I used:\nAzureAuth::get_azure_token(resource,   tenant,   app,   password = NULL,   username = NULL,   certificate = NULL,   auth_type = NULL,   aad_host = \"https://login.microsoftonline.com/\",   version = 1,   authorize_args = list(),   token_args = list(),   use_cache = NULL,   on_behalf_of = NULL,   auth_code = NULL,   device_creds = NULL )\n\nShiny\n\nOh man, you would think just because you can produce something in a local R session, you can throw it into a shiny app and have it work right? right? Wrong ❌.. That was a learning here.\n\nI’ll mention too that on this new platform, we’ve chosen to use Posit Connect to host our shiny apps going forward. This product is definitely new to the DevOps team and while I have experience deploying apps to it, I don’t have experience in configuring it. 😶.\nSome weeks later, the connect server was setup, and I could deploy hello world apps to it from my local R instance. I could actually deploy my full app, but it essentially didn’t do anything since I didn’t re-factor the data connectivity. Small victories. 🏁\n\nHello App, with Azure\n\nOur first task was to setup any kind of hello world shiny app that could read the files stored in the Azure file container. We eventually got this to work by using the app-password (defined in the link above). This was a reassuring sign of being on the right track ☀️. But what we really needed was to use the user 👥 credentials (since they will be tied to data access within the app). This was a lot more challenging, but an absolute necessity given what my app does.📝\nI’ll say this vignette was super-helpful in theory, but a lot of the pains ⌛ were configurations specific to our companies internal systems 👨‍💻\n\nHello Matt, with Azure\n\nI tried for the life of me to get the app to pull my credentials with no luck. Relying on the app-password was just a non-starter for this project. Enter AzureGraph 🌄\nWe had Microsoft Graph setup in our Azure system. In the end, after many hours of googling (GPT-4 was not helpful here) and experimenting, I was able to get it working locally. Two steps forward, one step back. In the end, I managed to integrate the Graph work flow into a shiny app ✔️.\nThis is what I did:\n\nrequest a token 🌕️ using Microsoft Graph service. This toke️n did contain my user creds\nclone that token for use in another Microsoft Service, namely Azure Storage\npass that token when listing/reading/writing files in Azure using AzureStor within the shiny app ↪️\n❓️❓️❓️\nProfit 🤑.\n\nIt worked.\nBelow is the culmination of many hours and weeks of learning about Azure, and it’s integration into R and Shiny, with the added complexity of our companies systems/policies. 😝😝😝\n\nIn the above, I have a simple dashboard with a user card displaying credentials. What’s really neat is that since SSO is enabled, I only really need to click a button to actually get a token using the chain of events defined above. What’s this mean?\n&lt;em&gt;User’s don’t really have to “login” anymore 🔓. Even better, because the storage is setup and the ACL maintained, users only see what they are supposed to see. No more manual setups ☑️ …at least from my end and from the perspective of Shiny.&lt;/em&gt;\nOkay that’s it. I just want to also say I’ve learned so much from working with the Azure folks 💪🏻; really I have 🙏. They were super patient with me, and really took the time to explain micro-concepts (much of which abbreviated here or skipped for brevity).\n👉Here👈 is a nice link to the Azure* Ecosystem of R Packages. All sorts of useful stuff for interacting with Azure, Sharepoint and lots of other services:\nTill next time, 🍻🥂🥃"
+  },
+  {
+    "objectID": "posts/first-r-code/index.html",
+    "href": "posts/first-r-code/index.html",
+    "title": "old code and beginnings",
+    "section": "",
+    "text": "… and by old, I mean really old. Like year 2008 old. Like the first R code I ever wrote.\nI recently went digging in an old dropbox account for photos and to my surprise I had saved a copy of my undergraduate thesis, complete with code.\nMy undergraduate degree was in Psychology and I had a keen interest in psychometrics. My thesis involved an application of item response theory to ordinal data.\n\nif you are interested, I used Samejima’s Graded Response Model to analyze responses made to the Barratt Impulsiveness Scale from a sample of first year university students\n\nAt the time, my only experience with statistical software was with SPSS. I remember teaching myself how to use it only a year prior in order to double check my intro stats homework assignments 🤓🔬📏. I think that was a good move in retrospect because I was also able to spin that experience into a paid Stats Advisory position at the Psychology Resource Center.\nI digress.\nThe type of model I needed to fit for my thesis was only available through proprietary software. My thesis advisor recommended I look into R as he had caught wind of a package that could help. The upside was that it would be 🆓 and open source 🤑. The downside was that I was going to have to learn “syntax” 🤢. I was aware that SPSS had syntax facilities for advanced users, but it was always intimidating 😣.\nBut now I had to learn “syntax”. I’m laughing while typing this believe you me. 🤣 Anyway, I don’t quite recall the learning process, but I reckon it was difficult and in the end I was probably just relieved to get the job done. ✅🎓.I ended up having to write “syntax” for other supporting analyses in my thesis, namely Confirmatory Factor Analysis for assumption checking in LISREL. shudders\nFor historical (and sentimental reasons) I’ve included the R code in my thesis below. It marked the first steps on the path I’m on today.\nFrom what I can tell I was using R 2.8.1 and I’m happy to see the original 📦, ltm is still active on CRAN today.\nTill next time, 🍻✌\n\ninstall.packages(\"ltm\", dependencies = TRUE)\n#downloads and installs the 'LTM' packageto the user’s hard drive.\n\nlibrary(ltm)\n#loads the 'LTM' package from the user’s hard drive\n\nattention = read.table(file.choose(),header=T)\n#prompts for location of data set\n\ngrm0 = grm(attention, constrained = TRUE, Hessian = TRUE)\n#fits the constrained GRM to the specified data set. The HESSIAN = TRUE argument computes standard error values.\n\nsummary(grm0)\n#returns the parameter estimates\n\ngrm1 = grm(attention, constrained = FALSE, Hessian = TRUE)\n#fits the unconstrained GRM and computes standard error values\n\nsummary(grm1)\n#returns the parameter estimates\n\nanova(grm0,grm1)\n#performs a likelihood ratio test on the two models.\n\nplot(grm1, type = \"IIC\", lwd = 2, cex = 1.2, legend = TRUE, cx = \"topleft\",xlab = \"Latent\nTrait\", cex.main = 1.5, cex.lab = 1.3, cex.axis = 1.1)\n#plots the IIFs\n\nplot(grm1, type = \"IIC\", items = 0, lwd = 2, xlab = \"Attention\",\n     cex.main = 1.5, cex.lab = 1.3, cex.axis = 1.1)\n#plots the TIF\n\nplot(grm1, lwd = 2, cex = 1.2, legend = TRUE, cx = \"left\",\n     xlab = \"Attention\", cex.main = 1.5, cex.lab = 1.3, cex.ax\n     is = 1.1)\n#plots the CRCs\n\nplot(grm1, type = \"OCCu\", lwd = 2, cex = 1.2, legend = TRUE, cx = \"topleft\",\n     xlab = \"Attention\", cex.main = 1.5, cex.lab = 1.3, cex.axis = 1.1)\n#plots the OCCs"
+  },
+  {
+    "objectID": "posts/langagents/index.html",
+    "href": "posts/langagents/index.html",
+    "title": "custom langchain agents",
+    "section": "",
+    "text": "AI, LLMs and ChatGPT have been all the 🌊 the last 12 months and I haven’t written about it here… until now. Today I want to write about an interesting problem that the langchain can potentially solve.\nI’ll assume from here on in you have heard and (hopefully) tried “ChatGPT” yourself 👨‍💻"
+  },
+  {
+    "objectID": "posts/langagents/index.html#the-problem",
+    "href": "posts/langagents/index.html#the-problem",
+    "title": "custom langchain agents",
+    "section": "The Problem",
+    "text": "The Problem\n“A picture is worth a thousand words.” In this case, a picture of words is worth saving me a thousand keystrokes:\n\n\n\nproblem\n\n\nOne of the reasons ChatGPT can’t give responses based on real-time information because the underlying model was trained with data up to a certain point in time."
+  },
+  {
+    "objectID": "posts/langagents/index.html#langchain",
+    "href": "posts/langagents/index.html#langchain",
+    "title": "custom langchain agents",
+    "section": "Langchain",
+    "text": "Langchain\nEnter Langchain. Specifically Langchain Agents.\n\n\n\nmatrix-agents\n\n\nI’m not going to go into an exposition on them (read the docs 📗📘📙) but I want to show how we can leverage them to do things for us.\nAt a high level, I’ll create a “tool” 🔨 to do a task. I’ll make this tool available to the LLM via Langchain. When the agent is invoked, it will reason whether to use my tool (or not 🤔) based on my prompt 🗯"
+  },
+  {
+    "objectID": "posts/langagents/index.html#my-first-tool",
+    "href": "posts/langagents/index.html#my-first-tool",
+    "title": "custom langchain agents",
+    "section": "My First Tool",
+    "text": "My First Tool\nLet’s call him Smith 👤\nSmith is a Python 🐍 function that will:\n\nAccess a public API that suggests activities to someone who is bored 📡\nReturn a random response 🔙\nParse the response to a string 👷\n\ndef Smith():\n    res = requests.get('https://www.boredapi.com/api/activity?participants=1')\n    return res.json()['activity'] + ' Key:' + res.json()['key']\nHere’s an example of a return:\n'Bake pastries for you and your neighbor Key:8125168'\nWe get a single activity recommendation, followed by a reference 🔑 to verify the message came from the API. See here: link\nSo our tool Smith() does what we want. The task at hand now is to make Smith() available to the LLM. And that’s where Langchain comes in."
+  },
+  {
+    "objectID": "posts/langagents/index.html#llms-and-smith",
+    "href": "posts/langagents/index.html#llms-and-smith",
+    "title": "custom langchain agents",
+    "section": "LLMs and Smith",
+    "text": "LLMs and Smith\nIn this section I’ll show very briefly how to include Smith() inside of a Langchain agent call:\nfrom langchain_openai import ChatOpenAI\nfrom langchain.tools import BaseTool\nfrom langchain.agents import initialize_agent\nimport requests\n\nllm = ChatOpenAI()\n\nclass Smith(BaseTool):\n    name = \"suggestions for boredom\"\n    description = \"useful for when you need to give suggestions for boredom.\"\n\n    def _run(self, query: str) -&gt; str:\n        res = requests.get('https://www.boredapi.com/api/activity?participants=1')\n        return res.json()['activity'] + ' Key:' + res.json()['key']\n\nagent = initialize_agent(llm = llm, \n                         tools = [Smith()], \n                         agent = \"zero-shot-react-description\", \n                         verbose = True)\nThat’s about it. Lets try running it with the following prompt and view the output:\nagent.run(\"I am bored, suggest me a few activities. Provide me a key for each activity so I can reference it later.\")\n\n\n\noutput1\n\n\n💥 Pretty neat, right? This output log shows the reasoning of the agent through Action, Observation, Thoughts steps until it arrives at a final answer. The point here is that it used Smith() to reply because it was determined the tool was the right fit 💯"
+  },
+  {
+    "objectID": "posts/langagents/index.html#my-second-tool",
+    "href": "posts/langagents/index.html#my-second-tool",
+    "title": "custom langchain agents",
+    "section": "My Second Tool",
+    "text": "My Second Tool\nLet’s call him Johnson 👤\nJohnson is also a Python 🐍 function. He’s made with BeautifulSoup and his job is to scrape google.ca for the current weather for a location of my choosing.\nHere he is:\nfrom bs4 import BeautifulSoup\nimport requests\n\ndef Johnson(query: str) -&gt; str:\n    url = f'https://google.ca/search?q=weather+{query}'\n    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36'}\n    response = requests.get(url, headers=headers)\n    soup = BeautifulSoup(response.text, 'html.parser')\n    \n    temp_elem = soup.find('span', id='wob_tm')\n    unit_elem = soup.find('div', class_='vk_bk wob-unit')\n    desc_elem = soup.find('div', class_='VQF4g')\n    \n    return print( temp + unit + ' ' + desc)\nLet’s see what he returns:\nJohnson(query = \"Toronto\");\n-2°C Snow\nCool, so learning what we did in the previous example, we can probably use Johnson() to get an answer to the question posed in the beginning of the article.\nBut why stop there? 🤔"
+  },
+  {
+    "objectID": "posts/langagents/index.html#agent-mania",
+    "href": "posts/langagents/index.html#agent-mania",
+    "title": "custom langchain agents",
+    "section": "Agent Mania",
+    "text": "Agent Mania\nLet’s see how we can utilize Smith() and Johnson() together 👥 to answer a more interesting question. Like before, we start with the prompt and view the output.\nagent.run(\"Suggest me a few activities to do today, I am bored. If the activities are outdoors, comment on the weather. I am located in Toronto. Comment on whether the weather will be an issue for each activity.\")\n\n\n\noutput-2\n\n\n🤯 😱 🤯 Just take a few seconds and re-read that response log and appreciate what’s happening here 😱 🤯 😱\n🔥 Absolutely. 🔥 Positively. 🔥 Wild."
+  },
+  {
+    "objectID": "posts/langagents/index.html#wrap-up",
+    "href": "posts/langagents/index.html#wrap-up",
+    "title": "custom langchain agents",
+    "section": "Wrap Up",
+    "text": "Wrap Up\nI hope this short demo of custom Langchain agents will be useful in your own work, the skies the limit 🚀\n\n\n\npower\n\n\nLangchain already has a set of predefined “tools” for agentic modeling you can use including weather (OpenWeather) and internet search (SerpAPI).\nThe point here was to show how to do this yourself in case you have custom requirements for which no off-the-shelf tool exists 💪💪🏻💪🏼\nTill next time 🍻🙏 !"
+  },
+  {
+    "objectID": "posts/low-tech/index.html",
+    "href": "posts/low-tech/index.html",
+    "title": "Going Low Tech",
+    "section": "",
+    "text": "Going Low Tech 🚦\nLast weekend we hosted a birthday party for my wife at our house 🎉. Along with friends and family, we set up three activity stations throughout the evening:\n\n💃 Dance Dance Revolution (I have my own original machine)\n🎤 Karaoke (in the main living room)\n🏀 Basketball (on our backyard half court)\n\nNaturally, we needed a way to crown an overall champion 🏆🥇.\nMy first instinct was the same as usual: build something in R using Shiny. Instead, I deliberately went in the opposite direction.\nNo R ✖️. No Shiny ✖️. No databases ✖️. No APIs ✖️.\nJust Google Forms ✅, Google Sheets ✅, and a free QR code generator 🔳.\nSometimes the simplest tools are exactly the right ones 🧠✨.\n\n\n\nDancing cat\n\n\n\n\nDefining the Problem 🧩\nThe requirements were simple.\nEach activity followed the same flow:\n\nComplete the activity 🎯.\nRecord your score 📝.\nMove on to the next station 🚶.\n\nAt the end of the night, the participant with the highest combined score would win a gift card 🏆🎁.\nThe biggest constraint was that there would be no dedicated scorekeeper. I didn’t want someone stuck at a laptop 💻 entering results while everyone else enjoyed the party.\nThe scoring system needed to be completely self-service 🙌.\n\n\nBuilding the Forms 🛠️\nI already had the guest list, so creating the forms was straightforward.\nEach activity received its own Google Form with the same predefined list of participants. This avoided spelling mistakes ✏️ and ensured submissions could be matched correctly across activities.\nAt each station, I printed a QR code linking directly to the appropriate form. After completing an activity, participants simply scanned the code 📱, selected their name, entered their score, and submitted the form.\n\n\n\nqr\n\n\n\n\nBringing Everything Together 🔗\nEach Google Form fed responses into its own worksheet within a shared Google Sheet 📊.\nFrom there, I built a master scoreboard that combined all three activities, calculated total scores, and generated a live leaderboard 📈.\nAs scores were submitted, the leaderboard updated in real time and was displayed on a television throughout the evening for people to monitor 📺✨.\nIt ended up feeling far more polished than expected for something built almost entirely with spreadsheet formulas…. lol\n\n\n\nscore\n\n\n\n\nAn Unexpected Development Tool 🤖\nThe most interesting part of this project wasn’t Google Sheets itself—it was how I built the system.\nThe concept, workflow, and overall design were mine 💡. The LLM helped me turn that idea into a working system by acting as a technical collaborator and a sanity check throughout the process 🤖.\nWhile I still had to create the Google Forms, generate and print the QR codes, and set up the initial spreadsheet structure, the LLM helped operationalize the idea—guiding architecture decisions 🏗️, troubleshooting Google Sheets formulas ➗, debugging issues 🐛, and refining the leaderboard logic one step at a time.\nThe experience felt much closer to pair programming 👥 than simply asking an AI to generate code and copying the result. It was a fast feedback loop where I could propose an approach, test assumptions, and iterate quickly.\nFor a small project like this, that feedback loop was incredibly valuable ⚡. I went from an idea 💡 to a working prototype in about an hour.\n\n\nTakeaways 💭\nAs developers, it’s easy to default to the technologies we’re most comfortable with.\nThis could have become another Shiny application 📱, but it didn’t need to.\nGoogle Forms and Google Sheets were more than capable of solving the problem while keeping the experience simple for everyone involved. UX matters!\nThe result was a reliable, live scoring system 🏆 that ran the entire evening without requiring anyone to manage it.\nSometimes the best engineering decision isn’t choosing the most powerful technology 🚀—it’s choosing the simplest one that gets the job done ✅.\nUntil next time 🍻"
+  },
+  {
+    "objectID": "posts/reading/index.html",
+    "href": "posts/reading/index.html",
+    "title": "reading files with purrr",
+    "section": "",
+    "text": "I feel like there are countless examples on how to read a directory of .csv files into R using purrr 😺. However, in those examples the setup is potentially many CSV files being read in and stacked into a single data frame.\nWhat if we need to read several .csv (or other types) data files into their own data frame❓️💡\nIn my own work, this is an operation I typically do. Until recently, I haven’t bothered how to figure this out in purrr. Don’t ask how I was doing it before. 🤢\nHere’s a small snippet that will demonstrate how to use purrr::pmap() to perform this operation. Instead of .csv files, we’ll read in .xpt (SAS Transport) using haven::read_xpt()"
+  },
+  {
+    "objectID": "posts/reading/index.html#step-1",
+    "href": "posts/reading/index.html#step-1",
+    "title": "reading files with purrr",
+    "section": "Step 1",
+    "text": "Step 1\nLet’s first identify the relevant files we want to read in using list.files() and store this as a character vector.\n\nlibrary(purrr)\nlibrary(dplyr)\n\nfiles &lt;- list.files(\"C:\\\\\", pattern = \"*.xpt\", full.names = TRUE)\n\n# preview\nfiles"
+  },
+  {
+    "objectID": "posts/reading/index.html#step-2",
+    "href": "posts/reading/index.html#step-2",
+    "title": "reading files with purrr",
+    "section": "Step 2",
+    "text": "Step 2\nNext, for each element of the files character vector, we’ll read in the corresponding file using a combination of purrr::map and haven::read_xpt. This will result in a list where each element corresponds to a tibble of the respective xpt file. At the sometime, we’ll attach the name to each element using purrr::setnames so we can identify what’s what.\n\nfilelists &lt;- files %&gt;%\n  map(., haven::read_xpt) %&gt;%\n  set_names(files %&gt;% basename(.) %&gt;% tools::file_path_sans_ext(.))\n\nHere’s what filelists looks like in R Studio:\n\n\n\nfilelist"
+  },
+  {
+    "objectID": "posts/reading/index.html#step-3",
+    "href": "posts/reading/index.html#step-3",
+    "title": "reading files with purrr",
+    "section": "Step 3",
+    "text": "Step 3\nHere’s the cool part. Let’s use purrr::pmap() and assign() to make a separate data frame for it in the global environment. We start by specifying .x to be the list of files and .y to be the names of the files. With these two inputs, we need to simply map them to a single assign() call and we’re done.💯\n\npurrr::pmap(.l = list(.x = filelists, .y = names(filelists)),\n            .f = ~assign(.y, .x, envir = globalenv()))\n\nHere’s what my global environment looks like in R Studio:\n\n\n\nglobalenv\n\n\nTill next time 🍻🙏 !"
+  },
+  {
+    "objectID": "posts/whisker/index.html",
+    "href": "posts/whisker/index.html",
+    "title": "mustaches and whiskers",
+    "section": "",
+    "text": "I recently came across the whisker 📦, which is an R implementation of {{mustache}}. Say what 👨?\n\n… a logic-less template syntax. It can be used for HTML, config files, source code - anything. It works by expanding tags in a template using values provided in a hash or object.\n\nIf you’ve authored either Rmarkdown documents or shiny apps (using HTML templates) chances are this will feel familiar. ✅\nIn a previous post, I described a templating strategy to automatically generate patient profiles within a clinical trial context. Where as this strategy relied on Rmarkdown and actual R code to produce the per-patient summaries, the whisker approach is far more generic.\nIt’s also really easy to get started with. 🏁\n\nCreate a generic template file with a placeholder for your content enclosed in {{}}\nRead the template into R\nAssign your content using placeholder name\nWrite the results back\n\nI’ll demonstrate with a simple template I’ve made in notepad.\n\n\n\ntemplate\n\n\nNow, in R we can do the following:\n\nlibrary(whisker)\n\n# read in template\nmy_template &lt;- readLines('template.txt')\n\n# assign {{name}} to be \"matt\"\ndata &lt;- list(name = \"matt\")\n\n# write the results back\nwhisker.render(my_template, data = data) |&gt;\n  writeLines(\"output.txt\")\n\nHere is the result of the output \nSo what? Is this just a glorified search and replace functionality? 🤷️ No.\nThis is actually quite powerful when you start to think of the applications 🤔. ️️💡 Consider a complete R script as a “template”️. Something you tend to reuse in your work time to time. With whisker you can easily populate these templates and actually generate R (or other languages) scripts that can be executed as is.\nStill not convinced? Okay, think about how you could share some of this 💪 with your end users in the form a shiny app! ✌🍻"
+  },
+  {
+    "objectID": "projects/abstractr/index.html",
+    "href": "projects/abstractr/index.html",
+    "title": "Visual Abstracts",
+    "section": "",
+    "text": "View App Shiny Contest CRAN\n\nThe idea of ‘Visual Abstracts’ have recently become popular and are particularly efficient in distilling the main findings of original research.\nI wanted to create an application that enabled users (or non programmers in general) to create nice visual summaries for their research projects they could share over social media. I’ve added a fair bit of control and customization in the application mostly related to layout and aesthetics.\nThis project was entered into the first ever (2019) Shiny Competition hosted by R Studio and received an honorable mention. You can view the original blog entry here.\nI also ended up turning this app into a package, which can be installed locally on your machine from CRAN.\n\ninstall.packages(\"abstractr\")"
+  },
+  {
+    "objectID": "projects/calendar/index.html",
+    "href": "projects/calendar/index.html",
+    "title": "React Calendar",
+    "section": "",
+    "text": "View Demo View Repo R-Studio Contest\n\nThe following project was a second entry into the first R Studio table contest held in 2020.\nI don’t even know where to start with this one. I was looking at creative uses of a table and I landed on the idea of using a table as a calendar.\nAt the same time, I was really into figuring out how to incorporate custom CSS into shiny. I had found this awesome 8-bit inspired CSS library and immediately wanted to use it. You can view it here.\nBuilding on my previous experience of the reactable package (and custom JS), I kind of went HAM on this one:\n\nIn addition to the custom bezel, added animated gifs from the super mario games\nAdded (borrwed) JS code to give the particle effect of snow falling (it was December afterall!)\nUsing JS, set custom modals on certain dates to mimic the feel of a calendar invite in Outlook. These are also stylized to match the overall aesthetic.\n\n\n\n\nNAR Table"
+  },
+  {
+    "objectID": "projects/forestr/index.html",
+    "href": "projects/forestr/index.html",
+    "title": "forestR",
+    "section": "",
+    "text": "View Demo View Repo\n\nIn a previous role, creating forest plots were a routine task in almost any project that involved studying statistical associations between various exposures and outcomes using population-level data. These usually came in the form of logistic regression (odds ratios) or Cox models (hazard ratios) and needed to be visualized, often using a forest plot.\nWhile that role (and organization) was very SAS-centric, no macro or PROC, to my knowledge, existed at the time that made this process painless. Often analysts would turn to Excel (cringe) and spend needless hours trying to format shoehorn their results into a template.\nTo help overcome this, I created a forest plot in R and shared it with colleagues. As more and more wished to use it and adapt it, I realized this was a good candidate for a Shiny app. So, regardless of familiarity with R, all project members could craft a high-quality, publication ready forest plot for the journal article submission.\nTo help bridge the gap between SAS and R, I structured the input data set required by the shiny app around what PROC logistic or Lifetest would spit out via ODS (or something very near). This was also because at the time, most statistical analyses were not done in R.\nSo, the app works like this.\n\nI provide you a template with some light conventions to follow. These mimic most SAS PROCS ODS outputs.\nFill in the template and upload it to the app.\nI provide you a good deal of aesthetic control (color, log-scaling, custom breaks, text, etc) to customize your plot.\nDownload your plot as a high-res PDF.\n???\nProfit.\n\nThere’s sample data in the app. You can edit it to your liking or just click Proceed. Give it a shot."
+  },
+  {
+    "objectID": "projects/funnelr/index.html",
+    "href": "projects/funnelr/index.html",
+    "title": "funnelR",
+    "section": "",
+    "text": "CRAN R views Top 40 View App\n\nAh yes, my first expedition into building an R package and having it submitted to CRAN.\n\ninstall.packages('funnelR')\n\nIn retrospect, I’ve learned quite a bit since about package building, reproducibility and the need for tests. Many of which are absent here.\nI’ve included this entry here as it served as a major milestone for personal development. It even made the Top 40 New Package Picks shortly after it was released.\nI leave you with the vignettes to see what this package is all about. To give some context, in a previous role funnel plots were a staple of most statistical analyses involving our population-level data holdings.\n\nThe funnelR package provides a flexible framework for creating funnel plots for proportion data. A funnel plot is a powerful visualization in the analysis of unit level performance relative to some criterion. It readily allows identification of units that are In Control or Extreme according to a benchmark at a specified level of confidence (e.g.95%).\n\n\nFramed this way, a funnel plot can be applied to any number of fields of study to monitor and identify units that deviate from what is considered typical. For example, it could be used to differentiate schools that are high, average or low performing on a standardized test according to a National or State benchmark. From a quality improvement point of view, they might help identify which hospitals have extreme mortality or surgical complication rates relative to a benchmark prescribed by a government body.\n\n\nThe funnelR package provides many options to specify elements of a funnel plot including user defined: control limits, benchmarks, and estimation methods. It also has the capability to write scored results (i.e. a variable that records whether a unit is In Control or Extreme according to the specifications of the funnel plot) to your sample data set. This variable might then be included in further analysis such as cross-tabulations (e.g. stratification) or regression modeling (e.g. covariate).\n\n\nWhile many flavors of funnel plots exist (rates, ratios, etc.), the current package considers funnel plots assuming proportion data that is binomially distributed. The interested reader is referred to Spiegelhalter (2005) for further details.\n\nIf you’re interested in a specific use case (the one highlighted in the banner), I got you covered\nIf you want to see more flavors, I turn you to the FunnelPlotR package which is more comprehensive in types of analyses covered and actively maintained."
+  },
+  {
+    "objectID": "projects/mcmc/index.html",
+    "href": "projects/mcmc/index.html",
+    "title": "Visual MCMC",
+    "section": "",
+    "text": "View Rpubs View Repo Linked In\n\nMy educational background and training was in Biostatistics. Throughout my career, I’ve served many different roles, from statistician to programmer to epidemiologist to most recently, computational scientist. Over the last bit, I’ve kind of lost touch with my mathematical and statistical roots. Every so often, I will dive back into some concepts to remind myself how it works and learn of any new developments.\nBayesian statistics was an interesting course in my graduate program. Unfortunately, I haven’t used it as much as I would have wished, but I am simply fascinated by the math. At the same time, it can be challenging to wrap your head around what’s going on underneath the hood in the estimation process. This is precisely why I made this post.\n\nI’ll stop here to direct you towards the original (more comprehensive) post I made concerning this topic, which can be found here\n\nIn short, this project involved a few key activities that helped refresh my memory and deepen my understanding, all through using R, animation and simulation.\n\nSimulating data arising from a statistical model with known parameters. Logistic regression was the use case.\nFitting the model on simulated data to recover the known parameters, verifying the simulation worked.\nBuilding an MCMC sampler (Random Walks Metropolis-Hastings) in order to fit a Bayesian version of the logistic regression model\nUnderstand exactly what the algorithm does at each step and visualize this via animation. Understand the impact of different priors, candidate distributions, and jump steps in the algorithm.\nCompare results obtained through the MCMC sampler against what we previously obtained.\n\nTo this end, I prepared three visualizations I’d like to share.\n\n\n\npart\n\n\nThis visualization shows the first 100 iterations of a single chain in estimating the parameters of the Bayesian logistic regression analysis. I’ve overlaid a table that shows the current and previous values, and the decision taken by the algorithim.\n\n\n\nfull\n\n\nThis visualization shows the full 10,000 iterations of the single chain. I’ve removed the table of estimates. Here it’s quite clear that the chain quickly settles into the area of the known parameter estimates.\n\n\n\nmulti\n\n\nThe last visualization mixes things up a bit, by providing 4 chains, each with different starting or initialization values. In the end, they all converge. Kind of.\nHope you find it useful!"
+  },
+  {
+    "objectID": "projects/react/index.html",
+    "href": "projects/react/index.html",
+    "title": "story creator",
+    "section": "",
+    "text": "View React App View Repo\n\n\nThe App\n\n\nThis is a simple React  app I wrote that has the following intention:\n\nA user provides 4 topic areas they want a funny, short story written about\nA prompt is created in the background based on that input\nThe prompt is sent to Open AI via an API to request a story\nThe returned story is displayed to the user\nThe app is styled to give an ‘authors’ feel via borrowed CSS and MS Paint\n\n\nIt turns out my API usage hit it’s limit 🥀, so I’ve slightly altered the code to just display a static message. The ChatGPT part was secondary to actually learning and applying react, which was the real purpose of this. See below! \n\n\n\nThe Journey\n\n\nI’ll start by saying I 😍 shiny. It’s my 🔝. But this year has shown me a few things, namely, it’s 😢 to need a Connect server to share apps. I’ve also wanted to learn something a bit more broad strokes, and so I chose React   This app, while simple, was a bit of a pain to get up and running. Here are the things I needed to learn:  - 🔨 fundamental react concepts and syntax 👨‍💻: I mostly followed Youtube 🎥 and surprisingly… the official 📝. I tried not to use GPT in generating any code as that would defeat the purpose 🎯   - ◀️ adapting ideas ▶️: What I mean by this is pretty much switching mindsets and translating my ideas, couched Shiny’s reactive framework, to React. The UI side was easy since I use a lot of custom CSS and JS in my shiny apps 💅   - 👷 development environment setup: I (begrudgingly) used VSCode to do the development. This involved setting up Node, using npm and getting familiar with testing and debugging in Chrome developer tools. npm create-react-app allowed me to hit the ground running 🏃💨   - CI/CD: kind of, I first setup a github repository in VSCode, which was a learning by itself 👨‍🏫. I then had to figure out how to actually build 🛠 a react app and deploy it somewhere! Here I setup a process to compile and push to gh-pages for hosting.  I realize a lot of these things I take for granted using R Studio and I see the value in knowing how to do it through other means ✅. I’ll most likely continue working on my react skills next year, so keep an eye out!  Till next time 🍻✌"
+  },
+  {
+    "objectID": "projects/shiny-gha/index.html",
+    "href": "projects/shiny-gha/index.html",
+    "title": "GHA and Shiny",
+    "section": "",
+    "text": "View App View Repo\n\nThis was a fun 🤓 experiment to build the intuition of using Github Actions (GHA) to automate “things”. In this case, I use GHA to auto-deploy a shiny app to my personal shinyapps.io account.\nIn a nutshell, it works like this:\n\nEverytime a push is made to the master branch of this repo, a github action script is triggered 🏃🏃🏻🏃🏼 💨\nThe set of GHAs is specified using a yaml file, here ~/.github/workflows/deploy.yaml\nIn the yaml file, you provide explicit instructions to build your app from the ground up. This includes everything from first installing R, R packages to deployment to shinyapps.io via the {rsconnect} package.🔀🔁\nOne the GHAs are finished, the app is made available at the destination. ✅\n\nPretty neat!\n\n\n\nimg\n\n\nIn order to test whether GHA was working, the sample app I created is a super-simple dashboard 📈📉📊 that takes a single reactive: the date and time of deployment ⏰. There are other, more informative ways to monitor their progress and I will be covering this and more in depth in my Quarto use-case write up 💬. Stay tuned!\nFor now, I want to make this available as it reflects a recent learning and a pattern I can see myself reusing in the future. Many thanks to the following people + resources 💪💪💪\n\nKyle Cuilla\nSiqi Zhang\nMaking Data Science Work for Clinical Reporting Coursera\n\nTill next time, 🍻!"
+  },
+  {
+    "objectID": "projects/shinymeta/index.html",
+    "href": "projects/shinymeta/index.html",
+    "title": "shinyMeta",
+    "section": "",
+    "text": "View App View Repo View Slides View PDF\n\n\n…catching Up\n\nThis is sort of an overdue post 😊\nI’m now sharing the supporting app to my talk on Reproducibility of Interactive Analyses, which I presented at Phuse US Connect 2023 earlier this year.\nLinks to the original slides and accompanying paper are found up above ☝\nTill next time 🍻✌"
+  },
+  {
+    "objectID": "projects/surv-tables/index.html",
+    "href": "projects/surv-tables/index.html",
+    "title": "Survival Tables",
+    "section": "",
+    "text": "View Demo View Repo R-Studio Contest\n\nThe following project was an entry into the first R Studio table contest held in 2020.\nIt depicts a standard survival analysis using the Kaplan-Meier method. Accompanying the graph is an interactive Number at Risk (DT) table which can be clicked.\n\n\n\nNAR Table\n\n\nUpon clicking a cell of the Number at Risk table, a second (Reactable) table is produced for those subjects.\nIn this table, contextual information is given for these subjects and an inline, interactive swimmer plot (Highcharter) is also produced.\n\n\n\nSwimmer Table\n\n\nSadly this table did not place in the contest, though parts of it have made it’s way into some of our team projects.\nI learned a lot about JS and Reactable in this project, which has since become my display table package of choice within R :)"
+  },
+  {
+    "objectID": "projects/tplyr/index.html",
+    "href": "projects/tplyr/index.html",
+    "title": "Linked TLFs",
+    "section": "",
+    "text": "View Demo View Tplyr Linked In\n\n\nOverview\n\nOn March 31, 2022 I had the pleasure of attending the CDISC Open Source Alliance (COSA) Spotlight where from various CDISC community members shared exciting developments from their work. If you’re interested in the recording, it can be viewed here.   Among presenters were Mike Stackhouse and Eli Miller from Atorus demonstrating a new feature coming to {Tplyr}: the ability to to query and retrieve individual observations from a summary table using a metadata-driven approach.   Imagine a generic table. Imagine clicking on a particular cell of that table. Imagine being able to easily identify patients that comprise that cell. Let that sink in for a second as I did. Pretty powerful stuff…\n\nAn Example\n\nExcited to give it a try, I spent the weekend coding up this example. It uses a demographics table as an anchor. Once a cell is selected, a variety of TLFs are linked for the patients in that cell.   Here is the anchor TLF. I’ve clicked on the overall total cell for patients categorized as being &gt; 80 years of age. There are N = 77 such patients.\n\n\n\nanchor\n\n\nHere is the first linked TLF. A simple listing of the N = 77 patients. In Tplyr, you can specify any additional columns you wish to have too.\n\n\n\nlisting\n\n\nI mentioned figures! Here is a safety figure and an efficacy figure for those N = 77 patients. Each of these figures are also interactive thanks to {highcharter}.\n\n\n\nfigures\n\n\nLastly, here is a TLF from a completely separate section (i.e. safety) for those N = 77 patients. I’ve leveraged some of the neat features of {reactable} to nest things.\n\n\n\ntlf2\n\n\n\nForward\n\nNow take this impulse and multiply it by an entire catalog of TLFs and add to it Shiny’s capabilities - what have you got?   A Swiss army knife of productivity capable of serving many functions. Think stat analysts, statisticians, medical writing and more…\n\nAccess\n\nYou can try the app I created for this example here.   You can also access the specific build of {Tplyr} with these capabilities by going here.\n\nremotes::install_github(\"atorus-research/Tplyr@20beb73cd4c202308afbbb57c1f2b6e1590295b7\")\n\nI’ll definitely be keeping an eye on more developments and hope to share more with you here."
+  },
+  {
+    "objectID": "talks/dia2024/index.html",
+    "href": "talks/dia2024/index.html",
+    "title": "Data Insight Generation",
+    "section": "",
+    "text": "View Presentation"
+  },
+  {
+    "objectID": "talks/phuse-dv-2021/index.html",
+    "href": "talks/phuse-dv-2021/index.html",
+    "title": "Table-based Data Visualizations using R",
+    "section": "",
+    "text": "View Presentation"
+  },
+  {
+    "objectID": "talks/phuse-os-2023/index.html",
+    "href": "talks/phuse-os-2023/index.html",
+    "title": "Reproducibility of Interactive Analyses",
+    "section": "",
+    "text": "View Presentation PDF"
+  },
+  {
+    "objectID": "talks/r4oda/index.html",
+    "href": "talks/r4oda/index.html",
+    "title": "Data Manipulation with R",
+    "section": "",
+    "text": "View Presentation"
+  },
+  {
+    "objectID": "publications/breast-immigrant/index.html",
+    "href": "publications/breast-immigrant/index.html",
+    "title": "Breast cancer screening disparities among immigrant women by world region of origin - a population-based study in Ontario, Canada",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "publications/cll/index.html",
+    "href": "publications/cll/index.html",
+    "title": "The association of dyslipidemia with Chronic Lymphocytic Leukemia - a population-based study",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "publications/llm/index.html",
+    "href": "publications/llm/index.html",
+    "title": "Deterministic Foundations, AI Acceleration - Lessons from Developing Hybrid Clinical Review Tools",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "publications/nighttime-outcomes/index.html",
+    "href": "publications/nighttime-outcomes/index.html",
+    "title": "Outcomes of Daytime Procedures Performed by Attending Surgeons after Night Work",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "publications/opioid/index.html",
+    "href": "publications/opioid/index.html",
+    "title": "Time trends in opioid prescribing among Ontario long-term care residents - a repeated cross-sectional study",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "publications/shinymeta/index.html",
+    "href": "publications/shinymeta/index.html",
+    "title": "Reproducibility of Interactive Analyses",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Matthew Kumar",
+    "section": "",
+    "text": "Posts\n\n\nmusings, snippets, throwaways\n\n\n\n\n\n\n\n\nGoing Low Tech\n\n\nScoring a birthday party with Google Forms, Sheets, and QR codes instead of a Shiny app.\n\n\n Aug 2, 2026\n\n\n\n\n\n\nLLM monitoring\n\n\nMonitoring LLM usage inside an AI-enabled R Shiny app.\n\n\n Jan 2, 2025\n\n\n\n\n\n\ncustom langchain agents\n\n\nUsing LangChain custom agents to solve a document-from-image problem.\n\n\n Mar 28, 2024\n\n\n\n\n\n\nsaving sessions (+ shinylive)\n\n\nSaving and restoring Shiny sessions when bookmarks aren’t enough, plus a shinylive demo.\n\n\n Nov 25, 2023\n\n\n\n\n\n\nDevOps Bootcamp\n\n\nNotes from moving a Shiny app onto Azure — authentication, storage, and what the R packages actually do.\n\n\n Jul 4, 2023\n\n\n\n\n\n\nreading files with purrr\n\n\nReading many files into separate data frames with purrr::pmap(), instead of stacking them into one.\n\n\n Mar 13, 2023\n\n\n\n\n\n\nhighlights of 2022\n\n\nLooking back at the latter half of 2022 — this site, the Posit table contest, and other highlights.\n\n\n Dec 29, 2022\n\n\n\n\n\n\nold code and beginnings\n\n\nDigging up the first R code I ever wrote, from a 2008 undergraduate thesis on item response theory.\n\n\n Jul 4, 2022\n\n\n\n\n\n\ntweaking shiny actionButton\n\n\nChanging shiny::actionButton() so links open in a new window instead of navigating away from the app.\n\n\n Jun 16, 2022\n\n\n\n\n\n\nmustaches and whiskers\n\n\nUsing the whisker package, R’s implementation of mustache templates, for generic templating.\n\n\n Jun 15, 2022\n\n\n\n\n\n\nReticulate to the Rescue\n\n\nExtracting URLs from Excel hyperlinks with Python and reticulate after R packages came up short.\n\n\n May 4, 2022\n\n\n\n\n\n\nHello World\n\n\nA new digital home for thoughts on R, Shiny, and statistics.\n\n\n May 3, 2022\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Matthew Kumar",
+    "section": "",
+    "text": "Presentations\n\n\ntutorials, conferences and other presentations\n\n\n\n\n\n\n\n\n\n\n\nScheduled Clinical Insights - AI-Assisted Quarto Reporting for Oncology Studies\n\n\nWeaving Posit Connect, Quarto and AI all for automated insights!\n\n\n Jun 15, 2026· R/Pharma Generative AI Day - 2026 - Virtual\n\n\n\n\n\n\n\n\n\nDeterministic Foundations, AI Acceleration- Lessons from Developing Hybrid Clinical Review Tools\n\n\nExploring LLMs in Clinical Review Tools via R, Shiny\n\n\n Mar 24, 2026· PhUSE US Connect 2026\n\n\n\n\n\n\n\n\n\nAccelerating Oncology Data Review - An R Shiny application for insights\n\n\nClinical Review Tools via R, Shiny\n\n\n Sep 5, 2025· PhUSE SDE - TarryTown 2025\n\n\n\n\n\n\n\n\n\nNarromaticAI\n\n\nSupporting the Medical Writing process with R, Shiny and GenAI\n\n\n Sep 17, 2024· R/Pharma Generative AI Day\n\n\n\n\n\n\n\n\n\nData Insight Generation\n\n\nLeveraging Data Visualization in Study Planning, Monitoring, Exploration, Reporting and Submission\n\n\n Jun 17, 2024· DIA 2024 Global annual Meeting\n\n\n\n\n\n\n\n\n\nReproducibility of Interactive Analyses\n\n\nExploring code generation and reproducibility in the context of shiny apps\n\n\n Mar 8, 2023· PhUSE US Connect 2023\n\n\n\n\n\n\n\n\n\nTable-based Data Visualizations using R\n\n\nExploring the use of table-based data visualizations in clinical trials\n\n\n Jun 14, 2021· PhUSE US Connect 2021\n\n\n\n\n\n\n\n\n\nData Manipulation with R\n\n\nAn interactive presentation on data manipulation in R geared towards SAS users\n\n\n Dec 4, 2019· Online\n\n\n\n\nNo matching items"
+  }
+]

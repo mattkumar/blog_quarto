@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.26">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Publications · Matthew Kumar – Matthew Kumar</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-9a2cbddd6f94d7131f0f4be4e7d6251e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-40aaed6ac529317cd1fb2330e005e413.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-pubs-list .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-website','listing-format','listing-execute','listing-language','listing-freeze','listing-title','listing-date','listing-author','listing-publication','listing-doi','listing-url_pdf','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-website","listing-format","listing-execute","listing-language","listing-freeze","listing-title","listing-date","listing-author","listing-publication","listing-doi","listing-url_pdf","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-pubs-list'] = new List('listing-pubs-list', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+<style>html{ scroll-behavior: smooth; }</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+<meta name="theme-color" content="#F8F9FB">
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../index.html">
+    <span class="navbar-title">Matthew Kumar</span>
+    </a>
+  </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html#about"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../projects/index.html"> 
+<span class="menu-text">Projects</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../posts/index.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../talks/index.html"> 
+<span class="menu-text">Talks</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../publications/index.html" aria-current="page"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    
+<!-- main -->
+<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+
+
+
+
+<div class="home-section">
+<div class="home-grid">
+<div class="section-heading">
+<p class="section-title">
+<i class="bi bi-journal-medical"></i> Publications
+</p>
+<p class="section-kicker">
+academic works as a biostatistician
+</p>
+</div>
+<div class="section-body">
+<div id="listing-pubs-list" class="quarto-listing quarto-listing-container-custom">
+<div class="citation-list">
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Kumar M, Srinivas Veeragoni (2026). <a href="../publications/llm/index.html">Deterministic Foundations, AI Acceleration - Lessons from Developing Hybrid Clinical Review Tools</a>. <span class="venue">Phuse US Connect 2026(ML-20)</span>.
+</p>
+<a class="citation-pdf" href="https://phuse.s3.eu-central-1.amazonaws.com/Archive/2026/Connect/US/Austin/PAP_ML20.pdf" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Kumar M, Srinivas Veeragoni (2023). <a href="../publications/shinymeta/index.html">Reproducibility of Interactive Analyses</a>. <span class="venue">Phuse US Connect 2023(OS-10)</span>.
+</p>
+<a class="citation-pdf" href="https://github.com/mattkumar/blog/raw/main/content/event/phuse_os_2023/PAP_OS10.pdf" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Daneman N, Lee S, Bai H, Bell C, Bronskill SE, Campitelli MA, Dobell G, Fu L, Garber G, Ivers N, Kumar M, Lam J, Langford B, Laur C, Morris A, Mulhall C, Pinto R, Saxena FE, Schwartz, Brown K (2022). <a href="../publications/rct/index.html">Behavioral Nudges to Improve Audit and Feedback Report Opening Among Antibiotic Prescribers A Randomized Controlled Trial</a>. <span class="venue">Open Forum Infectious Diseases, 9(5)</span>. <a class="doi" href="https://doi.org/10.1093/ofid/ofac111"><i class="bi bi-journal-medical"></i> doi:10.1093/ofid/ofac111</a>
+</p>
+<a class="citation-pdf" href="https://academic.oup.com/ofid/article-pdf/9/5/ofac111/43288666/ofac111.pdf" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Yan M, Saxena F, Calzavara A, Brown K, Garber G, Gershon A, Johnstone J, Kumar M, Langford B, Lee S, Schwartz K, Daneman N (2021). <a href="../publications/macrolide/index.html">Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis</a>. <span class="venue">Canadian Medical Association Journal Open, 9(2)</span>. <a class="doi" href="https://doi.org/10.9778/cmajo.20200157"><i class="bi bi-journal-medical"></i> doi:10.9778/cmajo.20200157</a>
+</p>
+<a class="citation-pdf" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8177912/pdf/cmajo.20200157.pdf" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Guttmann A, Saunders NR, Kumar M, Gandhi S, Diong C, MacCon K, Cairney J (2020). <a href="../publications/ewbv-paper/index.html">Implementation of a Physician Incentive Program for 18-Month Developmental Screening in Ontario, Canada</a>. <span class="venue">BMJ Open Diabetes Res Care 8(1)</span>. <a class="doi" href="https://doi.org/10.1016/j.jpeds.2020.03.016"><i class="bi bi-journal-medical"></i> doi:10.1016/j.jpeds.2020.03.016</a>
+</p>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Weisman A, Tu K, Young J, Kumar M, Austin PC, Jaakkimainen L, Lipscombe L, Aronson R, Booth G (2020). <a href="../publications/type2diabetes/index.html">Validation of a type 1 diabetes algorithm using electronic medical records and administrative healthcare data to study the population incidence and prevalence of type 1 diabetes in Ontario, Canada</a>. <span class="venue">BMJ Open Diabetes Res Care 8(1)</span>. <a class="doi" href="https://doi.org/10.1136/bmjdrc-2020-001224"><i class="bi bi-journal-medical"></i> doi:10.1136/bmjdrc-2020-001224</a>
+</p>
+<a class="citation-pdf" href="https://drc.bmj.com/content/bmjdrc/8/1/e001224.full.pdf" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Iaboni A, Campitelli MA, Bronskill SE, Diong C, Kumar M, Maclagan L, Gomes T, Tadorus M, Maxwell CJ (2019). <a href="../publications/opioid/index.html">Time trends in opioid prescribing among Ontario long-term care residents - a repeated cross-sectional study</a>. <span class="venue">Canadian Medical Association Journal Open, 7(3)</span>. <a class="doi" href="https://doi.org/10.9778/cmajo.20190052"><i class="bi bi-journal-medical"></i> doi:10.9778/cmajo.20190052</a>
+</p>
+<a class="citation-pdf" href="https://www.cmajopen.ca/content/cmajo/7/3/E582.full-text.pdf" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Campitelli MA, Kumar M, Greenberg A, ICES/HQO Ontario Laboratory Information System Working Group (2018). <a href="../publications/olis-ltc/index.html">Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis</a>. <span class="venue">Healthcare Quarterly, 6(2)</span>. <a class="doi" href="https://doi.org/10.12927/hcq.2018.25630"><i class="bi bi-journal-medical"></i> doi:10.12927/hcq.2018.25630</a>
+</p>
+<a class="citation-pdf" href="https://www.longwoods.com/product/download/code/25630" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Mozessohn L, Earle C, Spaner D, Cheng SY, Kumar M, Buckstein R (2016). <a href="../publications/cll/index.html">The association of dyslipidemia with Chronic Lymphocytic Leukemia - a population-based study</a>. <span class="venue">Journal of the National Cancer Institute, 109(3)</span>. <a class="doi" href="https://doi.org/10.1093/jnci/djw226"><i class="bi bi-journal-medical"></i> doi:10.1093/jnci/djw226</a>
+</p>
+<a class="citation-pdf" href="https://academic.oup.com/jnci/article-pdf/109/3/djw226/17500661/djw226.pdf" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Govindarajan A, Urbach D, Kumar M, Li Q, Murray BJ, Juurlink D, Kennedy E, Gagliardi A, Sutradhar R, Baxter NN (2015). <a href="../publications/nighttime-outcomes/index.html">Outcomes of Daytime Procedures Performed by Attending Surgeons after Night Work</a>. <span class="venue">New England Journal of Medicine, 373(9)</span>. <a class="doi" href="https://doi.org/10.1056/NEJMsa1415994"><i class="bi bi-journal-medical"></i> doi:10.1056/NEJMsa1415994</a>
+</p>
+<a class="citation-pdf" href="https://www.nejm.org/doi/pdf/10.1056/NEJMsa1415994?articleTools=true" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Vahabi M, Lofters A, Kumar M, Glazier RH (2015). <a href="../publications/breast-immigrant/index.html">Breast cancer screening disparities among immigrant women by world region of origin - a population-based study in Ontario, Canada</a>. <span class="venue">Cancer Medicine, 5(7)</span>. <a class="doi" href="https://doi.org/10.1002/cam4.700"><i class="bi bi-journal-medical"></i> doi:10.1002/cam4.700</a>
+</p>
+<a class="citation-pdf" href="https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27105926/" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+<article class="citation-item">
+<div class="citation-row">
+<p class="citation-text">
+Vahabi M, Lofters A, Kumar M, Glazier RH (2015). <a href="../publications/breast-urban/index.html">Breast cancer screening disparities among urban immigrants - a population-based study in Ontario, Canada</a>. <span class="venue">BMC Public Health, 21(9)</span>. <a class="doi" href="https://doi.org/10.1186/s12889-015-2050-5"><i class="bi bi-journal-medical"></i> doi:10.1186/s12889-015-2050-5</a>
+</p>
+<a class="citation-pdf" href="https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-015-2050-5.pdf" target="_blank" rel="noopener" aria-label="Download PDF"><i class="bi bi-file-earmark-pdf"></i><span>PDF</span></a>
+</div>
+</article>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+</main> <!-- /main -->
+<script>
+(function () {
+  var links = document.querySelectorAll(".navbar-nav .nav-item .nav-link");
+  if (!links.length) return;
+  var i = 0, pass = 0, n = links.length, passes = 3, dwell = 420;
+  function clear() {
+    for (var k = 0; k < n; k++) links[k].classList.remove("nav-pulse-on");
+  }
+  function tick() {
+    clear();
+    if (pass >= passes) return;
+    links[i].classList.add("nav-pulse-on");
+    i += 1;
+    if (i >= n) { i = 0; pass += 1; }
+    setTimeout(tick, dwell);
+  }
+  setTimeout(tick, 400);
+})();
+</script>
+<script>
+(function () {
+  var about = document.getElementById("about");
+  if (!about) return;
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  var canvas = document.createElement("canvas");
+  canvas.id = "about-particles";
+  canvas.setAttribute("aria-hidden", "true");
+  about.prepend(canvas);
+  var ctx = canvas.getContext("2d");
+  var dots = [];
+  var running = false;
+  var raf = 0;
+  function resize() {
+    var w = window.innerWidth;
+    var h = about.offsetHeight;
+    canvas.width = Math.floor(w * (window.devicePixelRatio || 1));
+    canvas.height = Math.floor(h * (window.devicePixelRatio || 1));
+    canvas.style.width = w + "px";
+    canvas.style.height = h + "px";
+    ctx.setTransform(window.devicePixelRatio || 1, 0, 0, window.devicePixelRatio || 1, 0, 0);
+  }
+  function seed() {
+    var w = window.innerWidth;
+    var h = about.offsetHeight;
+    var n = Math.max(28, Math.floor((w * h) / 28000));
+    dots = [];
+    for (var i = 0; i < n; i++) {
+      dots.push({
+        x: Math.random() * w,
+        y: Math.random() * h,
+        vx: (Math.random() - 0.5) * 0.28,
+        vy: (Math.random() - 0.5) * 0.28,
+        r: 1 + Math.random() * 1.6,
+        a: 0.18 + Math.random() * 0.28
+      });
+    }
+  }
+  function step() {
+    if (!running) return;
+    var w = window.innerWidth;
+    var h = about.offsetHeight;
+    ctx.clearRect(0, 0, w, h);
+    for (var i = 0; i < dots.length; i++) {
+      var d = dots[i];
+      d.x += d.vx;
+      d.y += d.vy;
+      if (d.x < 0 || d.x > w) d.vx *= -1;
+      if (d.y < 0 || d.y > h) d.vy *= -1;
+    }
+    ctx.lineWidth = 1;
+    for (var i = 0; i < dots.length; i++) {
+      for (var j = i + 1; j < dots.length; j++) {
+        var dx = dots[i].x - dots[j].x;
+        var dy = dots[i].y - dots[j].y;
+        var dist = Math.sqrt(dx * dx + dy * dy);
+        if (dist < 110) {
+          ctx.strokeStyle = "rgba(37, 99, 235," + (0.09 * (1 - dist / 110)) + ")";
+          ctx.beginPath();
+          ctx.moveTo(dots[i].x, dots[i].y);
+          ctx.lineTo(dots[j].x, dots[j].y);
+          ctx.stroke();
+        }
+      }
+    }
+    for (var i = 0; i < dots.length; i++) {
+      var d = dots[i];
+      ctx.beginPath();
+      ctx.fillStyle = "rgba(37, 99, 235," + d.a + ")";
+      ctx.arc(d.x, d.y, d.r, 0, Math.PI * 2);
+      ctx.fill();
+    }
+    raf = requestAnimationFrame(step);
+  }
+  function start() {
+    if (running) return;
+    running = true;
+    raf = requestAnimationFrame(step);
+  }
+  function stop() {
+    running = false;
+    cancelAnimationFrame(raf);
+  }
+  resize();
+  seed();
+  var vis = new IntersectionObserver(function (entries) {
+    if (entries[0].isIntersecting) start();
+    else stop();
+  }, { threshold: 0.05 });
+  vis.observe(about);
+  window.addEventListener("resize", function () {
+    resize();
+    seed();
+  });
+})();
+</script>
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2026 Matthew Kumar</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Built with Quarto</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>
