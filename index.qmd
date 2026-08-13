@@ -65,11 +65,11 @@ format:
 :::: {.bio}
 <p class="bio-heading"><i class="bi bi-person-lines-fill"></i> Biography</p>
 
-I'm currently an Associate Director, Lead Computational Scientist with over 10 years experience in statistical methods, programming and data visualization across multiple industries. My main weapons of choice are R, Shiny, git, and python for descriptive and inferential analyses, creating custom reports or dashboard solutions and building interactive web applications.
+I'm currently an Associate Director, Lead Computational Scientist at Bayer AG in the Data Sciences and Artificial Intelligence group. I have over 15 years of experience in applying statistical methods, programming, data visualization, and real-world data (RWD) in multiple industries. My main weapons of choice are R, Python, Shiny, and git. I use them to analyze clinical trials and observational studies in both industry and academic settings, and for custom reporting, automation, and building solutions. I also enjoy prototyping and checking out new tech.
 
-My formal education includes an MSc in Biostatistics from the University of Toronto and an Honor's B.A. in Psychology from York University. I have taken a number of courses and workshops related to advanced analytics, software development and computing. I am a strong proponent of continuing education, self-learning and early adoption & experimentation. My current pursuits are learning cloud technologies such as Azure, and building robust applications around large language models (LLMs).
+My formal education includes an MSc in Biostatistics from the University of Toronto and an Honor's B.A. in Psychology from York University. I have taken a number of courses and workshops related to advanced analytics, software development and computing. I am a strong proponent of continuing education, self-learning and early adoption & experimentation. My current pursuits include cloud technologies such as Databricks and Azure, mastering the Posit stacking of tools, and building robust applications around large language models (LLMs).
 
-I currently live in Toronto, Ontario with my loving wife and mini labradoodle.
+I currently live in Pickering, Ontario with my loving wife and mini labradoodle.
 
 <br>
 <br>
@@ -83,7 +83,7 @@ I currently live in Toronto, Ontario with my loving wife and mini labradoodle.
   <li><i class="bi bi-code-slash"></i> R, Shiny Development</li>
   <li><i class="bi bi-graph-up"></i> Statistical Methods</li>
   <li><i class="bi bi-bar-chart"></i> Data Visualization</li>
-  <li><i class="bi bi-palette"></i> UI and UX</li>
+  <li><i class="bi bi-palette"></i> Automation</li>
 </ul>
 ```
 :::
@@ -96,15 +96,15 @@ I currently live in Toronto, Ontario with my loving wife and mini labradoodle.
   <li>
     <span class="mark"><i class="bi bi-mortarboard-fill"></i></span>
     <div>
-      <p class="course">MSc in Biostatistics, 2012</p>
-      <p class="institution">University of Toronto</p>
+      <div class="course">MSc in Biostatistics, 2012</div>
+      <div class="institution">University of Toronto</div>
     </div>
   </li>
   <li>
     <span class="mark"><i class="bi bi-mortarboard-fill"></i></span>
     <div>
-      <p class="course">Specialized Honor's BA in Psychology, 2009</p>
-      <p class="institution">York University</p>
+      <div class="course">Specialized Honor's BA in Psychology, 2009</div>
+      <div class="institution">York University</div>
     </div>
   </li>
 </ul>
