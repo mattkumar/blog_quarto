@@ -1,17 +1,101 @@
 [
   {
-    "objectID": "publications/index.html",
-    "href": "publications/index.html",
+    "objectID": "personal/index.html",
+    "href": "personal/index.html",
     "title": "Matthew Kumar",
     "section": "",
-    "text": "Publications\n\n\nacademic works as a biostatistician\n\n\n\n\n\n\n\n\nKumar M, Srinivas Veeragoni (2026). Deterministic Foundations, AI Acceleration - Lessons from Developing Hybrid Clinical Review Tools. Phuse US Connect 2026(ML-20).\n\nPDF\n\n\n\n\n\nKumar M, Srinivas Veeragoni (2023). Reproducibility of Interactive Analyses. Phuse US Connect 2023(OS-10).\n\nPDF\n\n\n\n\n\nDaneman N, Lee S, Bai H, Bell C, Bronskill SE, Campitelli MA, Dobell G, Fu L, Garber G, Ivers N, Kumar M, Lam J, Langford B, Laur C, Morris A, Mulhall C, Pinto R, Saxena FE, Schwartz, Brown K (2022). Behavioral Nudges to Improve Audit and Feedback Report Opening Among Antibiotic Prescribers A Randomized Controlled Trial. Open Forum Infectious Diseases, 9(5).  doi:10.1093/ofid/ofac111\n\nPDF\n\n\n\n\n\nYan M, Saxena F, Calzavara A, Brown K, Garber G, Gershon A, Johnstone J, Kumar M, Langford B, Lee S, Schwartz K, Daneman N (2021). Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis. Canadian Medical Association Journal Open, 9(2).  doi:10.9778/cmajo.20200157\n\nPDF\n\n\n\n\n\nGuttmann A, Saunders NR, Kumar M, Gandhi S, Diong C, MacCon K, Cairney J (2020). Implementation of a Physician Incentive Program for 18-Month Developmental Screening in Ontario, Canada. BMJ Open Diabetes Res Care 8(1).  doi:10.1016/j.jpeds.2020.03.016\n\n\n\n\n\n\nWeisman A, Tu K, Young J, Kumar M, Austin PC, Jaakkimainen L, Lipscombe L, Aronson R, Booth G (2020). Validation of a type 1 diabetes algorithm using electronic medical records and administrative healthcare data to study the population incidence and prevalence of type 1 diabetes in Ontario, Canada. BMJ Open Diabetes Res Care 8(1).  doi:10.1136/bmjdrc-2020-001224\n\nPDF\n\n\n\n\n\nIaboni A, Campitelli MA, Bronskill SE, Diong C, Kumar M, Maclagan L, Gomes T, Tadorus M, Maxwell CJ (2019). Time trends in opioid prescribing among Ontario long-term care residents - a repeated cross-sectional study. Canadian Medical Association Journal Open, 7(3).  doi:10.9778/cmajo.20190052\n\nPDF\n\n\n\n\n\nCampitelli MA, Kumar M, Greenberg A, ICES/HQO Ontario Laboratory Information System Working Group (2018). Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis. Healthcare Quarterly, 6(2).  doi:10.12927/hcq.2018.25630\n\nPDF\n\n\n\n\n\nMozessohn L, Earle C, Spaner D, Cheng SY, Kumar M, Buckstein R (2016). The association of dyslipidemia with Chronic Lymphocytic Leukemia - a population-based study. Journal of the National Cancer Institute, 109(3).  doi:10.1093/jnci/djw226\n\nPDF\n\n\n\n\n\nGovindarajan A, Urbach D, Kumar M, Li Q, Murray BJ, Juurlink D, Kennedy E, Gagliardi A, Sutradhar R, Baxter NN (2015). Outcomes of Daytime Procedures Performed by Attending Surgeons after Night Work. New England Journal of Medicine, 373(9).  doi:10.1056/NEJMsa1415994\n\nPDF\n\n\n\n\n\nVahabi M, Lofters A, Kumar M, Glazier RH (2015). Breast cancer screening disparities among immigrant women by world region of origin - a population-based study in Ontario, Canada. Cancer Medicine, 5(7).  doi:10.1002/cam4.700\n\nPDF\n\n\n\n\n\nVahabi M, Lofters A, Kumar M, Glazier RH (2015). Breast cancer screening disparities among urban immigrants - a population-based study in Ontario, Canada. BMC Public Health, 21(9).  doi:10.1186/s12889-015-2050-5\n\nPDF\n\n\n\nNo matching items"
+    "text": "Personal\n\n\narcade cabinet notes, weekend projects\n\n\n\n\n\n\n\n\n\n\n\nVol 5: Stepmania Upgrades\n\n\nSnekboard, a mini PC, and running StepMania on the cab without killing the original hardware.\n\n\n Nov 22, 2025· DDR\n\n\n\n\n\n\n\n\n\nVol 4: Pad Upgrades\n\n\nFirming up loose panels, cleaning decades of pad grime, and installing ddrpad mods.\n\n\n Sep 7, 2024· DDR\n\n\n\n\n\n\n\n\n\nVol 3: Display Upgrades\n\n\nThe CRT died. Swapping in an Arcooda LCD and learning how scary tube removal is.\n\n\n May 18, 2023· DDR\n\n\n\n\n\n\n\n\n\nVol 2: Software Upgrades\n\n\nSwitching DDR mixes, from burning discs through installation.\n\n\n Mar 4, 2022· DDR\n\n\n\n\n\n\n\n\n\nVol 1: I bought a DDR machine\n\n\nFinding a cabinet, shipping it across provinces, and getting it running in the garage.\n\n\n Jun 12, 2021· DDR\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
     "title": "Matthew Kumar",
     "section": "",
-    "text": "Portfolio\n\n\nideas, prototypes, full-blown projects\n\n\n\n\n\n\n\n\n\n\n\n Oct 2025\n\n\nQR Codes\n\n\nGenerating and using QR codes in R and Shiny Apps\n\n\nData VisualizationStatisticalSimulationAnimation\n\n\n\n\n\n\n\n\n\n Nov 2024\n\n\nAthena\n\n\nA simple web app for AI-assisted figure interpretation using GPT-4O\n\n\nai\n\n\n\n\n\n\n\n\n\n Dec 2023\n\n\nstory creator\n\n\nA simple react app that creates a story using ChatGPT from user topics\n\n\nreact\n\n\n\n\n\n\n\n\n\n Nov 2023\n\n\nshinyMeta\n\n\nAn example of using shinyMeta to recreate a plot designed in a shiny app\n\n\nshinyshinyMeta\n\n\n\n\n\n\n\n\n\n Mar 2023\n\n\nGHA and Shiny\n\n\nGithub Actions for auto-deployment of shiny apps on shinyapps.io\n\n\nCICDGithub ActionsShiny\n\n\n\n\n\n\n\n\n\n Dec 2022\n\n\nDynamic TLFs\n\n\nExploring dynamic and interactive TLFs using Tplyr and reactable via Quarto\n\n\nData VisualizationStatisticalTableQuartoShinyCDISC\n\n\n\n\n\n\n\n\n\n Nov 2022\n\n\nTime Machine\n\n\nA Back To The Future time machine using reactable, countup and a lot of css\n\n\nreactablequartotable\n\n\n\n\n\n\n\n\n\n Sep 2022\n\n\nJeopardy!\n\n\nRecreating a Jeopardy! game board using reactable and css in Quarto\n\n\nreactablequartotable\n\n\n\n\n\n\n\n\n\n Aug 2022\n\n\nshiny & Python\n\n\nA relatively basic exploratory data analysis shiny app written in Python\n\n\nshinyPython\n\n\n\n\n\n\n\n\n\n Apr 2022\n\n\nLinked TLFs\n\n\nUsing Tplyr and Shiny to create interactive + linked tables, listings and figures\n\n\nData VisualizationStatisticalTableMetadataShinyCDISC\n\n\n\n\n\n\n\n\n\n Nov 2021\n\n\nVisual MCMC\n\n\nUnpacking a bunch of related statistical concepts through visualization\n\n\nData VisualizationStatisticalSimulationAnimation\n\n\n\n\n\n\n\n\n\n Jul 2021\n\n\nAnimated KM\n\n\nAn experiment in storytelling using animation for statistical analysis\n\n\nData VisualizationStatisticalPharmaAnimation\n\n\n\n\n\n\n\n\n\n Jul 2021\n\n\nshinyTrumbowyg\n\n\nA ‘WYSIWYG’ text editor widget for Shiny and Rmarkdown\n\n\nShinyRmarkdown\n\n\n\n\n\n\n\n\n\n Jun 2021\n\n\nfrappe Charts\n\n\nMy first attempt at porting a JS plotting library to R! Frappe Charts for all!\n\n\nShinyRmarkdownData Visualization\n\n\n\n\n\n\n\n\n\n Feb 2021\n\n\nAuto-Narratives\n\n\nRmarkdown reporting engine for automating patient safety narratives in a clinical trial.\n\n\nShinyRmarkdownReportingAutomationPharmaCDISCPHUSE\n\n\n\n\n\n\n\n\n\n Nov 2020\n\n\nReact Calendar\n\n\nAn reactable-based calendar and a whole lot of javascript and CSS\n\n\nShinyData VisualizationContestTableJSCSS\n\n\n\n\n\n\n\n\n\n Sep 2020\n\n\nSurvival Tables\n\n\nInteractive survival analysis tables using DT and reactable display table packages\n\n\nShinyData VisualizationContestTableJSStatisticalPharma\n\n\n\n\n\n\n\n\n\n Sep 2019\n\n\nforestR\n\n\nAn interactive tool to create publication-quality forest plots\n\n\nShinyData VisualizationStatistical\n\n\n\n\n\n\n\n\n\n Jan 2019\n\n\nVisual Abstracts\n\n\nCreate a visual abstract to highlight your original research.\n\n\nData Visualization\n\n\n\n\n\n\n\n\n\n Mar 2018\n\n\nfunnelR\n\n\nCreate funnel plots for proportion data using ggplot2.\n\n\nData VisualizationStatistical\n\n\n\n\nNo matching items"
+    "text": "Presentations\n\n\ntutorials, conferences and other presentations\n\n\n\n\n\n\n\n\n\n\n\nScheduled Clinical Insights - AI-Assisted Quarto Reporting for Oncology Studies\n\n\nWeaving Posit Connect, Quarto and AI all for automated insights!\n\n\n Jun 15, 2026· R/Pharma Generative AI Day - 2026 - Virtual\n\n\n\n\n\n\n\n\n\nDeterministic Foundations, AI Acceleration- Lessons from Developing Hybrid Clinical Review Tools\n\n\nExploring LLMs in Clinical Review Tools via R, Shiny\n\n\n Mar 24, 2026· PhUSE US Connect 2026\n\n\n\n\n\n\n\n\n\nAccelerating Oncology Data Review - An R Shiny application for insights\n\n\nClinical Review Tools via R, Shiny\n\n\n Sep 5, 2025· PhUSE SDE - TarryTown 2025\n\n\n\n\n\n\n\n\n\nNarromaticAI\n\n\nSupporting the Medical Writing process with R, Shiny and GenAI\n\n\n Sep 17, 2024· R/Pharma Generative AI Day\n\n\n\n\n\n\n\n\n\nData Insight Generation\n\n\nLeveraging Data Visualization in Study Planning, Monitoring, Exploration, Reporting and Submission\n\n\n Jun 17, 2024· DIA 2024 Global annual Meeting\n\n\n\n\n\n\n\n\n\nReproducibility of Interactive Analyses\n\n\nExploring code generation and reproducibility in the context of shiny apps\n\n\n Mar 8, 2023· PhUSE US Connect 2023\n\n\n\n\n\n\n\n\n\nTable-based Data Visualizations using R\n\n\nExploring the use of table-based data visualizations in clinical trials\n\n\n Jun 14, 2021· PhUSE US Connect 2021\n\n\n\n\n\n\n\n\n\nData Manipulation with R\n\n\nAn internal ODA R Learning Series session on tidyverse data manipulation and tidying, with relatable examples and exercises.\n\n\n Dec 4, 2020· Internal — Bayer ODA R Learning Series\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Matthew Kumar",
+    "section": "",
+    "text": "Posts\n\n\nmusings, snippets, throwaways\n\n\n\n\n\n\n\n\nGoing Low Tech\n\n\nScoring a birthday party with Google Forms, Sheets, and QR codes instead of a Shiny app.\n\n\n Aug 2, 2026\n\n\n\n\n\n\nLLM monitoring\n\n\nMonitoring LLM usage inside an AI-enabled R Shiny app.\n\n\n Jan 2, 2025\n\n\n\n\n\n\ncustom langchain agents\n\n\nUsing LangChain custom agents to solve a document-from-image problem.\n\n\n Mar 28, 2024\n\n\n\n\n\n\nsaving sessions (+ shinylive)\n\n\nSaving and restoring Shiny sessions when bookmarks aren’t enough, plus a shinylive demo.\n\n\n Nov 25, 2023\n\n\n\n\n\n\nDevOps Bootcamp\n\n\nNotes from moving a Shiny app onto Azure — authentication, storage, and what the R packages actually do.\n\n\n Jul 4, 2023\n\n\n\n\n\n\nreading files with purrr\n\n\nReading many files into separate data frames with purrr::pmap(), instead of stacking them into one.\n\n\n Mar 13, 2023\n\n\n\n\n\n\nhighlights of 2022\n\n\nLooking back at the latter half of 2022 — this site, the Posit table contest, and other highlights.\n\n\n Dec 29, 2022\n\n\n\n\n\n\nold code and beginnings\n\n\nDigging up the first R code I ever wrote, from a 2008 undergraduate thesis on item response theory.\n\n\n Jul 4, 2022\n\n\n\n\n\n\ntweaking shiny actionButton\n\n\nChanging shiny::actionButton() so links open in a new window instead of navigating away from the app.\n\n\n Jun 16, 2022\n\n\n\n\n\n\nmustaches and whiskers\n\n\nUsing the whisker package, R’s implementation of mustache templates, for generic templating.\n\n\n Jun 15, 2022\n\n\n\n\n\n\nReticulate to the Rescue\n\n\nExtracting URLs from Excel hyperlinks with Python and reticulate after R packages came up short.\n\n\n May 4, 2022\n\n\n\n\n\n\nHello World\n\n\nA new digital home for thoughts on R, Shiny, and statistics.\n\n\n May 3, 2022\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "personal/software-upgrades/index.html",
+    "href": "personal/software-upgrades/index.html",
+    "title": "Vol 2: Software Upgrades",
+    "section": "",
+    "text": "External CD DVD Drive, 0.5″ Ultra Slim USB 3.0 Type-C\nVerbatim DVD-R 4.7GB 16x, 10-pack spindle\nVerbatim CD-R 700MB 52x, branded surface, 50-pack spindle\nThe cab came with DDRMAX 2 on it. Fine for a while, but I wanted DDR Extreme. That’s the mix I actually played in arcades.\nI’d never swapped software on a System 573 before. Took some reading to figure out what I needed, where to get ISOs, and how the install works on the hardware. Also learned pretty quickly that nothing I owned could burn a CD anymore."
+  },
+  {
+    "objectID": "personal/software-upgrades/index.html#what-i-bought",
+    "href": "personal/software-upgrades/index.html#what-i-bought",
+    "title": "Vol 2: Software Upgrades",
+    "section": "",
+    "text": "External CD DVD Drive, 0.5″ Ultra Slim USB 3.0 Type-C\nVerbatim DVD-R 4.7GB 16x, 10-pack spindle\nVerbatim CD-R 700MB 52x, branded surface, 50-pack spindle"
+  },
+  {
+    "objectID": "personal/software-upgrades/index.html#burning-the-discs",
+    "href": "personal/software-upgrades/index.html#burning-the-discs",
+    "title": "Vol 2: Software Upgrades",
+    "section": "Burning the discs",
+    "text": "Burning the discs\nNo optical drive on any machine in the house. PCs just don’t ship with them now.\nSo I picked up a USB CD/DVD drive and a spindle of blank discs. DDR Extreme needs two for this install: an IN disc and a GM disc. I burned a third mix while the drive was out anyway.\n\n\n\nBurning the DDR Extreme install ISO to a CD-R\n\n\n\n\n\nHand-labeled Extreme discs: IN, GM, and a Pro Clarity 2 extra"
+  },
+  {
+    "objectID": "personal/software-upgrades/index.html#installing-extreme",
+    "href": "personal/software-upgrades/index.html#installing-extreme",
+    "title": "Vol 2: Software Upgrades",
+    "section": "Installing Extreme",
+    "text": "Installing Extreme\nFirst time I opened the cabinet for this, I mostly just stared at wires. The 573, the optical drive, cables everywhere, and nothing labeled in a way that helps you.\nThe eject button didn’t work at first. Drive was sticky. Paper clip in the emergency eject hole sorted that out.\nGot the tray open, dropped in the first Extreme disc.\n\n\n\nExtreme Disc 1 sitting in the 573’s optical drive\n\n\nInstall process, once you know it:\n\nTurn the machine off.\nFlip dip switch 4 on (shoutout to reddit and the facebook groups for this one).\nPut in the install disc.\nTurn it back on.\n\nInstaller boots and writes to the 573’s flash. Takes a bit. When it’s done, power off, flip dip switch 4 back, reboot.\n\n\n\nExtreme installer writing to flashrom on the CRT\n\n\nGame loaded.\n\n\n\n\n\n\nNoteExtreme installation and first boot\n\n\n\n\n\n\nAttract mode came up, song select worked, pads still registered. Good enough for me."
+  },
+  {
+    "objectID": "personal/software-upgrades/index.html#unlock-codes",
+    "href": "personal/software-upgrades/index.html#unlock-codes",
+    "title": "Vol 2: Software Upgrades",
+    "section": "Unlock codes",
+    "text": "Unlock codes\nInstall gets you the base game. Operator unlock codes get you the rest of the song list.\nThe codes for these mixes are still floating around online if you look. Found the one for Extreme, entered it on the SECRET / INPUT PASSWORD screen, and that opened everything up.\n\n\n\nEntering the operator unlock password on Extreme\n\n\nCartoon Heroes (Speedy Mix). AA.\n\n\n\nAA on Cartoon Heroes (Speedy Mix) after the unlock"
+  },
+  {
+    "objectID": "personal/software-upgrades/index.html#superdisc",
+    "href": "personal/software-upgrades/index.html#superdisc",
+    "title": "Vol 2: Software Upgrades",
+    "section": "Superdisc",
+    "text": "Superdisc\nDidn’t love the idea of burning a fresh CD every time I wanted to try another mix.\nThat’s where the superdisc helps. One DVD with a bunch of compatible mixes on it. Boot into the installer, pick one, install. Same dip switch 4 routine.\n\n\n\nSuperdisc installer menu\n\n\nRan 5th Mix after that to confirm Extreme wasn’t a one-off. It wasn’t.\n\n\n\n\n\n\nNoteDDR 5th Mix installed and running\n\n\n\n\n\n\nSwapped to DDRMAX next since the superdisc makes that easy.\n\n\n\nDDRMAX up and running after a superdisc install\n\n\nThis setup can run mixes 1 through 8. I don’t plan to burn individual discs for all of them. For now I’ve got Extreme, 5th, and MAX working, and DDR 3rd Mix Korea 2 is sitting on the superdisc if I ever get curious.\n\n\nPrevious: Vol 1: I bought a DDR machine\n\n\nNext: Vol 3: Display Upgrades\n\nAll personal notes"
+  },
+  {
+    "objectID": "personal/display-upgrades/index.html",
+    "href": "personal/display-upgrades/index.html",
+    "title": "Vol 3: Display Upgrades",
+    "section": "",
+    "text": "Arcooda 26″ 4:3 retro gaming LCD\nB&K Precision HV-44A high voltage probe\n12KV insulating rubber gloves\nFirst real problem as an arcade owner: the CRT stopped showing a picture. Random one day. I could still hear game audio and see the cabinet lights flash, so I was pretty sure the 573 was fine. The monitor was not.\nHad a few friends who know their way around electronics take a look. Nothing obvious. Called a couple local repair shops. No callbacks. Things were looking grim."
+  },
+  {
+    "objectID": "personal/display-upgrades/index.html#what-i-bought",
+    "href": "personal/display-upgrades/index.html#what-i-bought",
+    "title": "Vol 3: Display Upgrades",
+    "section": "",
+    "text": "Arcooda 26″ 4:3 retro gaming LCD\nB&K Precision HV-44A high voltage probe\n12KV insulating rubber gloves"
+  },
+  {
+    "objectID": "personal/display-upgrades/index.html#finding-a-replacement",
+    "href": "personal/display-upgrades/index.html#finding-a-replacement",
+    "title": "Vol 3: Display Upgrades",
+    "section": "Finding a replacement",
+    "text": "Finding a replacement\nTurns out ddrpad.com sells an LCD drop-in made for this. Not a random TV panel. The 573 wants a 15 kHz signal, which is weirdly specific and rules out most modern displays without extra conversion hardware. The Arcooda panel handles that natively. First bit of luck in a while.\nI placed the order. Took about three weeks to arrive. I was in Europe on vacation for most of that wait, which honestly helped. A dead cab at home would have driven me nuts.\nWhile I waited, I went back to reddit and the facebook groups to figure out how CRT removal works on a KCAB. Short version: it comes out through the front. It’s heavy. And if you do it wrong, it’s dangerous."
+  },
+  {
+    "objectID": "personal/display-upgrades/index.html#crt-removal",
+    "href": "personal/display-upgrades/index.html#crt-removal",
+    "title": "Vol 3: Display Upgrades",
+    "section": "CRT removal",
+    "text": "CRT removal\nCRTs hold high voltage even unplugged, sometimes for days or weeks. I’d read enough horror stories that I wasn’t going to wing the discharge step. Watched this video a bunch of times, ordered the probe and gloves, and still felt shaky about the whole thing.\nMy brother-in-law helped with all of this. I don’t think I would have pulled it off alone. Lots of tools, precision, leveling, mounting, and someone willing to share the safety risk. We had EMS on speed dial. Mostly as a joke. Mostly.\n\n\n\nCabinet opened up for the swap\n\n\nOn a KCAB there’s no metal cage around the tube like on a JCAB. The CRT mounts straight to a piece of wood inside the cab. We pulled panels, plexiglass, and everything else in the way first.\nDischarging was the part I was dreading. The machine had been off for almost three weeks, but I’d read that doesn’t guarantee anything. We used the HV probe to check for charge first, then slipped it under the anode cap.\n\n\n\n\n\n\nNoteDischarging the CRT\n\n\n\n\n\n\nNo crackle. Probably already bled off on its own, but worth doing anyway.\n\n\n\nDischarging the anode on the CRT\n\n\nAfter that we worked the tube out through the front and set it aside. I’m still not convinced it’s actually dead. Could be a loose wire or a cheap component someone who does CRT work could swap in five minutes. Couldn’t find anyone in the GTA willing to try. I still have the tube in case that changes.\n\n\n\nRemoving the CRT through the front of the cabinet\n\n\n\n\n\nCleaning the cabinet with compressed air"
+  },
+  {
+    "objectID": "personal/display-upgrades/index.html#installing-the-lcd",
+    "href": "personal/display-upgrades/index.html#installing-the-lcd",
+    "title": "Vol 3: Display Upgrades",
+    "section": "Installing the LCD",
+    "text": "Installing the LCD\nMounting the Arcooda panel was the easy part by comparison. Power, signal, tidy the cables, level it, hope for picture. A lot of this know-how came from my brother-in-law’s experience!\n\n\n\nInstalling the Arcooda LCD\n\n\n\n\n\nRemoving protective plastic from the LCD\n\n\nPicture came up on the first try. Huge relief.\n\n\n\nLCD up and running in the cabinet\n\n\nGetting the cab back together after that was the easy part. The LCD looks great in the bezel. Brighter, sharper, way less mass than the tube. Also very glad my brother-in-law stuck around for the scary parts.\n\n\nPrevious: Vol 2: Software Upgrades\n\n\nNext: Vol 4: Pad Upgrades\n\nAll personal notes"
   },
   {
     "objectID": "publications/type2diabetes/index.html",
@@ -602,17 +686,115 @@
     "text": "PDF"
   },
   {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Matthew Kumar",
+    "objectID": "personal/ddr-machine/index.html",
+    "href": "personal/ddr-machine/index.html",
+    "title": "Vol 1: I bought a DDR machine",
     "section": "",
-    "text": "Posts\n\n\nmusings, snippets, throwaways\n\n\n\n\n\n\n\n\nGoing Low Tech\n\n\nScoring a birthday party with Google Forms, Sheets, and QR codes instead of a Shiny app.\n\n\n Aug 2, 2026\n\n\n\n\n\n\nLLM monitoring\n\n\nMonitoring LLM usage inside an AI-enabled R Shiny app.\n\n\n Jan 2, 2025\n\n\n\n\n\n\ncustom langchain agents\n\n\nUsing LangChain custom agents to solve a document-from-image problem.\n\n\n Mar 28, 2024\n\n\n\n\n\n\nsaving sessions (+ shinylive)\n\n\nSaving and restoring Shiny sessions when bookmarks aren’t enough, plus a shinylive demo.\n\n\n Nov 25, 2023\n\n\n\n\n\n\nDevOps Bootcamp\n\n\nNotes from moving a Shiny app onto Azure — authentication, storage, and what the R packages actually do.\n\n\n Jul 4, 2023\n\n\n\n\n\n\nreading files with purrr\n\n\nReading many files into separate data frames with purrr::pmap(), instead of stacking them into one.\n\n\n Mar 13, 2023\n\n\n\n\n\n\nhighlights of 2022\n\n\nLooking back at the latter half of 2022 — this site, the Posit table contest, and other highlights.\n\n\n Dec 29, 2022\n\n\n\n\n\n\nold code and beginnings\n\n\nDigging up the first R code I ever wrote, from a 2008 undergraduate thesis on item response theory.\n\n\n Jul 4, 2022\n\n\n\n\n\n\ntweaking shiny actionButton\n\n\nChanging shiny::actionButton() so links open in a new window instead of navigating away from the app.\n\n\n Jun 16, 2022\n\n\n\n\n\n\nmustaches and whiskers\n\n\nUsing the whisker package, R’s implementation of mustache templates, for generic templating.\n\n\n Jun 15, 2022\n\n\n\n\n\n\nReticulate to the Rescue\n\n\nExtracting URLs from Excel hyperlinks with Python and reticulate after R packages came up short.\n\n\n May 4, 2022\n\n\n\n\n\n\nHello World\n\n\nA new digital home for thoughts on R, Shiny, and statistics.\n\n\n May 3, 2022\n\n\n\n\nNo matching items"
+    "text": "I’d wanted a DDR arcade cabinet at home for a long time. Everyone who played in arcades back then had that fantasy. Having a basement (or so I thought) and a garage made it feel slightly less ridiculous as an adult.\nStill took years to find one. I’d poke around every so often, check listings, talk myself out of it, repeat. Nothing was ever close. Rent a U-Haul and drive to the US, or pay freight on something you can’t inspect first."
   },
   {
-    "objectID": "talks/index.html",
-    "href": "talks/index.html",
+    "objectID": "personal/ddr-machine/index.html#finding-one",
+    "href": "personal/ddr-machine/index.html#finding-one",
+    "title": "Vol 1: I bought a DDR machine",
+    "section": "Finding one",
+    "text": "Finding one\nI spotted a listing on Facebook Marketplace in Winnipeg. First time I’d used Marketplace for something like this. Hard to know what you’re buying when you can’t walk up and actually look at it.\nThe seller sent detailed photos and videos, which helped. Enough that I felt okay arranging shipping, which was also a first. Truck freight from Winnipeg to Pickering, Ontario took about two or three days."
+  },
+  {
+    "objectID": "personal/ddr-machine/index.html#delivery-day",
+    "href": "personal/ddr-machine/index.html#delivery-day",
+    "title": "Vol 1: I bought a DDR machine",
+    "section": "Delivery day",
+    "text": "Delivery day\nIt showed up on a flatbed, packed into two large skids. About 1000 lbs total: roughly 500 for the cabinet, 250 for each pad. Very heavy is the main thing I remember.\n\n\n\nDelivery truck with the cabinet on a flatbed\n\n\nMy neighbor was around that day and is pretty handy with tools. I would not have wanted to unpack and move this solo. We got it off the truck, cut the wrap, and started figuring out where everything went.\n\n\n\nCabinet moved into the garage\n\n\n\n\n\nPads and marquee in the garage\n\n\n\n\n\nEverything laid out before assembly\n\n\nOriginal plan was the basement. That died once we measured the door. The cabinet would have to come apart completely to fit through, and I wasn’t doing a full strip-down in the driveway on day one. We reshuffled the garage, checked car park clearance, and made a spot work.\nNothing showed up damaged from shipping, which was the other thing I was worried about. Just a lot of dragging, pad removal, cable routing, and wondering if we had it facing the right way."
+  },
+  {
+    "objectID": "personal/ddr-machine/index.html#assembly",
+    "href": "personal/ddr-machine/index.html#assembly",
+    "title": "Vol 1: I bought a DDR machine",
+    "section": "Assembly",
+    "text": "Assembly\nReassembly took longer than the delivery. Pads back on, marquee seated, power and IO hooked up to the 573. I’d taken photos of the cable routing before anything got disconnected. That saved some guessing.\n\n\n\nFully assembled in the garage\n\n\nI have a toy DDR cabinet on a shelf in my entertainment unit. Same general shape, very different scale. Still kind of in shock that I actually owned the real thing.\n\n\n\nToy DDR cabinet model\n\n\nTruck arrival to first boot was maybe three or four hours. Felt longer.\n\n\n\n\n\n\nNoteFirst boot\n\n\n\n\n\n\nAttract mode came up. Pads registered. CRT took a minute to warm up. I played a few songs on DDRMAX 2 and called it a night.\nFound out later it was a Korean cabinet (KCAB). Something you’re probably supposed to confirm before you buy. Same as the basement door, honestly. I’d figure out the details later. The hard part was finding the machine. These cabs are 25+ years old at this point and rare. Everything else felt secondary.\nThe rest of this series is what happened after: upgrades, maintenance, and figuring out how to actually own one of these.\n\n\n\n\n\nNext: Vol 2: Software Upgrades\n\nAll personal notes"
+  },
+  {
+    "objectID": "personal/pad-upgrades/index.html",
+    "href": "personal/pad-upgrades/index.html",
+    "title": "Vol 4: Pad Upgrades",
+    "section": "",
+    "text": "L-Bracket spacer for DDR / ITG / PIU pads\nL-Bracket sensitivity foam mod\nManual impact driver set\nM6-1 × 12mm low-profile machine screws (100 pack)\nBy this point I was actually using the cab again. New LCD, different mixes, getting back into shape. The weak link was the pads. Panels had started to slide and shift. Felt loose underfoot, and it got worse the more I played.\nddrpad.com had two parts that looked like the right fix: replacement foam inserts for the L-brackets, and spacers that hold the brackets tighter. Less slop, better sensor contact, firmer panels. Sounded like a simple weekend job.\nI was so wrong."
+  },
+  {
+    "objectID": "personal/pad-upgrades/index.html#what-i-bought",
+    "href": "personal/pad-upgrades/index.html#what-i-bought",
+    "title": "Vol 4: Pad Upgrades",
+    "section": "",
+    "text": "L-Bracket spacer for DDR / ITG / PIU pads\nL-Bracket sensitivity foam mod\nManual impact driver set\nM6-1 × 12mm low-profile machine screws (100 pack)"
+  },
+  {
+    "objectID": "personal/pad-upgrades/index.html#getting-the-panels-off",
+    "href": "personal/pad-upgrades/index.html#getting-the-panels-off",
+    "title": "Vol 4: Pad Upgrades",
+    "section": "Getting the panels off",
+    "text": "Getting the panels off\nThe first fight was the screws. These pads have been played on for years. Dirt packed into the heads, rust on top of that, threads that did not want to cooperate. Regular screwdriver did nothing. Power drill made things worse by chewing up a few heads.\n\n\n\nRusted, compacted panel screws\n\n\nA friend mentioned an impact driver. I’d never heard of one, let alone used one. It’s basically a screwdriver you hit with a hammer. Each strike sends a sharp rotational jolt through the bit, which is what you need when a screw is seized. Weirdly satisfying once you get the hang of it. Also beat up my hand a bit if you’re not careful with the strikes.\n\n\n\nManual impact driver with screws undone\n\n\n\n\n\nClose-up of a removed screw\n\n\nI started with one pad end to end. Most screws came out with the impact driver. A few were still stubborn. My neighbor helped drill through a couple, cut others, and we hit the worst ones with machine oil and patience. First time I’d used machine oil for something like this. Not the same as grabbing WD-40 off the shelf.\nRemoving the L-brackets carefully took the rest of that weekend by itself.\n\n\n\nAll panels and brackets removed from the first pad"
+  },
+  {
+    "objectID": "personal/pad-upgrades/index.html#cleaning-everything",
+    "href": "personal/pad-upgrades/index.html#cleaning-everything",
+    "title": "Vol 4: Pad Upgrades",
+    "section": "Cleaning everything",
+    "text": "Cleaning everything\nOnce everything was off, the cleaning started. Brackets soaked in vinegar, water, and baking soda. Toothbrush on the L-brackets and on every screw I could salvage.\n\n\n\nL-brackets soaking in vinegar\n\n\n\n\n\nParts already looking cleaner\n\n\n\n\n\nCleaning the old machine screws\n\n\n\n\n\nParts drying\n\n\nI’d also read about people counter-sinking their pad screws for a flatter surface. Spent another weekend researching specs and landed on low-profile M6 machine screws. Less mushroom head bulge under the panels. Small thing, but it adds up when you’re trying to get the stage flat."
+  },
+  {
+    "objectID": "personal/pad-upgrades/index.html#installing-the-mods",
+    "href": "personal/pad-upgrades/index.html#installing-the-mods",
+    "title": "Vol 4: Pad Upgrades",
+    "section": "Installing the mods",
+    "text": "Installing the mods\nWith clean brackets, I prepped the ddrpad foam inserts and L-bracket spacers on each one, then drilled everything back in and reattached the panel covers.\n\n\n\nCleaned parts with new mods ready to install\n\n\n\n\n\nMods prepped on the brackets\n\n\n\n\n\nClose-up of the installed mods\n\n\nFirst test after reassembly: panels slid less, actuation felt firmer, sensors more responsive. Clear difference.\nThen the whole thing again on the second pad. LOCK IN.\n\n\n\nStarting the same process on the second pad\n\n\nHaving done it once helped, but it wasn’t faster. Same stubborn screws, same slow cleaning and reassembly. At least I had a blueprint and most of the parts already sorted.\nPiecemeal over about a month, both pads came out better. Less shift, firmer feel, plays the way I’d hoped when I ordered the parts. Also picked up some new tools and a lot more patience for twenty-year-old screws.\nShortly after, my brother-in-law helped me reattach the red support bars. Wish I’d documented that part. Another learning curve, though nowhere near as long. Maybe an hour all in.\nBy the end of it, the cab felt closer to what I remember playing on as a kid.\n\n\n\nBoth pads done\n\n\n\n\nPrevious: Vol 3: Display Upgrades\n\n\nNext: Vol 5: Stepmania Upgrades\n\nAll personal notes"
+  },
+  {
+    "objectID": "personal/stepmania-upgrades/index.html",
+    "href": "personal/stepmania-upgrades/index.html",
+    "title": "Vol 5: Stepmania Upgrades",
+    "section": "",
+    "text": "Snekboard (Ice Dragon)\nBeelink SER5 mini PC\nEASYTONE mini wireless keyboard with touchpad\nHardware mods were mostly done. LCD, pads, the cab playing well. Next idea I kept seeing: swap the 573 for a PC running StepMania.\nThe Snekboard makes that possible without cutting harnesses. Pad IO and lights plug into it like they did on the 573. USB-C goes to the PC. Audio runs from the cab receiver into the mini PC’s headphone jack. Reversible in a few minutes.\nflowchart LR\n  subgraph cab[\"DDR cabinet\"]\n    pads[\"Pads and panel buttons\"]\n    lights[\"Cabinet lights\"]\n    amp[\"Cab audio receiver\"]\n  end\n\n  subgraph bridge[\"Snekboard\"]\n    io[\"Pad IO and lights\"]\n  end\n\n  subgraph pc[\"Mini PC\"]\n    sm[\"StepMania\"]\n    audio[\"3.5mm audio in\"]\n  end\n\n  subgraph shelf[\"On the shelf optional\"]\n    konami[\"System 573\"]\n  end\n\n  pads --&gt; io\n  lights --&gt; io\n  io --&gt;|USB-C| sm\n  amp --&gt;|RCA red white| audio\n\n  io -.-&gt;|same harnesses| konami\nSignal path for the StepMania swap."
+  },
+  {
+    "objectID": "personal/stepmania-upgrades/index.html#what-i-bought",
+    "href": "personal/stepmania-upgrades/index.html#what-i-bought",
+    "title": "Vol 5: Stepmania Upgrades",
+    "section": "",
+    "text": "Snekboard (Ice Dragon)\nBeelink SER5 mini PC\nEASYTONE mini wireless keyboard with touchpad"
+  },
+  {
+    "objectID": "personal/stepmania-upgrades/index.html#ordering-parts",
+    "href": "personal/stepmania-upgrades/index.html#ordering-parts",
+    "title": "Vol 5: Stepmania Upgrades",
+    "section": "Ordering parts",
+    "text": "Ordering parts\nSnekboards are hard to find. When Ice Dragon had stock, I ordered one to stash for later. Lasted about a week before I wanted to install it.\nMy brother-in-law helped spec a mini PC and plan the layout so the cab wouldn’t become a PC tower with a marquee.\n\n\n\n573 still in the cab with the LCD attached\n\n\n\n\n\nInputs on the 573 before disconnecting anything\n\n\nThe Beelink is probably overkill for StepMania, but it’s small, fits where the 573 lived, and leaves room for other uses. The 573 still works and sits on the shelf. After the CRT died, this felt like the next aging part worth planning around."
+  },
+  {
+    "objectID": "personal/stepmania-upgrades/index.html#wiring-it-up",
+    "href": "personal/stepmania-upgrades/index.html#wiring-it-up",
+    "title": "Vol 5: Stepmania Upgrades",
+    "section": "Wiring it up",
+    "text": "Wiring it up\nWe photographed every 573 connection first, then followed Ice Dragon’s guide. Same harnesses, just a different brain.\n\n\n\nJAMMA inputs mapped to the Snekboard\n\n\n\n\n\nAll inputs mapped and connected\n\n\n\n\n\nMini PC powered on in the cabinet\n\n\n\n\n\nSnekboard running to the PC over USB-C\n\n\nI’m running BeWare’s Extreme mod, which is about as close to arcade-perfect DDR Extreme as I’ve seen at home. Getting the cabinet lights working took an extra step, covered in Ice Dragon’s docs. Pads registered as USB right away. Mapping arrows and buttons in StepMania took some trial and error.\n\n\n\nRunning BeWare StepMania on the cab\n\n\n\n\n\n\n\n\nNoteBeWare StepMania on the cabinet\n\n\n\n\n\n\n\n\n\nPads and cabinet lights confirmed working"
+  },
+  {
+    "objectID": "personal/stepmania-upgrades/index.html#what-you-can-do-with-it",
+    "href": "personal/stepmania-upgrades/index.html#what-you-can-do-with-it",
+    "title": "Vol 5: Stepmania Upgrades",
+    "section": "What you can do with it",
+    "text": "What you can do with it\nLCD, mini PC, pads as a USB controller: we had to try Counter-Strike and Fortnite on a DDR cab. Ridiculous. Worth it.\n\n\n\nRunning other games on the DDR cabinet\n\n\nThe real win is StepMania. Any mix, plus customs that look at home on the cab with BeWare.\n\n\n\nCustom songs in BeWare\n\n\n\n\n\nMore custom charts with custom backgrounds\n\n\nThe whole thing feels next gen now: LCD, mini PC, custom software. Still plays like an arcade machine because it’s still this cabinet. That’s how it gets used now.\n\n\nPrevious: Vol 4: Pad Upgrades\n\n\n\n\nAll personal notes"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
     "title": "Matthew Kumar",
     "section": "",
-    "text": "Presentations\n\n\ntutorials, conferences and other presentations\n\n\n\n\n\n\n\n\n\n\n\nScheduled Clinical Insights - AI-Assisted Quarto Reporting for Oncology Studies\n\n\nWeaving Posit Connect, Quarto and AI all for automated insights!\n\n\n Jun 15, 2026· R/Pharma Generative AI Day - 2026 - Virtual\n\n\n\n\n\n\n\n\n\nDeterministic Foundations, AI Acceleration- Lessons from Developing Hybrid Clinical Review Tools\n\n\nExploring LLMs in Clinical Review Tools via R, Shiny\n\n\n Mar 24, 2026· PhUSE US Connect 2026\n\n\n\n\n\n\n\n\n\nAccelerating Oncology Data Review - An R Shiny application for insights\n\n\nClinical Review Tools via R, Shiny\n\n\n Sep 5, 2025· PhUSE SDE - TarryTown 2025\n\n\n\n\n\n\n\n\n\nNarromaticAI\n\n\nSupporting the Medical Writing process with R, Shiny and GenAI\n\n\n Sep 17, 2024· R/Pharma Generative AI Day\n\n\n\n\n\n\n\n\n\nData Insight Generation\n\n\nLeveraging Data Visualization in Study Planning, Monitoring, Exploration, Reporting and Submission\n\n\n Jun 17, 2024· DIA 2024 Global annual Meeting\n\n\n\n\n\n\n\n\n\nReproducibility of Interactive Analyses\n\n\nExploring code generation and reproducibility in the context of shiny apps\n\n\n Mar 8, 2023· PhUSE US Connect 2023\n\n\n\n\n\n\n\n\n\nTable-based Data Visualizations using R\n\n\nExploring the use of table-based data visualizations in clinical trials\n\n\n Jun 14, 2021· PhUSE US Connect 2021\n\n\n\n\n\n\n\n\n\nData Manipulation with R\n\n\nAn internal ODA R Learning Series session on tidyverse data manipulation and tidying, with relatable examples and exercises.\n\n\n Dec 4, 2020· Internal — Bayer ODA R Learning Series\n\n\n\n\nNo matching items"
+    "text": "Portfolio\n\n\nideas, prototypes, full-blown projects\n\n\n\n\n\n\n\n\n\n\n\n Oct 2025\n\n\nQR Codes\n\n\nGenerating and using QR codes in R and Shiny Apps\n\n\nData VisualizationStatisticalSimulationAnimation\n\n\n\n\n\n\n\n\n\n Nov 2024\n\n\nAthena\n\n\nA simple web app for AI-assisted figure interpretation using GPT-4O\n\n\nai\n\n\n\n\n\n\n\n\n\n Dec 2023\n\n\nstory creator\n\n\nA simple react app that creates a story using ChatGPT from user topics\n\n\nreact\n\n\n\n\n\n\n\n\n\n Nov 2023\n\n\nshinyMeta\n\n\nAn example of using shinyMeta to recreate a plot designed in a shiny app\n\n\nshinyshinyMeta\n\n\n\n\n\n\n\n\n\n Mar 2023\n\n\nGHA and Shiny\n\n\nGithub Actions for auto-deployment of shiny apps on shinyapps.io\n\n\nCICDGithub ActionsShiny\n\n\n\n\n\n\n\n\n\n Dec 2022\n\n\nDynamic TLFs\n\n\nExploring dynamic and interactive TLFs using Tplyr and reactable via Quarto\n\n\nData VisualizationStatisticalTableQuartoShinyCDISC\n\n\n\n\n\n\n\n\n\n Nov 2022\n\n\nTime Machine\n\n\nA Back To The Future time machine using reactable, countup and a lot of css\n\n\nreactablequartotable\n\n\n\n\n\n\n\n\n\n Sep 2022\n\n\nJeopardy!\n\n\nRecreating a Jeopardy! game board using reactable and css in Quarto\n\n\nreactablequartotable\n\n\n\n\n\n\n\n\n\n Aug 2022\n\n\nshiny & Python\n\n\nA relatively basic exploratory data analysis shiny app written in Python\n\n\nshinyPython\n\n\n\n\n\n\n\n\n\n Apr 2022\n\n\nLinked TLFs\n\n\nUsing Tplyr and Shiny to create interactive + linked tables, listings and figures\n\n\nData VisualizationStatisticalTableMetadataShinyCDISC\n\n\n\n\n\n\n\n\n\n Nov 2021\n\n\nVisual MCMC\n\n\nUnpacking a bunch of related statistical concepts through visualization\n\n\nData VisualizationStatisticalSimulationAnimation\n\n\n\n\n\n\n\n\n\n Jul 2021\n\n\nAnimated KM\n\n\nAn experiment in storytelling using animation for statistical analysis\n\n\nData VisualizationStatisticalPharmaAnimation\n\n\n\n\n\n\n\n\n\n Jul 2021\n\n\nshinyTrumbowyg\n\n\nA ‘WYSIWYG’ text editor widget for Shiny and Rmarkdown\n\n\nShinyRmarkdown\n\n\n\n\n\n\n\n\n\n Jun 2021\n\n\nfrappe Charts\n\n\nMy first attempt at porting a JS plotting library to R! Frappe Charts for all!\n\n\nShinyRmarkdownData Visualization\n\n\n\n\n\n\n\n\n\n Feb 2021\n\n\nAuto-Narratives\n\n\nRmarkdown reporting engine for automating patient safety narratives in a clinical trial.\n\n\nShinyRmarkdownReportingAutomationPharmaCDISCPHUSE\n\n\n\n\n\n\n\n\n\n Nov 2020\n\n\nReact Calendar\n\n\nAn reactable-based calendar and a whole lot of javascript and CSS\n\n\nShinyData VisualizationContestTableJSCSS\n\n\n\n\n\n\n\n\n\n Sep 2020\n\n\nSurvival Tables\n\n\nInteractive survival analysis tables using DT and reactable display table packages\n\n\nShinyData VisualizationContestTableJSStatisticalPharma\n\n\n\n\n\n\n\n\n\n Sep 2019\n\n\nforestR\n\n\nAn interactive tool to create publication-quality forest plots\n\n\nShinyData VisualizationStatistical\n\n\n\n\n\n\n\n\n\n Jan 2019\n\n\nVisual Abstracts\n\n\nCreate a visual abstract to highlight your original research.\n\n\nData Visualization\n\n\n\n\n\n\n\n\n\n Mar 2018\n\n\nfunnelR\n\n\nCreate funnel plots for proportion data using ggplot2.\n\n\nData VisualizationStatistical\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Matthew Kumar",
+    "section": "",
+    "text": "Publications\n\n\nacademic works as a biostatistician\n\n\n\n\n\n\n\n\nKumar M, Srinivas Veeragoni (2026). Deterministic Foundations, AI Acceleration - Lessons from Developing Hybrid Clinical Review Tools. Phuse US Connect 2026(ML-20).\n\nPDF\n\n\n\n\n\nKumar M, Srinivas Veeragoni (2023). Reproducibility of Interactive Analyses. Phuse US Connect 2023(OS-10).\n\nPDF\n\n\n\n\n\nDaneman N, Lee S, Bai H, Bell C, Bronskill SE, Campitelli MA, Dobell G, Fu L, Garber G, Ivers N, Kumar M, Lam J, Langford B, Laur C, Morris A, Mulhall C, Pinto R, Saxena FE, Schwartz, Brown K (2022). Behavioral Nudges to Improve Audit and Feedback Report Opening Among Antibiotic Prescribers A Randomized Controlled Trial. Open Forum Infectious Diseases, 9(5).  doi:10.1093/ofid/ofac111\n\nPDF\n\n\n\n\n\nYan M, Saxena F, Calzavara A, Brown K, Garber G, Gershon A, Johnstone J, Kumar M, Langford B, Lee S, Schwartz K, Daneman N (2021). Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis. Canadian Medical Association Journal Open, 9(2).  doi:10.9778/cmajo.20200157\n\nPDF\n\n\n\n\n\nGuttmann A, Saunders NR, Kumar M, Gandhi S, Diong C, MacCon K, Cairney J (2020). Implementation of a Physician Incentive Program for 18-Month Developmental Screening in Ontario, Canada. BMJ Open Diabetes Res Care 8(1).  doi:10.1016/j.jpeds.2020.03.016\n\n\n\n\n\n\nWeisman A, Tu K, Young J, Kumar M, Austin PC, Jaakkimainen L, Lipscombe L, Aronson R, Booth G (2020). Validation of a type 1 diabetes algorithm using electronic medical records and administrative healthcare data to study the population incidence and prevalence of type 1 diabetes in Ontario, Canada. BMJ Open Diabetes Res Care 8(1).  doi:10.1136/bmjdrc-2020-001224\n\nPDF\n\n\n\n\n\nIaboni A, Campitelli MA, Bronskill SE, Diong C, Kumar M, Maclagan L, Gomes T, Tadorus M, Maxwell CJ (2019). Time trends in opioid prescribing among Ontario long-term care residents - a repeated cross-sectional study. Canadian Medical Association Journal Open, 7(3).  doi:10.9778/cmajo.20190052\n\nPDF\n\n\n\n\n\nCampitelli MA, Kumar M, Greenberg A, ICES/HQO Ontario Laboratory Information System Working Group (2018). Long-term macrolide therapy for chronic obstructive pulmonary disease a population-based time series analysis. Healthcare Quarterly, 6(2).  doi:10.12927/hcq.2018.25630\n\nPDF\n\n\n\n\n\nMozessohn L, Earle C, Spaner D, Cheng SY, Kumar M, Buckstein R (2016). The association of dyslipidemia with Chronic Lymphocytic Leukemia - a population-based study. Journal of the National Cancer Institute, 109(3).  doi:10.1093/jnci/djw226\n\nPDF\n\n\n\n\n\nGovindarajan A, Urbach D, Kumar M, Li Q, Murray BJ, Juurlink D, Kennedy E, Gagliardi A, Sutradhar R, Baxter NN (2015). Outcomes of Daytime Procedures Performed by Attending Surgeons after Night Work. New England Journal of Medicine, 373(9).  doi:10.1056/NEJMsa1415994\n\nPDF\n\n\n\n\n\nVahabi M, Lofters A, Kumar M, Glazier RH (2015). Breast cancer screening disparities among immigrant women by world region of origin - a population-based study in Ontario, Canada. Cancer Medicine, 5(7).  doi:10.1002/cam4.700\n\nPDF\n\n\n\n\n\nVahabi M, Lofters A, Kumar M, Glazier RH (2015). Breast cancer screening disparities among urban immigrants - a population-based study in Ontario, Canada. BMC Public Health, 21(9).  doi:10.1186/s12889-015-2050-5\n\nPDF\n\n\n\nNo matching items"
   }
 ]
