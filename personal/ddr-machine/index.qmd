@@ -1,6 +1,6 @@
 ---
 title: 'Vol 1: I bought a DDR machine'
-date: '2026-08-23'
+date: '2026-08-18'
 description: Finding a cabinet, shipping it across provinces, and getting it running in the garage.
 categories: [DDR]
 image: 4-assembled.jpg
