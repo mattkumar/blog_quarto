@@ -1,6 +1,6 @@
 ---
 title: 'Vol 3: Display Upgrades'
-date: '2023-05-18'
+date: '2026-08-23'
 description: The CRT died. Swapping in an Arcooda LCD and learning how scary tube removal is.
 categories: [DDR]
 image: 7-lcd-running.jpg

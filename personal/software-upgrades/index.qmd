@@ -1,6 +1,6 @@
 ---
 title: 'Vol 2: Software Upgrades'
-date: '2022-03-04'
+date: '2026-08-23'
 description: Switching DDR mixes, from burning discs through installation.
 categories: [DDR]
 image: 7-AA-cartoon-heroes-on-extreme.jpg

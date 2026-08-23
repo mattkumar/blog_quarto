@@ -1,6 +1,6 @@
 ---
 title: 'Vol 4: Pad Upgrades'
-date: '2024-09-07'
+date: '2026-08-23'
 description: Firming up loose panels, cleaning decades of pad grime, and installing ddrpad mods.
 categories: [DDR]
 image: 13-all-done.jpg
