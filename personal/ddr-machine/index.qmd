@@ -1,29 +1,64 @@
 ---
-title: I bought a DDR machine
+title: 'Vol 1: I bought a DDR machine'
 date: '2021-06-12'
-description: Delivery day, unpacking, assembly and setup.
+description: Finding a cabinet, shipping it across provinces, and getting it running in the garage.
 categories: [DDR]
+image: 4-assembled.jpg
 ---
 
-A Dance Dance Revolution cabinet showed up in the driveway. This is the start of the [personal series](../) — five notes on getting an arcade machine into the house and then slowly making it mine.
+I'd wanted a DDR arcade cabinet at home for a long time. Everyone who played in arcades back then had that fantasy. Having a basement (or so I thought) and a garage made it feel slightly less ridiculous as an adult.
+
+Still took years to find one. I'd poke around every so often, check listings, talk myself out of it, repeat. Nothing was ever close. Rent a U-Haul and drive to the US, or pay freight on something you can't inspect first.
+
+## Finding one
+
+I spotted a listing on Facebook Marketplace in Winnipeg. First time I'd used Marketplace for something like this. Hard to know what you're buying when you can't walk up and actually look at it.
+
+The seller sent detailed photos and videos, which helped. Enough that I felt okay arranging shipping, which was also a first. Truck freight from Winnipeg to Pickering, Ontario took about two or three days.
 
 ## Delivery day
 
-The cab arrived on a pallet, wrapped like it had survived a few extra moves. Getting it off the truck was the whole event: two people, a furniture dolly, and a very honest conversation about door frames. The 573 hardware and the original monitor were still in the box, which is both the charm and the liability of buying a working machine instead of a pile of parts.
+It showed up on a flatbed, packed into two large skids. About 1000 lbs total: roughly 500 for the cabinet, 250 for each pad. Very heavy is the main thing I remember.
 
-I checked the obvious things before we even wheeled it inside: no cracked marquee, pads that still had some life, and a power cable that wasn't a fire hazard. Everything else could wait until it was upright and plugged in.
+![Delivery truck with the cabinet on a flatbed](0-delivery-truck.jpg)
 
-## Unpacking
+My neighbor was around that day and is pretty handy with tools. I would not have wanted to unpack and move this solo. We got it off the truck, cut the wrap, and started figuring out where everything went.
 
-Once it was in the room, I cut the wrap, pulled the foam, and laid the hardware out so I could see what I actually owned. Cabinet, pad assembly, power brick, extra bolts, and a small bag of "you'll need these later" screws. I took photos of cable routing before I disconnected anything. Future me would thank present me for that.
+![Cabinet moved into the garage](1-moved-into-garage-cabinet.jpg)
 
-The pads came off so we could get the cab through the last doorway. That turned a one-step move into a three-step move, but it also meant I got a first look at the underside of the stage. Dust, a few tired treads, and nothing that looked immediately broken.
+![Pads and marquee in the garage](2-moved-into-garage-pads-and-marquee.jpg)
 
-## Assembly and setup
+![Everything laid out before assembly](3-everything.jpg)
 
-Reassembly was slower than the move. Pads back on, marquee seated, IO cables traced back to the 573, then the first power-on. Attract mode came up. The pads registered. The CRT needed a minute to settle. That was enough for day one.
+Original plan was the basement. That died once we measured the door. The cabinet would have to come apart completely to fit through, and I wasn't doing a full strip-down in the driveway on day one. We reshuffled the garage, checked car park clearance, and made a spot work.
 
-I left the original mix on the machine and played a few songs to confirm the cabinet was actually a cabinet, not a very large paperweight. The upgrades — software, display, pads, and eventually the 573 itself — are the rest of this series.
+Nothing showed up damaged from shipping, which was the other thing I was worried about. Just a lot of dragging, pad removal, cable routing, and wondering if we had it facing the right way.
+
+## Assembly
+
+Reassembly took longer than the delivery. Pads back on, marquee seated, power and IO hooked up to the 573. I'd taken photos of the cable routing before anything got disconnected. That saved some guessing.
+
+![Fully assembled in the garage](4-assembled.jpg)
+
+I have a toy DDR cabinet on a shelf in my entertainment unit. Same general shape, very different scale. Still kind of in shock that I actually owned the real thing.
+
+![Toy DDR cabinet model](6-toy-model.jpg)
+
+Truck arrival to first boot was maybe three or four hours. Felt longer.
+
+::: {.callout-note .video-callout icon="false"}
+
+## First boot
+
+{{< video 5-machine-running-video.MOV >}}
+
+:::
+
+Attract mode came up. Pads registered. CRT took a minute to warm up. I played a few songs on **DDRMAX 2** and called it a night.
+
+Found out later it was a Korean cabinet (KCAB). Something you're probably supposed to confirm before you buy. Same as the basement door, honestly. I'd figure out the details later. The hard part was finding the machine. These cabs are 25+ years old at this point and rare. Everything else felt secondary.
+
+The rest of this [series](../) is what happened after: upgrades, maintenance, and figuring out how to actually own one of these.
 
 ::: {.series-nav}
 
@@ -31,7 +66,7 @@ I left the original mix on the machine and played a few songs to confirm the cab
 :::
 
 ::: {.series-next}
-[Next: Software Upgrades](../software-upgrades/)
+[Next: Vol 2: Software Upgrades](../software-upgrades/)
 :::
 
 [All personal notes](../)

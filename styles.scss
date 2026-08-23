@@ -49,7 +49,7 @@ $container-max-widths: (
 
 // Quarto page grid (defaults: body 800px, margin 250px)
 $grid-body-width: 1760px;
-$grid-margin-width: 220px;
+$grid-margin-width: 280px;
 $grid-sidebar-width: 250px;
 $grid-column-gutter-width: 1.5rem;
 
@@ -996,12 +996,134 @@ body:has(#about) .page-columns {
   margin-inline: auto;
 }
 
+.page-layout-article .page-columns.toc-left .column-margin {
+  grid-column: body-end-outset / page-end !important;
+}
+
+.page-layout-article .column-margin {
+  grid-column: body-end-outset / page-end !important;
+  padding-left: 1rem;
+  min-width: 0;
+}
+
+.page-layout-article .column-margin h2 {
+  font-size: 0.95rem;
+  margin-top: 0;
+}
+
+.page-layout-article .column-margin p {
+  font-size: 0.825rem;
+  line-height: 1.55;
+}
+
+.page-layout-article .column-margin ul {
+  margin-bottom: 0;
+  padding-left: 1.1rem;
+}
+
+.page-layout-article .column-margin li {
+  font-size: 0.825rem;
+  line-height: 1.55;
+  margin-bottom: 0.65rem;
+}
+
+.page-layout-article .column-margin li:last-child {
+  margin-bottom: 0;
+}
+
 .page-layout-article #quarto-document-content img,
 .page-layout-article #quarto-document-content video {
   max-width: 100%;
   height: auto;
   border-radius: 6px;
   border: 1px solid var(--line);
+}
+
+.page-layout-article #quarto-document-content .video-callout {
+  margin: 1.75rem 0 2rem;
+  padding: 1.25rem 1.35rem 1.1rem;
+  background: var(--accent-dim);
+  border: 1px solid var(--line);
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+  box-shadow: 0 1px 3px rgba(17, 19, 24, 0.06);
+}
+
+.page-layout-article #quarto-document-content .cell:has(.mermaid-js),
+.page-layout-article #quarto-document-content .cell:has(pre.mermaid) {
+  margin: 1.5rem 0 0.75rem;
+}
+
+.page-layout-article #quarto-document-content .cell:has(.mermaid-js) .cell-output-display,
+.page-layout-article #quarto-document-content .cell:has(pre.mermaid) .cell-output-display {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 1rem 0.75rem 0.5rem;
+}
+
+.page-layout-article #quarto-document-content svg.mermaid-js {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  background: var(--surface);
+}
+
+.page-layout-article #quarto-document-content svg.mermaid-js .node rect,
+.page-layout-article #quarto-document-content svg.mermaid-js .node polygon,
+.page-layout-article #quarto-document-content svg.mermaid-js .node circle,
+.page-layout-article #quarto-document-content svg.mermaid-js .node ellipse,
+.page-layout-article #quarto-document-content svg.mermaid-js .node path {
+  fill: var(--accent-dim) !important;
+  stroke: var(--accent) !important;
+}
+
+.page-layout-article #quarto-document-content svg.mermaid-js .cluster rect {
+  fill: var(--bg) !important;
+  stroke: var(--line) !important;
+}
+
+.page-layout-article #quarto-document-content svg.mermaid-js .edgePath path,
+.page-layout-article #quarto-document-content svg.mermaid-js .flowchart-link {
+  stroke: var(--muted) !important;
+}
+
+.page-layout-article #quarto-document-content svg.mermaid-js .edgeLabel,
+.page-layout-article #quarto-document-content svg.mermaid-js .label text,
+.page-layout-article #quarto-document-content svg.mermaid-js .nodeLabel {
+  color: var(--ink) !important;
+  fill: var(--ink) !important;
+}
+
+.page-layout-article #quarto-document-content .video-callout .callout-header {
+  margin-bottom: 0.85rem;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+
+.page-layout-article #quarto-document-content .video-callout .callout-title-container {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.page-layout-article #quarto-document-content .video-callout .callout-title-container::before {
+  content: "🎥 ";
+}
+
+.page-layout-article #quarto-document-content .video-callout .callout-body {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.page-layout-article #quarto-document-content .video-callout video {
+  display: block;
+  width: 100%;
+  margin: 0;
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: #000;
 }
 
 .page-layout-article #quarto-document-content .figure,
