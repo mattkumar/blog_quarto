@@ -9,10 +9,12 @@ project:
     - projects/*/index.qmd
     - talks/*/index.qmd
     - publications/*/index.qmd
+    - personal/*/index.qmd
     - posts/index.qmd
     - projects/index.qmd
     - talks/index.qmd
     - publications/index.qmd
+    - personal/index.qmd
 
 website:
   title: Matthew Kumar
@@ -33,6 +35,8 @@ website:
         href: talks/index.qmd
       - text: Publications
         href: publications/index.qmd
+      - text: Personal
+        href: personal/index.qmd
   page-footer:
     left: "© 2026 Matthew Kumar"
     right: "Built with Quarto"
@@ -51,13 +55,35 @@ format:
     email-obfuscation: javascript
     grid:
       body-width: 1760px
-      margin-width: 220px
+      margin-width: 280px
       sidebar-width: 250px
       gutter-width: 1.5rem
     include-in-header:
       - assets/includes/in-header.html
     include-after-body:
       - assets/includes/after-body.html
+    mermaid:
+      theme: neutral
+      themeVariables:
+        background: "#ffffff"
+        primaryColor: "#eff6ff"
+        primaryTextColor: "#111318"
+        primaryBorderColor: "#2563eb"
+        secondaryColor: "#f8f9fb"
+        secondaryTextColor: "#3d4450"
+        secondaryBorderColor: "#e2e5ea"
+        tertiaryColor: "#ffffff"
+        tertiaryTextColor: "#111318"
+        tertiaryBorderColor: "#e2e5ea"
+        lineColor: "#6b7280"
+        textColor: "#111318"
+        mainBkg: "#ffffff"
+        nodeBorder: "#2563eb"
+        clusterBkg: "#f8f9fb"
+        clusterBorder: "#e2e5ea"
+        titleColor: "#111318"
+        edgeLabelBackground: "#ffffff"
+        nodeTextColor: "#111318"
 
 execute:
   freeze: auto

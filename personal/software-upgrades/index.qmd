@@ -1,0 +1,112 @@
+---
+title: 'Vol 2: Software Upgrades'
+date: '2022-03-04'
+description: Switching DDR mixes, from burning discs through installation.
+categories: [DDR]
+image: 7-AA-cartoon-heroes-on-extreme.jpg
+---
+
+::: {.column-margin}
+## What I bought
+
+- [External CD DVD Drive, 0.5″ Ultra Slim USB 3.0 Type-C](https://www.amazon.ca/External-Optical-Portable-Recorder-Desktop/dp/B0F47M2Y6M)
+- [Verbatim DVD-R 4.7GB 16x, 10-pack spindle](https://www.amazon.ca/VERBATIM-10-Pack-Spindle-Silver-43729/dp/B004H4W41I)
+- [Verbatim CD-R 700MB 52x, branded surface, 50-pack spindle](https://www.amazon.ca/CD-R-700MB-52X-Branded-Surface/dp/B00029U1DK)
+:::
+
+The cab came with **DDRMAX 2** on it. Fine for a while, but I wanted **DDR Extreme**. That's the mix I actually played in arcades.
+
+I'd never swapped software on a System 573 before. Took some reading to figure out what I needed, where to get ISOs, and how the install works on the hardware. Also learned pretty quickly that nothing I owned could burn a CD anymore.
+
+## Burning the discs
+
+No optical drive on any machine in the house. PCs just don't ship with them now.
+
+So I picked up a USB CD/DVD drive and a spindle of blank discs. **DDR Extreme** needs two for this install: an `IN` disc and a `GM` disc. I burned a third mix while the drive was out anyway.
+
+![Burning the DDR Extreme install ISO to a CD-R](1-burning-cds.jpg)
+
+![Hand-labeled Extreme discs: IN, GM, and a Pro Clarity 2 extra](2-burnt-extreme.jpg)
+
+## Installing Extreme
+
+First time I opened the cabinet for this, I mostly just stared at wires. The 573, the optical drive, cables everywhere, and nothing labeled in a way that helps you.
+
+The eject button didn't work at first. Drive was sticky. Paper clip in the emergency eject hole sorted that out.
+
+Got the tray open, dropped in the first Extreme disc.
+
+![Extreme Disc 1 sitting in the 573's optical drive](3-inserting-cdr-in-machine.jpg)
+
+Install process, once you know it:
+
+1. Turn the machine off.
+2. Flip **dip switch 4** on (shoutout to reddit and the facebook groups for this one).
+3. Put in the install disc.
+4. Turn it back on.
+
+Installer boots and writes to the 573's flash. Takes a bit. When it's done, power off, flip dip switch 4 back, reboot.
+
+![Extreme installer writing to flashrom on the CRT](4-installing-extreme.jpg)
+
+Game loaded.
+
+::: {.callout-note .video-callout icon="false"}
+
+## Extreme installation and first boot
+
+{{< video 6-extreme-install-and-running-video.MOV >}}
+
+:::
+
+Attract mode came up, song select worked, pads still registered. Good enough for me.
+
+## Unlock codes
+
+Install gets you the base game. Operator unlock codes get you the rest of the song list.
+
+The codes for these mixes are still floating around online if you look. Found the one for Extreme, entered it on the SECRET / INPUT PASSWORD screen, and that opened everything up.
+
+![Entering the operator unlock password on Extreme](5-unlock-code.jpg)
+
+Cartoon Heroes (Speedy Mix). AA.
+
+![AA on Cartoon Heroes (Speedy Mix) after the unlock](7-AA-cartoon-heroes-on-extreme.jpg)
+
+## Superdisc
+
+Didn't love the idea of burning a fresh CD every time I wanted to try another mix.
+
+That's where the **superdisc** helps. One DVD with a bunch of compatible mixes on it. Boot into the installer, pick one, install. Same dip switch 4 routine.
+
+![Superdisc installer menu](8-superdisc-dvd-installation.jpg)
+
+Ran **5th Mix** after that to confirm Extreme wasn't a one-off. It wasn't.
+
+::: {.callout-note .video-callout icon="false"}
+
+## DDR 5th Mix installed and running
+
+{{< video 9-ddr-5th-installed-and-running-video.mp4 >}}
+
+:::
+
+Swapped to **DDRMAX** next since the superdisc makes that easy.
+
+![DDRMAX up and running after a superdisc install](10-ddr-max.jpg)
+
+This setup can run mixes 1 through 8. I don't plan to burn individual discs for all of them. For now I've got Extreme, 5th, and MAX working, and **DDR 3rd Mix Korea 2** is sitting on the superdisc if I ever get curious.
+
+::: {.series-nav}
+
+::: {.series-prev}
+[Previous: Vol 1: I bought a DDR machine](../ddr-machine/)
+:::
+
+::: {.series-next}
+[Next: Vol 3: Display Upgrades](../display-upgrades/)
+:::
+
+[All personal notes](../)
+
+:::

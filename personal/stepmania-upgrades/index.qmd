@@ -1,0 +1,119 @@
+---
+title: 'Vol 5: Stepmania Upgrades'
+date: '2025-11-22'
+description: Snekboard, a mini PC, and running StepMania on the cab without killing the original hardware.
+categories: [DDR]
+image: 8-running-beware-stepmania.jpg
+execute:
+  eval: true
+---
+
+::: {.column-margin}
+## What I bought
+
+- [Snekboard (Ice Dragon)](https://icedragon.io/snek/)
+- [Beelink SER5 mini PC](https://www.amazon.ca/dp/B0FHQ3G8KG)
+- [EASYTONE mini wireless keyboard with touchpad](https://www.amazon.ca/dp/B07FNJT7ZK)
+:::
+
+Hardware mods were mostly done. LCD, pads, the cab playing well. Next idea I kept seeing: swap the 573 for a PC running StepMania.
+
+The **Snekboard** makes that possible without cutting harnesses. Pad IO and lights plug into it like they did on the 573. USB-C goes to the PC. Audio runs from the cab receiver into the mini PC's headphone jack. Reversible in a few minutes.
+
+```{mermaid}
+flowchart LR
+  subgraph cab["DDR cabinet"]
+    pads["Pads and panel buttons"]
+    lights["Cabinet lights"]
+    amp["Cab audio receiver"]
+  end
+
+  subgraph bridge["Snekboard"]
+    io["Pad IO and lights"]
+  end
+
+  subgraph pc["Mini PC"]
+    sm["StepMania"]
+    audio["3.5mm audio in"]
+  end
+
+  subgraph shelf["On the shelf optional"]
+    konami["System 573"]
+  end
+
+  pads --> io
+  lights --> io
+  io -->|USB-C| sm
+  amp -->|RCA red white| audio
+
+  io -.->|same harnesses| konami
+```
+
+*Signal path for the StepMania swap.*
+
+![Snekboard, mini PC, and keyboard laid out](1-parts.jpg)
+
+## Ordering parts
+
+Snekboards are hard to find. When [Ice Dragon](https://icedragon.io/snek/) had stock, I ordered one to stash for later. Lasted about a week before I wanted to install it.
+
+My brother-in-law helped spec a mini PC and plan the layout so the cab wouldn't become a PC tower with a marquee.
+
+![573 still in the cab with the LCD attached](2-573-with-lcd.jpg)
+
+![Inputs on the 573 before disconnecting anything](3-inputs-on-573.jpg)
+
+The Beelink is probably overkill for StepMania, but it's small, fits where the 573 lived, and leaves room for other uses. The 573 still works and sits on the shelf. After the CRT died, this felt like the next aging part worth planning around.
+
+## Wiring it up
+
+We photographed every 573 connection first, then followed Ice Dragon's guide. Same harnesses, just a different brain.
+
+![JAMMA inputs mapped to the Snekboard](4-jamma-mapped-to-snek.jpg)
+
+![All inputs mapped and connected](5-all-inputs-mapped.jpg)
+
+![Mini PC powered on in the cabinet](6-mini-pc-working.jpg)
+
+![Snekboard running to the PC over USB-C](7-snek-connected-to-pc.jpg)
+
+I'm running **BeWare's Extreme** mod, which is about as close to arcade-perfect DDR Extreme as I've seen at home. Getting the cabinet lights working took an extra step, covered in Ice Dragon's docs. Pads registered as USB right away. Mapping arrows and buttons in StepMania took some trial and error.
+
+![Running BeWare StepMania on the cab](8-running-beware-stepmania.jpg)
+
+::: {.callout-note .video-callout icon="false"}
+
+## BeWare StepMania on the cabinet
+
+{{< video 9-beware-stepmania.MOV >}}
+
+:::
+
+![Pads and cabinet lights confirmed working](10-pads-and-lights-working.jpg)
+
+## What you can do with it
+
+LCD, mini PC, pads as a USB controller: we had to try **Counter-Strike** and **Fortnite** on a DDR cab. Ridiculous. Worth it.
+
+![Running other games on the DDR cabinet](11-running-other-games.jpg)
+
+The real win is StepMania. Any mix, plus customs that look at home on the cab with BeWare.
+
+![Custom songs in BeWare](12-custom-songs.jpg)
+
+![More custom charts with custom backgrounds](13-more-custom-songs.jpg)
+
+The whole thing feels next gen now: LCD, mini PC, custom software. Still plays like an arcade machine because it's still *this* cabinet. That's how it gets used now.
+
+::: {.series-nav}
+
+::: {.series-prev}
+[Previous: Vol 4: Pad Upgrades](../pad-upgrades/)
+:::
+
+::: {.series-next}
+:::
+
+[All personal notes](../)
+
+:::
