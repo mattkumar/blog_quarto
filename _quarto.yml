@@ -9,10 +9,12 @@ project:
     - projects/*/index.qmd
     - talks/*/index.qmd
     - publications/*/index.qmd
+    - personal/*/index.qmd
     - posts/index.qmd
     - projects/index.qmd
     - talks/index.qmd
     - publications/index.qmd
+    - personal/index.qmd
 
 website:
   title: Matthew Kumar
@@ -29,6 +31,8 @@ website:
         href: projects/index.qmd
       - text: Blog
         href: posts/index.qmd
+      - text: Personal
+        href: personal/index.qmd
       - text: Talks
         href: talks/index.qmd
       - text: Publications

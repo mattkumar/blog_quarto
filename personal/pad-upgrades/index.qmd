@@ -1,0 +1,40 @@
+---
+title: Pad Upgrades
+date: '2024-09-07'
+description: Installing pad modifications for a better feel.
+categories: [DDR]
+---
+
+Software and a new panel only get you so far if the pads feel like plywood. This one is about modifying the stage so doubles and fast charts are less of a fight with the hardware.
+
+## Why modify the pads
+
+Stock arcade pads wear in a very specific way. Treads get slick, sensors get mushy, and the corners start to disagree with each other. I was compensating with extra stomp instead of reading the chart. That is a bad long-term plan for both ankles and scores.
+
+The goal was a firmer, more even actuation — closer to what people describe as a "modded" pad — without turning the stage into a custom build I could never service again.
+
+## The modifications
+
+I pulled the pads, documented the sensor layout, and worked through the usual suspects: replacement sensors or foam, tighter panel fit, and surfaces that do not feel like ice after ten minutes. None of this is glamorous. It is screws, diagrams, and testing one panel at a time so I could tell which change actually helped.
+
+I kept the original parts bagged and labeled. If a mod felt worse, I wanted the factory setup back in an evening, not a weekend of guessing.
+
+## A better feel
+
+The first session after reassembly was the whole point. Panels that click when you mean them to. Fewer ghost steps. Less skating on the treads. It is still an arcade pad, not a home dance mat, which is what I wanted.
+
+With the stage in a good place, the remaining bottleneck was obvious: the 573 itself. Mixes, boot times, and the optical-drive ritual were all still living in 2001. That is the last note in this series.
+
+::: {.series-nav}
+
+::: {.series-prev}
+[Previous: Display Upgrades](../display-upgrades/)
+:::
+
+::: {.series-next}
+[Next: Stepmania Upgrades](../stepmania-upgrades/)
+:::
+
+[All personal notes](../)
+
+:::

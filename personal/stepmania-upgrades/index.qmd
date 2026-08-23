@@ -1,0 +1,39 @@
+---
+title: Stepmania Upgrades
+date: '2025-11-22'
+description: Swapping the 573 Unit for a Mini PC!
+categories: [DDR]
+---
+
+The cabinet looked like a DDR machine and played like one. The 573 still made it *behave* like a 573: discs, dongles, and a boot process with opinions. This is the swap — Mini PC in, Konami board on the shelf, StepMania (and friends) as the new software stack.
+
+## Why retire the 573
+
+The System 573 is the authentic brain, and I am glad I ran it for a few years. It is also a single point of failure with shrinking parts support. Optical drives die. Capacitors age. Mixes I wanted were easier to run as a PC game than as another burned DVD.
+
+I photographed every harness, labeled every connector, and pulled the 573 as a complete unit. If I ever want original hardware back in the cab, it should be a reconnection job, not a forensic reconstruction.
+
+## The Mini PC
+
+The replacement is a small x86 box that can live in the cabinet without a full ATX tower. Low power, HDMI (or a board that matches the LCD), and enough USB for pads, buttons, and a keyboard I can hide when guests are over. I mounted it where the 573 used to sit so the cab still opens like an arcade machine, not like a PC case wearing a marquee.
+
+Power and IO were the careful part. The pads still need to read as a dance stage, the cabinet buttons still need to land on Start/Select/menu, and the LCD should see a clean signal. I used a pad IO path that other StepMania cabinet builds already trusted instead of inventing a new one.
+
+## StepMania on the cab
+
+StepMania (and related builds people actually use for pad play) is the software side: themes that look at home on an arcade monitor, a song library that is not limited to one mix, and input calibrated so a 16th on the pad feels like a 16th on screen. I spent a night on offset, another on the menu layout, and then left it alone.
+
+The machine is still the same wood, pads, and marquee from [delivery day](../ddr-machine/). The computer inside is not. That was the point of this series: keep the cabinet, change the parts that were fighting me.
+
+::: {.series-nav}
+
+::: {.series-prev}
+[Previous: Pad Upgrades](../pad-upgrades/)
+:::
+
+::: {.series-next}
+:::
+
+[All personal notes](../)
+
+:::

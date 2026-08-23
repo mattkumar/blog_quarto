@@ -1,0 +1,40 @@
+---
+title: Display Upgrades
+date: '2023-05-18'
+description: The CRT died. Replacing it with a custom LCD.
+categories: [DDR]
+---
+
+The CRT did not fade out politely. One evening it was there. The next, the cab was a very loud speaker with no picture. This is the forced upgrade: pulling the tube and fitting a custom LCD.
+
+## The CRT died
+
+I did the usual checks first — cables, fuses, "did someone bump the degauss." The chassis was done. CRTs in these cabs are heavy, high voltage, and increasingly unobtainable. I was not going to hunt a matching replacement tube for a machine I already knew I wanted to keep playing.
+
+The removal was the scary part. Tube out, chassis out, a lot of foam and wood revealed behind the bezel. I measured twice before I ordered anything. The opening is not a consumer 16:9 rectangle, and "close enough" is how you get a picture that looks like it was installed by accident.
+
+## A custom LCD
+
+The replacement was an LCD sized for the bezel, with a driver board that could take the signal I actually had. Mounting was wood, brackets, and patience. I wanted the screen flush with the original bezel line, not floating in a black plastic frame that screamed "PC monitor in an arcade hole."
+
+I also had to think about lag. For DDR, a pretty panel that adds frames is worse than a slightly imperfect panel that feels immediate. I prioritized a board and panel combination that other cabinet people had already used for rhythm games, then tuned the scaler so the image filled the playfield without stretching the notes into mush.
+
+## Back in the cab
+
+Once the panel was in, I spent more time on the bezel and dust than on the electronics. Attract mode came back. The colors were different — LCDs always are after a tube — but the notes were readable and the cab no longer weighed as much as a small car.
+
+The 573 was still the brain. The window it looked through was new. Pads were the next thing that felt worse than the picture.
+
+::: {.series-nav}
+
+::: {.series-prev}
+[Previous: Software Upgrades](../software-upgrades/)
+:::
+
+::: {.series-next}
+[Next: Pad Upgrades](../pad-upgrades/)
+:::
+
+[All personal notes](../)
+
+:::

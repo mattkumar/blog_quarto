@@ -1,0 +1,33 @@
+---
+pagetitle: "Personal · Matthew Kumar"
+listing:
+  id: personal-list
+  contents: "*/index.qmd"
+  type: custom
+  template: ../ejs/compact.ejs
+  sort: "date desc"
+  date-format: "MMM D, YYYY"
+page-layout: full
+toc: false
+format:
+  html:
+    page-layout: full
+    toc: false
+    title-block-style: none
+---
+
+::::: {.home-section}
+:::: {.home-grid}
+
+::: {.section-heading}
+<p class="section-title"><i class="bi bi-joystick"></i> Personal</p>
+<p class="section-kicker">arcade cabinet notes, weekend projects</p>
+:::
+
+:::: {.section-body}
+::: {#personal-list}
+:::
+::::
+
+::::
+:::::

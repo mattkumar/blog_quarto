@@ -996,6 +996,48 @@ body:has(#about) .page-columns {
   margin-inline: auto;
 }
 
+.page-layout-article #quarto-document-content img,
+.page-layout-article #quarto-document-content video {
+  max-width: 100%;
+  height: auto;
+  border-radius: 6px;
+  border: 1px solid var(--line);
+}
+
+.page-layout-article #quarto-document-content .figure,
+.page-layout-article #quarto-document-content figure {
+  margin: 1.25rem 0 1.5rem;
+}
+
+.series-nav {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.75rem 1rem;
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.9rem;
+}
+
+.series-nav .series-next {
+  text-align: right;
+}
+
+.series-nav > p {
+  grid-column: 1 / -1;
+  margin: 0.35rem 0 0;
+  font-size: 0.85rem;
+}
+
+.series-nav a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.series-nav a:hover {
+  color: var(--accent);
+}
+
 // --- Global ---------------------------------------------------------------
 
 a {

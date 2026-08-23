@@ -1,0 +1,39 @@
+---
+title: I bought a DDR machine
+date: '2021-06-12'
+description: Delivery day, unpacking, assembly and setup.
+categories: [DDR]
+---
+
+A Dance Dance Revolution cabinet showed up in the driveway. This is the start of the [personal series](../) — five notes on getting an arcade machine into the house and then slowly making it mine.
+
+## Delivery day
+
+The cab arrived on a pallet, wrapped like it had survived a few extra moves. Getting it off the truck was the whole event: two people, a furniture dolly, and a very honest conversation about door frames. The 573 hardware and the original monitor were still in the box, which is both the charm and the liability of buying a working machine instead of a pile of parts.
+
+I checked the obvious things before we even wheeled it inside: no cracked marquee, pads that still had some life, and a power cable that wasn't a fire hazard. Everything else could wait until it was upright and plugged in.
+
+## Unpacking
+
+Once it was in the room, I cut the wrap, pulled the foam, and laid the hardware out so I could see what I actually owned. Cabinet, pad assembly, power brick, extra bolts, and a small bag of "you'll need these later" screws. I took photos of cable routing before I disconnected anything. Future me would thank present me for that.
+
+The pads came off so we could get the cab through the last doorway. That turned a one-step move into a three-step move, but it also meant I got a first look at the underside of the stage. Dust, a few tired treads, and nothing that looked immediately broken.
+
+## Assembly and setup
+
+Reassembly was slower than the move. Pads back on, marquee seated, IO cables traced back to the 573, then the first power-on. Attract mode came up. The pads registered. The CRT needed a minute to settle. That was enough for day one.
+
+I left the original mix on the machine and played a few songs to confirm the cabinet was actually a cabinet, not a very large paperweight. The upgrades — software, display, pads, and eventually the 573 itself — are the rest of this series.
+
+::: {.series-nav}
+
+::: {.series-prev}
+:::
+
+::: {.series-next}
+[Next: Software Upgrades](../software-upgrades/)
+:::
+
+[All personal notes](../)
+
+:::
