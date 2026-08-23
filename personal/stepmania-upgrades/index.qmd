@@ -1,6 +1,6 @@
 ---
 title: 'Vol 5: Stepmania Upgrades'
-date: '2026-08-23'
+date: '2026-08-22'
 description: Snekboard, a mini PC, and running StepMania on the cab without killing the original hardware.
 categories: [DDR]
 image: 8-running-beware-stepmania.jpg
