@@ -1,5 +1,5 @@
 ---
-title: 'Vol 7: Tube Modification '
+title: 'Vol 6: Tube Modification '
 date: '2026-11-24'
 description: Installing a new wire harness conduit replacement in time for winter
 categories: [DDR]
