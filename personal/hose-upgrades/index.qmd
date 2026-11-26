@@ -1,5 +1,5 @@
 ---
-title: 'Vol 6: Tube Modification '
+title: 'Vol 6: Winter Ready '
 date: '2026-11-24'
 description: Installing a new wire harness conduit replacement in time for winter
 categories: [DDR]
@@ -13,6 +13,7 @@ execute:
 
 - [Electriduct 2" Polypropylene Non-Slit Wire Loom Corrugated Flexible Conduit](https://www.amazon.ca/dp/B0CGFCQ16M)
 - [Hose Clamp, 10 Pieces 2.5 Inch Stainless Steel](https://www.amazon.ca/dp/B09SW7ZQPZ)
+- [Leg Leveler for Arcade Pad](https://ddrpad.com/en-ca/collections/arcade-parts/products/arcade-pad-and-cabinet-leg-leveler)
 :::
 
 The wire conduit connecting the dance pad controllers to the cabinet was already pretty chewed up when the machine arrived. At the time, I figured it was mostly cosmetic and didn't pose much of a risk.
@@ -64,9 +65,15 @@ Here is a look at the finished job
 
 The new conduit gives the wiring a much better layer of protection against whatever winter throws at it. It also makes for a tighter, neater setup, leaving a little more room for my wife to park in the garage.
 
-A relatively inexpensive fix, and one less thing to worry about.
+## Leveling the pads
 
-Winter ready!
+I also used this opportunity to level the dance pads. The second player side has been a bit wobbly for a while now. I noted that the leg leveler was broken and had ordered a replacement around the time I got the previous pad mods, but hadn't installed it yet. This was also relatively straight forward. 
+
+I can now *safely* play doubles and hopefully friends can have a better experience when we play versus mode.
+
+![Leg leveler replacement](5.jpeg)
+
+That's it for now. I think we're Winter ready!
 
 ::::: series-nav
 ::: series-prev
