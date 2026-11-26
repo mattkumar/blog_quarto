@@ -4,7 +4,7 @@
     "href": "personal/index.html",
     "title": "Matthew Kumar",
     "section": "",
-    "text": "Personal\n\n\narcade cabinet notes, weekend projects\n\n\n\n\n\n\n\n\n\n\n\nVol 1: I bought a DDR machine\n\n\nFinding a cabinet, shipping it across provinces, and getting it running in the garage.\n\n\n Aug 18, 2026· DDR\n\n\n\n\n\n\n\n\n\nVol 2: Software Upgrades\n\n\nSwitching DDR mixes, from burning discs through installation.\n\n\n Aug 19, 2026· DDR\n\n\n\n\n\n\n\n\n\nVol 3: Display Upgrades\n\n\nThe CRT died. Swapping in an Arcooda LCD and learning how scary tube removal is.\n\n\n Aug 20, 2026· DDR\n\n\n\n\n\n\n\n\n\nVol 4: Pad Upgrades\n\n\nFirming up loose panels, cleaning decades of pad grime, and installing ddrpad mods.\n\n\n Aug 21, 2026· DDR\n\n\n\n\n\n\n\n\n\nVol 5: Stepmania Upgrades\n\n\nSnekboard, a mini PC, and running StepMania on the cab without killing the original hardware.\n\n\n Aug 22, 2026· DDR\n\n\n\n\n\n\n\n\n\nVol 6: Tube Modification\n\n\nInstalling a new wire harness conduit replacement in time for winter\n\n\n Nov 24, 2026· DDR\n\n\n\n\nNo matching items"
+    "text": "Personal\n\n\narcade cabinet notes, weekend projects\n\n\n\n\n\n\n\n\n\n\n\nVol 1: I bought a DDR machine\n\n\nFinding a cabinet, shipping it across provinces, and getting it running in the garage.\n\n\n Aug 18, 2026· DDR\n\n\n\n\n\n\n\n\n\nVol 2: Software Upgrades\n\n\nSwitching DDR mixes, from burning discs through installation.\n\n\n Aug 19, 2026· DDR\n\n\n\n\n\n\n\n\n\nVol 3: Display Upgrades\n\n\nThe CRT died. Swapping in an Arcooda LCD and learning how scary tube removal is.\n\n\n Aug 20, 2026· DDR\n\n\n\n\n\n\n\n\n\nVol 4: Pad Upgrades\n\n\nFirming up loose panels, cleaning decades of pad grime, and installing ddrpad mods.\n\n\n Aug 21, 2026· DDR\n\n\n\n\n\n\n\n\n\nVol 5: Stepmania Upgrades\n\n\nSnekboard, a mini PC, and running StepMania on the cab without killing the original hardware.\n\n\n Aug 22, 2026· DDR\n\n\n\n\n\n\n\n\n\nVol 6: Winter Ready\n\n\nInstalling a new wire harness conduit replacement in time for winter\n\n\n Nov 24, 2026· DDR\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks/index.html",
@@ -65,30 +65,37 @@
   {
     "objectID": "personal/hose-upgrades/index.html",
     "href": "personal/hose-upgrades/index.html",
-    "title": "Vol 6: Tube Modification",
+    "title": "Vol 6: Winter Ready",
     "section": "",
-    "text": "Electriduct 2” Polypropylene Non-Slit Wire Loom Corrugated Flexible Conduit\nHose Clamp, 10 Pieces 2.5 Inch Stainless Steel\nThe wire conduit connecting the dance pad controllers to the cabinet was already pretty chewed up when the machine arrived. At the time, I figured it was mostly cosmetic and didn’t pose much of a risk.\nThat was before winter.\nWith winter approaching, we’ll be parking our car in the garage again. I didn’t have the machine last winter, so this got me thinking about the exposed wiring. Snow, slush, and whatever else gets tracked in on the tires can quickly melt into a mess. The last thing I want is for moisture to find its way into the wiring and cause problems.\nTime for a little preventative maintenance."
+    "text": "Electriduct 2” Polypropylene Non-Slit Wire Loom Corrugated Flexible Conduit\nHose Clamp, 10 Pieces 2.5 Inch Stainless Steel\nLeg Leveler for Arcade Pad\nThe wire conduit connecting the dance pad controllers to the cabinet was already pretty chewed up when the machine arrived. At the time, I figured it was mostly cosmetic and didn’t pose much of a risk.\nThat was before winter.\nWith winter approaching, we’ll be parking our car in the garage again. I didn’t have the machine last winter, so this got me thinking about the exposed wiring. Snow, slush, and whatever else gets tracked in on the tires can quickly melt into a mess. The last thing I want is for moisture to find its way into the wiring and cause problems.\nTime for a little preventative maintenance."
   },
   {
     "objectID": "personal/hose-upgrades/index.html#what-i-bought",
     "href": "personal/hose-upgrades/index.html#what-i-bought",
-    "title": "Vol 6: Tube Modification",
+    "title": "Vol 6: Winter Ready",
     "section": "",
-    "text": "Electriduct 2” Polypropylene Non-Slit Wire Loom Corrugated Flexible Conduit\nHose Clamp, 10 Pieces 2.5 Inch Stainless Steel"
+    "text": "Electriduct 2” Polypropylene Non-Slit Wire Loom Corrugated Flexible Conduit\nHose Clamp, 10 Pieces 2.5 Inch Stainless Steel\nLeg Leveler for Arcade Pad"
   },
   {
     "objectID": "personal/hose-upgrades/index.html#ordering-parts",
     "href": "personal/hose-upgrades/index.html#ordering-parts",
-    "title": "Vol 6: Tube Modification",
+    "title": "Vol 6: Winter Ready",
     "section": "Ordering parts",
     "text": "Ordering parts\nI noticed that ddrpad.com had both a replacement tube (complete with connector boxes) and a wire harness in stock. Unfortunately, the whole thing would have cost me around $300 CAD, before import fees. I was convinced this could be a DIY job.\nI spent an unholy amount of time trying to figure out what to search for. “Black tube hose” wasn’t getting me very far, but after plenty of trial and error, I eventually landed on a few useful terms:\n\nDryer hose\nTube sleeve protector\nWire harness protector\nWire conduit\n\nConduit turned out to be the right term for what I needed. I’m sure there are other names and alternatives that would work just as well, but this got me in the right direction.\nA friend I spoke to over dinner also suggested hose clamps, which seemed like the simplest way to secure the new tubing to the connector boxes.\n\n\n\nNew parts"
   },
   {
     "objectID": "personal/hose-upgrades/index.html#wiring-it-up",
     "href": "personal/hose-upgrades/index.html#wiring-it-up",
-    "title": "Vol 6: Tube Modification",
+    "title": "Vol 6: Winter Ready",
     "section": "Wiring it up",
-    "text": "Wiring it up\nThe installation itself wasn’t particularly difficult, especially with a few tools and the help of my neighbor.\nWe started by unscrewing the connector boxes from both the dance pad and the cabinet. Next came the Molex connectors, which are a bit of a pain to remove. The trick here is to be careful not to snap anything or accidentally pull a wire loose.\nOnce everything was disconnected, we used a box cutter to carefully remove the old conduit. I took a little time to tidy up and re-bundle the wires before feeding them through the new tubing.\nFrom there, we clamped both ends, reattached the connector boxes, and screwed everything back into place.\nI won’t go into a detailed step-by-step guide because, honestly, this is one of those jobs where the pictures pretty much tell the story.\n\n\n\nNew parts\n\n\nHere is a look at the finished job\n\n\n\nFinished\n\n\nThe new conduit gives the wiring a much better layer of protection against whatever winter throws at it. It also makes for a tighter, neater setup, leaving a little more room for my wife to park in the garage.\nA relatively inexpensive fix, and one less thing to worry about.\nWinter ready!\n\n\nPrevious: Vol 5: Stepmania Upgrades\n\n\n\n\nAll personal notes"
+    "text": "Wiring it up\nThe installation itself wasn’t particularly difficult, especially with a few tools and the help of my neighbor.\nWe started by unscrewing the connector boxes from both the dance pad and the cabinet. Next came the Molex connectors, which are a bit of a pain to remove. The trick here is to be careful not to snap anything or accidentally pull a wire loose.\nOnce everything was disconnected, we used a box cutter to carefully remove the old conduit. I took a little time to tidy up and re-bundle the wires before feeding them through the new tubing.\nFrom there, we clamped both ends, reattached the connector boxes, and screwed everything back into place.\nI won’t go into a detailed step-by-step guide because, honestly, this is one of those jobs where the pictures pretty much tell the story.\n\n\n\nNew parts\n\n\nHere is a look at the finished job\n\n\n\nFinished\n\n\nThe new conduit gives the wiring a much better layer of protection against whatever winter throws at it. It also makes for a tighter, neater setup, leaving a little more room for my wife to park in the garage."
+  },
+  {
+    "objectID": "personal/hose-upgrades/index.html#leveling-the-pads",
+    "href": "personal/hose-upgrades/index.html#leveling-the-pads",
+    "title": "Vol 6: Winter Ready",
+    "section": "Leveling the pads",
+    "text": "Leveling the pads\nI also used this opportunity to level the dance pads. The second player side has been a bit wobbly for a while now. I noted that the leg leveler was broken and had ordered a replacement around the time I got the previous pad mods, but hadn’t installed it yet. This was also relatively straight forward.\nI can now safely play doubles and hopefully friends can have a better experience when we play versus mode.\n\n\n\nLeg leveler replacement\n\n\nThat’s it for now. I think we’re Winter ready!\n\n\nPrevious: Vol 5: Stepmania Upgrades\n\n\n\n\nAll personal notes"
   },
   {
     "objectID": "personal/ddr-machine/index.html",
